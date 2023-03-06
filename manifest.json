@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://github.com/KevinRog/IIIFProject/blob/main/manifest.json",
+  "@id": "https://example.com/iiif/manifest.json",
   "@type": "sc:Manifest",
   "related" : "https://gallica.bnf.fr/ark:/12148/btv1b525044884",
   "label": "D-LEu MS 1084",
@@ -46,7 +46,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f1",
+          "@id": "https://example.com/iiif/canvas/c0.json",
           "@type": "sc:Canvas",
           "label": "Canvas 0",
           "height": 3404,
@@ -64,7 +64,7 @@
                   "service": {
                     "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
                     "@context" : "http://iiif.io/api/image/2/context.json",
-                    "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1"
+                    "@id" : "http://example.org/iiif/image/f1r.c"
                   }
                 },
                 "item": [
