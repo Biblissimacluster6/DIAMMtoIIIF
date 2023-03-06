@@ -4,7 +4,8 @@
   "@type": "sc:Manifest",
   "related" : "https://gallica.bnf.fr/ark:/12148/btv1b525044884",
   "label": "D-LEu MS 1084",
-  "metadata": [ {
+  "metadata": [ 
+    {
       "label": "Metadata source",
       "value": "https://www.diamm.ac.uk/sources/2000/?format=json"
     },
