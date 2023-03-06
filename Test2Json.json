@@ -1,75 +1,59 @@
 {
-  "@id" : "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/Test2Json.json",
-  "label" : "BnF. Département des Manuscrits. Rothschild 2973 (979 a) [I, 5, 13]",
-  "attribution" : "Bibliothèque nationale de France",
-  "license" : "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
-  "logo" : "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
-  "related" : "https://gallica.bnf.fr/ark:/12148/btv1b525044884",
-  "seeAlso" : [ "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b525044884" ],
-  "description" : "Chansonnier cordiforme de Montchenu. RECUEIL de Chansons italiennes et françaises.",
-  "metadata" : [ {
-    "label" : "Repository",
-    "value" : "Bibliothèque nationale de France. Département des Manuscrits. Rothschild 2973 (979 a) [I"
-  }, {
-    "label" : "Digitised by",
-    "value" : "Bibliothèque nationale de France"
-  }, {
-    "label" : "Source Images",
-    "value" : "https://gallica.bnf.fr/ark:/12148/btv1b525044884"
-  }, {
-    "label" : "Metadata Source",
-    "value" : "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b525044884"
-  }, {
-    "label" : "Shelfmark",
-    "value" : "Bibliothèque nationale de France. Département des Manuscrits. Rothschild 2973 (979 a) [I, 5, 13]"
-  }, {
-    "label" : "Title",
-    "value" : "Chansonnier cordiforme de Montchenu. RECUEIL de Chansons italiennes et françaises."
-  }, {
-    "label" : "Date",
-    "value" : "1470-1480"
-  }, {
-    "label" : "Language",
-    "value" : "français"
-  }, {
-    "label" : "Format",
-    "value" : [ {
-      "@value" : "Savoie"
-    }, {
-      "@value" : "2 peintures : la première, au frontispice, représente, au-dessus de Fortune sur sa roue, Cupidon décochant une flèche qui vient transpercer le sein d’une dame au milieu d’un paysage boisé et montagneux. Vêtue à la mode bourguignonne des années 1470, celle-ci porte une robe noire passée par-dessus une jupe rouge brodée d’or et un hennin pointu, également noir et brodé d’or ; la seconde, qui orne le f. 3v, figure, cette fois à l’intérieur d’une pièce, la même dame portant une tenue vestimentaire semblable au bras d’un jeune homme richement vêtu d’une pelisse rouge. Bordures végétales où se nichent une faune naturaliste variée et diverses créatures fantastiques. Ce décor est l'oeuvre d'un enlumineur anonyme de culture française, où l'on décèle cependant quelques traits savoyards (traitement montagneux des paysages, palette froide)"
-    }, {
-      "@value" : "Parchemin. - 72 ff. - 22 x 16 cm. - Reliure velours rouge, tranches dorées"
-    } ]
-  }, {
-    "label" : "Relation",
-    "value" : "Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc37421r"
-  }, {
-    "label" : "Type",
-    "value" : "Manuscrit"
-  } ],
-  "sequences" : [ {
-    "canvases" : [ {
-      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f1",
-      "label" : "plat sup.",
-      "height" : 3404,
-      "width" : 2395,
-      "images" : [ {
-        "motivation" : "sc:painting",
-        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f1",
-        "resource" : {
-          "format" : "image/jpeg",
-          "service" : {
-            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
-            "@context" : "http://iiif.io/api/image/1/context.json",
-            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1"
-          },
-          "height" : 3404,
-          "width" : 2395,
-          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1/full/full/0/native.jpg",
-          "@type" : "dctypes:Image"
-        },
-        "@type" : "oa:Annotation"
-      } ],
-      "thumbnail" : {
-        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b525044884/f1.thumbnail"
-  }}}}
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://0e3fc693-2e93-44e2-bb95-f0f6f4aa88f3",
+	"@type": "sc:Manifest",
+	"label": "[Click to edit label]",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "[Click to edit description]",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://6b861b72-82af-47ae-a0fa-82dd5d9c7814",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://3ebf9bb0-a2e8-46a8-b997-0b81b5ef26a1",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 3404,
+					"width": 2395,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://7bfff21f-2fb6-47a5-a007-55c7621f0383",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+								},
+								"height": 3404,
+								"width": 2395
+							},
+							"on": "http://3ebf9bb0-a2e8-46a8-b997-0b81b5ef26a1"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
