@@ -49,8 +49,8 @@
           "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f1",
           "@type": "sc:Canvas",
           "label": "Canvas 0",
-          "height": 1000,
-          "width": 1000,
+          "height": 3404,
+          "width": 2395,
           "images": [
             {
               "@type": "oa:Annotation",
@@ -62,9 +62,9 @@
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1",
-                    "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
+                    "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                    "@context" : "http://iiif.io/api/image/2/context.json",
+                    "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1"
                   }
                 },
                 "item": [
@@ -79,8 +79,7 @@
                     }
                   }
                 ]
-              },
-              "on": "https://example.com/iiif/canvas/c0.json"
+              }
             }
           ]
         }
