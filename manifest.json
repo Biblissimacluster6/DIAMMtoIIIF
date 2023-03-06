@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://example.com/iiif/manifest.json",
+  "@id": "https://github.com/KevinRog/IIIFProject/blob/main/manifest.json",
   "@type": "sc:Manifest",
   "label": "D-LEu MS 1084",
   "metadata": [
