@@ -46,7 +46,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://example.com/iiif/canvas/c0.json",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f1",
           "@type": "sc:Canvas",
           "label": "Canvas 0",
           "height": 3404,
@@ -64,7 +64,7 @@
                   "service": {
                     "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
                     "@context" : "http://iiif.io/api/image/2/context.json",
-                    "@id" : "http://example.org/iiif/image/f1r.c"
+                    "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1"
                   }
                 },
                 "item": [
@@ -74,7 +74,7 @@
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10/full/full/0/native.jpg",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1",
                       "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2"
                     }
                   }
