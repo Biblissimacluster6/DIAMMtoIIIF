@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://example.com/iiif/manifest.json",
+  "@id": "https://github.com/KevinRog/IIIFProject/edit/main/manifest2.json",
   "@type": "sc:Manifest",
   "label": "F-Pnm Rothschild 2973 (Chansonnier Cordiforme; Chansonnier de Jean de Montchenu)",
   "metadata": [
@@ -41,11 +41,11 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://example.com/iiif/canvas/c0.json",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f10",
           "@type": "sc:Canvas",
           "label": "Canvas 0",
-          "height": 1000,
-          "width": 1000,
+          "height": 3404,
+          "width": 2395,
           "images": [
             {
               "@type": "oa:Annotation",
@@ -53,29 +53,28 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "http://example.org/iiif/image/f1r.c/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10/full/full/0/native.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "http://example.org/iiif/image/f1r.c",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "http://example.org/iiif/image/f1r/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10/full/full/0/native.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "http://example.org/iiif/image/f1r",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
                 ]
-              },
-              "on": "https://example.com/iiif/canvas/c0.json"
+              }
             }
           ]
         }
