@@ -2,27 +2,23 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://example.com/iiif/manifest.json",
   "@type": "sc:Manifest",
-  "label": "D-LEu MS 1084",
+  "label": "F-Pnm Rothschild 2973 (Chansonnier Cordiforme; Chansonnier de Jean de Montchenu)",
   "metadata": [
     {
       "label": "Metadata source",
-      "value": "https://www.diamm.ac.uk/sources/2000/?format=json"
+      "value": "https://www.diamm.ac.uk/sources/2387/?format=json"
     },
     {
       "label": "Shelfmark",
-      "value": "D-LEu MS 1084"
+      "value": "F-Pnm Rothschild 2973 (Chansonnier Cordiforme; Chansonnier de Jean de Montchenu)"
     },
     {
       "label": "Repository",
-      "value": "Universit\u00e4tsbibliothek"
-    },
-    {
-      "label": "Title",
-      "value": "D-LEu MS 1084"
+      "value": "Biblioth\u00e8que nationale de France, D\u00e9partement des Manuscrits"
     },
     {
       "label": "Date",
-      "value": "Third quarter of 15th century"
+      "value": "1470-7"
     },
     {
       "label": "Type",
@@ -30,14 +26,14 @@
     },
     {
       "label": "Surface type",
-      "value": "Paper"
+      "value": "Parchment"
     },
     {
       "label": "Measurements",
-      "value": "309 x 215 mm"
+      "value": "185 x 160 mm"
     }
   ],
-  "description": "Polyphony on ff. 225-231'. Copied by two scribes. Of east central German origin. Bequeathed to Leipzig Universit\u00e4tsbibliothek by Johannes Cleyne of L\u00f6bau in 1490 (inscription on f. 1).",
+  "description": "In shape of a single heart when book is closed and of two joined hearts when book is open. Copied by a single scribe. Copied in Savoy; compiled for Jean de Montchenu, a soldier and priest (later Bishop of Viviers) serving as Vicar-General and Councillor to Jean-Louis de Savoie, Bishop of Geneva. Subsequently owned by 'Pucci,' a Maltese nobleman. Listed in 19th-century library catalogues of Ch\u00e9deau and Baron J\u00e9r\u00f4me Pichon (PicotC). Later acquired by the Paris banker Nathan James Edouard, Baron de Rothschild (1844-81), whose library went to his son Henri; passed to Biblioth\u00e8que Nationale in 1933.",
   "viewingDirection": "left-to-right",
   "viewingHint": "paged",
   "sequences": [
@@ -68,12 +64,12 @@
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10/full/full/0/native.jpg",
+                    "@id": "http://example.org/iiif/image/f1r/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10/full/full/0/native.jpg",
+                      "@id": "http://example.org/iiif/image/f1r",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
