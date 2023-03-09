@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://example.com/iiif/manifest.json",
+  "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/manifest.json",
   "@type": "sc:Manifest",
   "related" : "https://gallica.bnf.fr/ark:/12148/btv1b525044884",
   "label": "D-LEu MS 1084",
