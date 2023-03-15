@@ -44,6 +44,12 @@
           "@id": "https://example.com/iiif/canvas/f0.json",
           "@type": "sc:Canvas",
           "label": "Canvas 0",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -83,6 +89,12 @@
           "@id": "https://example.com/iiif/canvas/f1.json",
           "@type": "sc:Canvas",
           "label": "Canvas 1",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -122,6 +134,12 @@
           "@id": "https://example.com/iiif/canvas/f2.json",
           "@type": "sc:Canvas",
           "label": "Canvas 2",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -161,6 +179,12 @@
           "@id": "https://example.com/iiif/canvas/f3.json",
           "@type": "sc:Canvas",
           "label": "Canvas 3",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -200,6 +224,12 @@
           "@id": "https://example.com/iiif/canvas/f4.json",
           "@type": "sc:Canvas",
           "label": "Canvas 4",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -239,6 +269,12 @@
           "@id": "https://example.com/iiif/canvas/f5.json",
           "@type": "sc:Canvas",
           "label": "Canvas 5",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -278,6 +314,12 @@
           "@id": "https://example.com/iiif/canvas/f6.json",
           "@type": "sc:Canvas",
           "label": "Canvas 6",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -317,6 +359,12 @@
           "@id": "https://example.com/iiif/canvas/f7.json",
           "@type": "sc:Canvas",
           "label": "Canvas 7",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -356,6 +404,12 @@
           "@id": "https://example.com/iiif/canvas/f8.json",
           "@type": "sc:Canvas",
           "label": "Canvas 8",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -395,6 +449,12 @@
           "@id": "https://example.com/iiif/canvas/f9.json",
           "@type": "sc:Canvas",
           "label": "Canvas 9",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -434,6 +494,12 @@
           "@id": "https://example.com/iiif/canvas/f10.json",
           "@type": "sc:Canvas",
           "label": "Canvas 10",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -473,6 +539,12 @@
           "@id": "https://example.com/iiif/canvas/f11.json",
           "@type": "sc:Canvas",
           "label": "Canvas 11",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -512,6 +584,12 @@
           "@id": "https://example.com/iiif/canvas/f12.json",
           "@type": "sc:Canvas",
           "label": "Canvas 12",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -551,6 +629,12 @@
           "@id": "https://example.com/iiif/canvas/f13.json",
           "@type": "sc:Canvas",
           "label": "Canvas 13",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -590,6 +674,12 @@
           "@id": "https://example.com/iiif/canvas/f14.json",
           "@type": "sc:Canvas",
           "label": "Canvas 14",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -629,6 +719,12 @@
           "@id": "https://example.com/iiif/canvas/f15.json",
           "@type": "sc:Canvas",
           "label": "Canvas 15",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -668,6 +764,12 @@
           "@id": "https://example.com/iiif/canvas/f16.json",
           "@type": "sc:Canvas",
           "label": "Canvas 16",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -707,6 +809,12 @@
           "@id": "https://example.com/iiif/canvas/f17.json",
           "@type": "sc:Canvas",
           "label": "Canvas 17",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -746,6 +854,12 @@
           "@id": "https://example.com/iiif/canvas/f18.json",
           "@type": "sc:Canvas",
           "label": "Canvas 18",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -785,6 +899,12 @@
           "@id": "https://example.com/iiif/canvas/f19.json",
           "@type": "sc:Canvas",
           "label": "Canvas 19",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -824,6 +944,12 @@
           "@id": "https://example.com/iiif/canvas/f20.json",
           "@type": "sc:Canvas",
           "label": "Canvas 20",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -863,6 +989,12 @@
           "@id": "https://example.com/iiif/canvas/f21.json",
           "@type": "sc:Canvas",
           "label": "Canvas 21",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -902,6 +1034,12 @@
           "@id": "https://example.com/iiif/canvas/f22.json",
           "@type": "sc:Canvas",
           "label": "Canvas 22",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -941,6 +1079,12 @@
           "@id": "https://example.com/iiif/canvas/f23.json",
           "@type": "sc:Canvas",
           "label": "Canvas 23",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -980,6 +1124,12 @@
           "@id": "https://example.com/iiif/canvas/f24.json",
           "@type": "sc:Canvas",
           "label": "Canvas 24",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1019,6 +1169,12 @@
           "@id": "https://example.com/iiif/canvas/f25.json",
           "@type": "sc:Canvas",
           "label": "Canvas 25",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1058,6 +1214,12 @@
           "@id": "https://example.com/iiif/canvas/f26.json",
           "@type": "sc:Canvas",
           "label": "Canvas 26",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1097,6 +1259,12 @@
           "@id": "https://example.com/iiif/canvas/f27.json",
           "@type": "sc:Canvas",
           "label": "Canvas 27",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1136,6 +1304,12 @@
           "@id": "https://example.com/iiif/canvas/f28.json",
           "@type": "sc:Canvas",
           "label": "Canvas 28",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1175,6 +1349,12 @@
           "@id": "https://example.com/iiif/canvas/f29.json",
           "@type": "sc:Canvas",
           "label": "Canvas 29",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1214,6 +1394,12 @@
           "@id": "https://example.com/iiif/canvas/f30.json",
           "@type": "sc:Canvas",
           "label": "Canvas 30",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1253,6 +1439,12 @@
           "@id": "https://example.com/iiif/canvas/f31.json",
           "@type": "sc:Canvas",
           "label": "Canvas 31",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1292,6 +1484,12 @@
           "@id": "https://example.com/iiif/canvas/f32.json",
           "@type": "sc:Canvas",
           "label": "Canvas 32",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1331,6 +1529,12 @@
           "@id": "https://example.com/iiif/canvas/f33.json",
           "@type": "sc:Canvas",
           "label": "Canvas 33",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1370,6 +1574,12 @@
           "@id": "https://example.com/iiif/canvas/f34.json",
           "@type": "sc:Canvas",
           "label": "Canvas 34",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1409,6 +1619,12 @@
           "@id": "https://example.com/iiif/canvas/f35.json",
           "@type": "sc:Canvas",
           "label": "Canvas 35",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1448,6 +1664,12 @@
           "@id": "https://example.com/iiif/canvas/f36.json",
           "@type": "sc:Canvas",
           "label": "Canvas 36",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1487,6 +1709,12 @@
           "@id": "https://example.com/iiif/canvas/f37.json",
           "@type": "sc:Canvas",
           "label": "Canvas 37",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1526,6 +1754,12 @@
           "@id": "https://example.com/iiif/canvas/f38.json",
           "@type": "sc:Canvas",
           "label": "Canvas 38",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1565,6 +1799,12 @@
           "@id": "https://example.com/iiif/canvas/f39.json",
           "@type": "sc:Canvas",
           "label": "Canvas 39",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1604,6 +1844,12 @@
           "@id": "https://example.com/iiif/canvas/f40.json",
           "@type": "sc:Canvas",
           "label": "Canvas 40",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1643,6 +1889,12 @@
           "@id": "https://example.com/iiif/canvas/f41.json",
           "@type": "sc:Canvas",
           "label": "Canvas 41",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1682,6 +1934,12 @@
           "@id": "https://example.com/iiif/canvas/f42.json",
           "@type": "sc:Canvas",
           "label": "Canvas 42",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1721,6 +1979,12 @@
           "@id": "https://example.com/iiif/canvas/f43.json",
           "@type": "sc:Canvas",
           "label": "Canvas 43",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1760,6 +2024,12 @@
           "@id": "https://example.com/iiif/canvas/f44.json",
           "@type": "sc:Canvas",
           "label": "Canvas 44",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1799,6 +2069,12 @@
           "@id": "https://example.com/iiif/canvas/f45.json",
           "@type": "sc:Canvas",
           "label": "Canvas 45",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1838,6 +2114,12 @@
           "@id": "https://example.com/iiif/canvas/f46.json",
           "@type": "sc:Canvas",
           "label": "Canvas 46",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1877,6 +2159,12 @@
           "@id": "https://example.com/iiif/canvas/f47.json",
           "@type": "sc:Canvas",
           "label": "Canvas 47",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1916,6 +2204,12 @@
           "@id": "https://example.com/iiif/canvas/f48.json",
           "@type": "sc:Canvas",
           "label": "Canvas 48",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1955,6 +2249,12 @@
           "@id": "https://example.com/iiif/canvas/f49.json",
           "@type": "sc:Canvas",
           "label": "Canvas 49",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -1994,6 +2294,12 @@
           "@id": "https://example.com/iiif/canvas/f50.json",
           "@type": "sc:Canvas",
           "label": "Canvas 50",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -2033,6 +2339,12 @@
           "@id": "https://example.com/iiif/canvas/f51.json",
           "@type": "sc:Canvas",
           "label": "Canvas 51",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -2072,6 +2384,12 @@
           "@id": "https://example.com/iiif/canvas/f52.json",
           "@type": "sc:Canvas",
           "label": "Canvas 52",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
@@ -2111,6 +2429,12 @@
           "@id": "https://example.com/iiif/canvas/f53.json",
           "@type": "sc:Canvas",
           "label": "Canvas 53",
+          "metadata": [
+            {
+              "label": "Title",
+              "value": "Lalala"
+            }
+          ],
           "height": 1000,
           "width": 1000,
           "images": [
