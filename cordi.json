@@ -929,7 +929,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "Gentil madonna"
+              "value": "'Gentil madona de no me habandonare'"
             },
             {
               "label": "Composer",
@@ -978,7 +978,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "Gentil madonna"
+              "value": "'Gentil madona de no me habandonare'"
             },
             {
               "label": "Composer",
@@ -1223,7 +1223,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "O pellegrina o luce chiera stella"
+              "value": "'O pellegrina o luce chiera stella'"
             },
             {
               "label": "Composer",
@@ -1272,7 +1272,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "O pellegrina o luce chiera stella"
+              "value": "'O pellegrina o luce chiera stella'"
             },
             {
               "label": "Composer",
@@ -1615,11 +1615,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'O pellegrina o luce chiara stella'"
+              "value": "'Per la mya cara'"
             },
             {
               "label": "Composer",
-              "value": "'Dunstaple, John (ca. 1390\u20131453)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -1664,11 +1664,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'O pellegrina o luce chiara stella'"
+              "value": "'Per la mya cara'"
             },
             {
               "label": "Composer",
-              "value": "'Dunstaple, John (ca. 1390\u20131453)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -1713,7 +1713,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Per la mya cara'"
+              "value": "\"Morte merc\u00e9  - 1a pars (of 2): Morte merc\u00e9 gentile aquil'altera\""
             },
             {
               "label": "Composer",
@@ -1762,7 +1762,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Per la mya cara'"
+              "value": "\"Morte merc\u00e9  - 1a pars (of 2): Morte merc\u00e9 gentile aquil'altera\""
             },
             {
               "label": "Composer",
@@ -1811,11 +1811,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'O meschin' enamorati'"
+              "value": "\"Finir vogl'io la vita mya\""
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Cornago, Juan de'"
             }
           ],
           "height": 1000,
@@ -1860,11 +1860,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'O meschin' enamorati'"
+              "value": "\"Finir vogl'io la vita mya\""
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Cornago, Juan de'"
             }
           ],
           "height": 1000,
@@ -1909,7 +1909,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Morte merc\u00e9  - 1a pars (of 2): Morte merc\u00e9 gentile aquil'altera\""
+              "value": "\"Morte merc\u00e9  - 2a pars (of 2): Amor con l'arco tesso\""
             },
             {
               "label": "Composer",
@@ -1958,7 +1958,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Morte merc\u00e9  - 1a pars (of 2): Morte merc\u00e9 gentile aquil'altera\""
+              "value": "\"Morte merc\u00e9  - 2a pars (of 2): Amor con l'arco tesso\""
             },
             {
               "label": "Composer",
@@ -2007,7 +2007,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Finir vogl'io la vita mya\""
+              "value": "'O pellegrina o luce chiara stella'"
             },
             {
               "label": "Composer",
@@ -2056,7 +2056,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Finir vogl'io la vita mya\""
+              "value": "'O pellegrina o luce chiara stella'"
             },
             {
               "label": "Composer",
@@ -2105,11 +2105,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Morte merc\u00e9  - 2a pars (of 2): Amor con l'arco tesso\""
+              "value": "'O pellegrina o luce chiara stella'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Cornago, Juan de'"
             }
           ],
           "height": 1000,
@@ -2154,11 +2154,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Morte merc\u00e9  - 2a pars (of 2): Amor con l'arco tesso\""
+              "value": "'O pellegrina o luce chiara stella'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Cornago, Juan de'"
             }
           ],
           "height": 1000,
@@ -2203,11 +2203,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'O pellegrina o luce chiara stella'"
+              "value": "\"O meschin' enamorati\""
             },
             {
               "label": "Composer",
-              "value": "'Cornago, Juan de'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2252,11 +2252,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'O pellegrina o luce chiara stella'"
+              "value": "\"O meschin' enamorati\""
             },
             {
               "label": "Composer",
-              "value": "'Cornago, Juan de'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2693,7 +2693,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"J'ai pris amours\""
+              "value": "\"L'aultre jour, par un matin esbatre m'en aloye\""
             },
             {
               "label": "Composer",
@@ -2742,7 +2742,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"J'ai pris amours\""
+              "value": "\"L'aultre jour, par un matin esbatre m'en aloye\""
             },
             {
               "label": "Composer",
@@ -2791,7 +2791,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"L'aultre d'antan\""
+              "value": "\"J'ai pris amours\""
             },
             {
               "label": "Composer",
@@ -2840,7 +2840,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"L'aultre d'antan\""
+              "value": "\"J'ai pris amours\""
             },
             {
               "label": "Composer",
@@ -2889,11 +2889,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'De tous biens plaine est ma ma\u00eetresse [= Cum defecerint ligna]'"
+              "value": "\"L'aultre d'antan\""
             },
             {
               "label": "Composer",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2938,11 +2938,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'De tous biens plaine est ma ma\u00eetresse [= Cum defecerint ligna]'"
+              "value": "\"L'aultre d'antan\""
             },
             {
               "label": "Composer",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2987,11 +2987,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"J'ai mains de biens - 1a pars (of 2): J'ai mains de biens que s'il n'en estoit nuls = O mira circa nos\""
+              "value": "'De tous biens plaine est ma ma\u00eetresse [= Cum defecerint ligna]'"
             },
             {
               "label": "Composer",
-              "value": "'Ghizeghem, Hayne van'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -3036,11 +3036,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"J'ai mains de biens - 1a pars (of 2): J'ai mains de biens que s'il n'en estoit nuls = O mira circa nos\""
+              "value": "'De tous biens plaine est ma ma\u00eetresse [= Cum defecerint ligna]'"
             },
             {
               "label": "Composer",
-              "value": "'Ghizeghem, Hayne van'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -3085,11 +3085,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"J'ai mains de biens - 2a pars (of 2): [chanson text] = O felix culpa\""
+              "value": "\"J'ai mains de biens - 1a pars (of 2): J'ai mains de biens que s'il n'en estoit nuls = O mira circa nos\""
             },
             {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Ghizeghem, Hayne van'"
             }
           ],
           "height": 1000,
@@ -3134,11 +3134,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"J'ai mains de biens - 2a pars (of 2): [chanson text] = O felix culpa\""
+              "value": "\"J'ai mains de biens - 1a pars (of 2): J'ai mains de biens que s'il n'en estoit nuls = O mira circa nos\""
             },
             {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Ghizeghem, Hayne van'"
             }
           ],
           "height": 1000,
@@ -3183,7 +3183,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Vostre bruit et vostre grant fame'"
+              "value": "\"J'ai mains de biens - 2a pars (of 2): [chanson text] = O felix culpa\""
             },
             {
               "label": "Composer",
@@ -3232,7 +3232,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Vostre bruit et vostre grant fame'"
+              "value": "\"J'ai mains de biens - 2a pars (of 2): [chanson text] = O felix culpa\""
             },
             {
               "label": "Composer",
@@ -3281,11 +3281,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Cent mille escus quand je voldroie'"
+              "value": "'Vostre bruit et vostre grant fame'"
             },
             {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -3330,11 +3330,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Cent mille escus quand je voldroie'"
+              "value": "'Vostre bruit et vostre grant fame'"
             },
             {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -3379,11 +3379,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Le souvenir de vous me tue mon seul bien'"
+              "value": "'Cent mille escus quand je voldroie'"
             },
             {
               "label": "Composer",
-              "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -3428,11 +3428,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Le souvenir de vous me tue mon seul bien'"
+              "value": "'Cent mille escus quand je voldroie'"
             },
             {
               "label": "Composer",
-              "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -3477,11 +3477,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"L'homme banny de sa plaisance\""
+              "value": "'Le souvenir de vous me tue mon seul bien'"
             },
             {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             }
           ],
           "height": 1000,
@@ -3526,11 +3526,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"L'homme banny de sa plaisance\""
+              "value": "'Le souvenir de vous me tue mon seul bien'"
             },
             {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             }
           ],
           "height": 1000,
@@ -3575,11 +3575,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"N'aray je jamais mieux que j'ai\""
+              "value": "\"L'homme banny de sa plaisance\""
             },
             {
               "label": "Composer",
-              "value": "'Morton, Robert'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -3624,11 +3624,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"N'aray je jamais mieux que j'ai\""
+              "value": "\"L'homme banny de sa plaisance\""
             },
             {
               "label": "Composer",
-              "value": "'Morton, Robert'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -3673,11 +3673,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Le serviteur hault guerdonn\u00e9 assovy'"
+              "value": "\"N'aray je jamais mieux que j'ai\""
             },
             {
               "label": "Composer",
-              "value": "'Barbingant, Pierre'"
+              "value": "'Morton, Robert'"
             }
           ],
           "height": 1000,
@@ -3722,11 +3722,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Le serviteur hault guerdonn\u00e9 assovy'"
+              "value": "\"N'aray je jamais mieux que j'ai\""
             },
             {
               "label": "Composer",
-              "value": "'Barbingant, Pierre'"
+              "value": "'Morton, Robert'"
             }
           ],
           "height": 1000,
@@ -3771,11 +3771,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
+              "value": "'Le serviteur hault guerdonn\u00e9 assovy'"
             },
             {
               "label": "Composer",
-              "value": "'Fede, Johannes'"
+              "value": "'Barbingant, Pierre'"
             }
           ],
           "height": 1000,
@@ -3820,11 +3820,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
+              "value": "'Le serviteur hault guerdonn\u00e9 assovy'"
             },
             {
               "label": "Composer",
-              "value": "'Fede, Johannes'"
+              "value": "'Barbingant, Pierre'"
             }
           ],
           "height": 1000,
@@ -3869,11 +3869,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Est-il merci de quoy'"
+              "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
             },
             {
               "label": "Composer",
-              "value": "'Morton, Robert'"
+              "value": "'Fede, Johannes'"
             }
           ],
           "height": 1000,
@@ -3918,11 +3918,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Est-il merci de quoy'"
+              "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
             },
             {
               "label": "Composer",
-              "value": "'Morton, Robert'"
+              "value": "'Fede, Johannes'"
             }
           ],
           "height": 1000,
@@ -3967,11 +3967,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Comme femme desconfort\u00e9e'"
+              "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
             },
             {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Fede, Johannes'"
             }
           ],
           "height": 1000,
@@ -4016,11 +4016,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Comme femme desconfort\u00e9e'"
+              "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
             },
             {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Fede, Johannes'"
             }
           ],
           "height": 1000,
@@ -4065,11 +4065,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Tout a par moi'"
+              "value": "'Est-il merci de quoy'"
             },
             {
               "label": "Composer",
-              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
+              "value": "'Morton, Robert'"
             }
           ],
           "height": 1000,
@@ -4114,11 +4114,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Tout a par moi'"
+              "value": "'Est-il merci de quoy'"
             },
             {
               "label": "Composer",
-              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
+              "value": "'Morton, Robert'"
             }
           ],
           "height": 1000,
@@ -4163,11 +4163,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
+              "value": "'Est-il merci de quoy'"
             },
             {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Morton, Robert'"
             }
           ],
           "height": 1000,
@@ -4212,11 +4212,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
+              "value": "'Est-il merci de quoy'"
             },
             {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Morton, Robert'"
             }
           ],
           "height": 1000,
@@ -4261,11 +4261,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Mon seul plaisir, ma douce joie'"
+              "value": "'Comme femme desconfort\u00e9e'"
             },
             {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -4310,11 +4310,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Mon seul plaisir, ma douce joie'"
+              "value": "'Comme femme desconfort\u00e9e'"
             },
             {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -4359,11 +4359,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Ma bouche plaint les pleurs de ma pensee'"
+              "value": "'Comme femme desconfort\u00e9e'"
             },
             {
               "label": "Composer",
-              "value": "'Frye, Walter (\u2013ca. 1475)'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -4408,11 +4408,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Ma bouche plaint les pleurs de ma pensee'"
+              "value": "'Comme femme desconfort\u00e9e'"
             },
             {
               "label": "Composer",
-              "value": "'Frye, Walter (\u2013ca. 1475)'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -4457,11 +4457,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Vray dieu d'amours\""
+              "value": "'Tout a par moi'"
             },
             {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
             }
           ],
           "height": 1000,
@@ -4506,11 +4506,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Vray dieu d'amours\""
+              "value": "'Tout a par moi'"
             },
             {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
             }
           ],
           "height": 1000,
@@ -4555,11 +4555,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Helas, je n'ay pas os\u00e9 dire\""
+              "value": "'Tout a par moi'"
             },
             {
               "label": "Composer",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
             }
           ],
           "height": 1000,
@@ -4604,11 +4604,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Helas, je n'ay pas os\u00e9 dire\""
+              "value": "'Tout a par moi'"
             },
             {
               "label": "Composer",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
             }
           ],
           "height": 1000,
@@ -4653,11 +4653,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Or ay j'ay perdu mes amours\""
+              "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
             },
             {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -4702,11 +4702,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Or ay j'ay perdu mes amours\""
+              "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
             },
             {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -4751,11 +4751,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Adieu vous dy'"
+              "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
             },
             {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -4800,11 +4800,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Adieu vous dy'"
+              "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
             },
             {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -4849,11 +4849,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Terriblement suis fortun\u00e9e'"
+              "value": "'Mon seul plaisir, ma douce joie'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4898,11 +4898,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Terriblement suis fortun\u00e9e'"
+              "value": "'Mon seul plaisir, ma douce joie'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4947,11 +4947,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'De mon povoir vous veul complaire'"
+              "value": "'Mon seul plaisir, ma douce joie'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4996,11 +4996,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'De mon povoir vous veul complaire'"
+              "value": "'Mon seul plaisir, ma douce joie'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -5045,11 +5045,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Helas, n'aray je jamais\""
+              "value": "'Ma bouche plaint les pleurs de ma pensee'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Frye, Walter (\u2013ca. 1475)'"
             }
           ],
           "height": 1000,
@@ -5094,11 +5094,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "\"Helas, n'aray je jamais\""
+              "value": "'Ma bouche plaint les pleurs de ma pensee'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Frye, Walter (\u2013ca. 1475)'"
             }
           ],
           "height": 1000,
@@ -5143,11 +5143,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Quant du dire adieu me souvient'"
+              "value": "'Ma bouche plaint les pleurs de ma pensee'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Frye, Walter (\u2013ca. 1475)'"
             }
           ],
           "height": 1000,
@@ -5192,11 +5192,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Quant du dire adieu me souvient'"
+              "value": "'Ma bouche plaint les pleurs de ma pensee'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Frye, Walter (\u2013ca. 1475)'"
             }
           ],
           "height": 1000,
@@ -5241,11 +5241,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Je ne vis oncques la pareille de vous'"
+              "value": "\"Vray dieu d'amours\""
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -5290,11 +5290,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Je ne vis oncques la pareille de vous'"
+              "value": "\"Vray dieu d'amours\""
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -5339,11 +5339,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Faites mon scavoir de la belle'"
+              "value": "\"Helas, je n'ay pas os\u00e9 dire\""
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -5388,11 +5388,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "'Faites mon scavoir de la belle'"
+              "value": "\"Helas, je n'ay pas os\u00e9 dire\""
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -5437,11 +5437,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "\"Or ay j'ay perdu mes amours\""
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Bedingham, John'"
             }
           ],
           "height": 1000,
@@ -5486,11 +5486,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "\"Or ay j'ay perdu mes amours\""
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Bedingham, John'"
             }
           ],
           "height": 1000,
@@ -5535,11 +5535,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "\"Or ay j'ay perdu mes amours\""
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Bedingham, John'"
             }
           ],
           "height": 1000,
@@ -5584,11 +5584,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "\"Or ay j'ay perdu mes amours\""
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Bedingham, John'"
             }
           ],
           "height": 1000,
@@ -5633,11 +5633,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Adieu vous dy'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -5682,11 +5682,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Adieu vous dy'"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -5731,11 +5731,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Adieu vous dy'"
             },
             {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -5780,11 +5780,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Adieu vous dy'"
             },
             {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -5829,11 +5829,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Terriblement suis fortun\u00e9e'"
             },
             {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5878,11 +5878,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Terriblement suis fortun\u00e9e'"
             },
             {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5927,7 +5927,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Terriblement suis fortun\u00e9e'"
             },
             {
               "label": "Composer",
@@ -5976,7 +5976,7 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Terriblement suis fortun\u00e9e'"
             },
             {
               "label": "Composer",
@@ -6025,11 +6025,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'De mon povoir vous veul complaire'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6074,11 +6074,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'De mon povoir vous veul complaire'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6123,11 +6123,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "\"Helas, n'aray je jamais\""
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6172,11 +6172,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "\"Helas, n'aray je jamais\""
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6221,11 +6221,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "\"Helas, n'aray je jamais\""
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6270,11 +6270,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "\"Helas, n'aray je jamais\""
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6319,11 +6319,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Quant du dire adieu me souvient'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6368,11 +6368,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Quant du dire adieu me souvient'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6417,11 +6417,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Je ne vis oncques la pareille de vous'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6466,11 +6466,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Je ne vis oncques la pareille de vous'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6515,11 +6515,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Je ne vis oncques la pareille de vous'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6564,11 +6564,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Je ne vis oncques la pareille de vous'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6613,11 +6613,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Faites mon scavoir de la belle'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6662,11 +6662,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Faites mon scavoir de la belle'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6711,11 +6711,11 @@
           "metadata": [
             {
               "label": "Title",
-              "value": "none"
+              "value": "'Faites mon scavoir de la belle'"
             },
             {
               "label": "Composer",
-              "value": "none"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -6750,643 +6750,6 @@
                 ]
               },
               "on": "https://example.com/iiif/canvas/f136.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f137.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 137",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f137/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f137",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f137/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f137",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f137.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f138.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 138",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f138/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f138",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f138/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f138",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f138.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f139.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 139",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f139/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f139",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f139/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f139",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f139.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f140.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 140",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f140/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f140",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f140/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f140",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f140.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f141.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 141",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f141/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f141",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f141/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f141",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f141.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f142.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 142",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f142/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f142",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f142/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f142",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f142.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f143.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 143",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f143/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f143",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f143/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f143",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f143.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f144.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 144",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f144/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f144",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f144/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f144",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f144.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f145.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 145",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f145/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f145",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f145/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f145",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f145.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f146.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 146",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f146/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f146",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f146/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f146",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f146.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f147.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 147",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f147/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f147",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f147/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f147",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f147.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f148.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 148",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f148/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f148",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f148/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f148",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f148.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f149.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 149",
-          "metadata": [
-            {
-              "label": "Title",
-              "value": "none"
-            },
-            {
-              "label": "Composer",
-              "value": "none"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f149/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f149",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f149/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f149",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f149.json"
             }
           ]
         }
