@@ -52,10 +52,6 @@
             {
               "label": "Composer",
               "value": "None"
-            },
-            {
-              "label": "Genre",
-              "value": "None"
             }
           ],
           "height": 1000,
@@ -104,10 +100,6 @@
             },
             {
               "label": "Composer",
-              "value": "None"
-            },
-            {
-              "label": "Genre",
               "value": "None"
             }
           ],
@@ -158,10 +150,6 @@
             {
               "label": "Composer",
               "value": "None"
-            },
-            {
-              "label": "Genre",
-              "value": "None"
             }
           ],
           "height": 1000,
@@ -210,10 +198,6 @@
             },
             {
               "label": "Composer",
-              "value": "None"
-            },
-            {
-              "label": "Genre",
               "value": "None"
             }
           ],
@@ -264,10 +248,6 @@
             {
               "label": "Composer",
               "value": "None"
-            },
-            {
-              "label": "Genre",
-              "value": "None"
             }
           ],
           "height": 1000,
@@ -316,10 +296,6 @@
             },
             {
               "label": "Composer",
-              "value": "None"
-            },
-            {
-              "label": "Genre",
               "value": "None"
             }
           ],
@@ -370,10 +346,6 @@
             {
               "label": "Composer",
               "value": "None"
-            },
-            {
-              "label": "Genre",
-              "value": "None"
             }
           ],
           "height": 1000,
@@ -422,10 +394,6 @@
             },
             {
               "label": "Composer",
-              "value": "None"
-            },
-            {
-              "label": "Genre",
               "value": "None"
             }
           ],
@@ -476,10 +444,6 @@
             {
               "label": "Composer",
               "value": "None"
-            },
-            {
-              "label": "Genre",
-              "value": "None"
             }
           ],
           "height": 1000,
@@ -529,10 +493,6 @@
             {
               "label": "Composer",
               "value": "None"
-            },
-            {
-              "label": "Genre",
-              "value": "None"
             }
           ],
           "height": 1000,
@@ -567,6 +527,594 @@
                 ]
               },
               "on": "https://example.com/iiif/canvas/f9.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f10.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 10",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "\"Va t'en regrets celluy qui me convoy\u00e9\""
+            },
+            {
+              "label": "Composer",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f10/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f10",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f10/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f10",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f10.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f11.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 11",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "\"Va t'en regrets celluy qui me convoy\u00e9\""
+            },
+            {
+              "label": "Composer",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f11/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f11",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f11/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f11",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f11.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f12.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 12",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "'Oblier veult douleur et tristesse (= Carmen in sol)'"
+            },
+            {
+              "label": "Composer",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f12/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f12",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f12/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f12",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f12.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f13.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 13",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "'Oblier veult douleur et tristesse (= Carmen in sol)'"
+            },
+            {
+              "label": "Composer",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f13/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f13",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f13/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f13",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f13.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f14.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 14",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "\"Elle l'a pris, elle tient en sa liesse\""
+            },
+            {
+              "label": "Composer",
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f14/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f14",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f14/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f14",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f14.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f15.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 15",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "\"Elle l'a pris, elle tient en sa liesse\""
+            },
+            {
+              "label": "Composer",
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f15/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f15",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f15/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f15",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f15.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f16.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 16",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "\"C'est pour aimer\""
+            },
+            {
+              "label": "Composer",
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f16/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f16",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f16/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f16",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f16.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f17.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 17",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "\"C'est pour aimer\""
+            },
+            {
+              "label": "Composer",
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f17/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f17",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f17/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f17",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f17.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f18.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 18",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "'Vous, noblez cuers, qui mes regretz voyez'"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f18/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f18",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f18/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f18",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f18.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f19.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 19",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "'Vous, noblez cuers, qui mes regretz voyez'"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f19/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f19",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f19/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f19",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f19.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f20.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 20",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "'Fors seullement contre ce que ay promis'"
+            },
+            {
+              "label": "Composer",
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f20/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f20",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f20/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f20",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f20.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f21.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 21",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "'Fors seullement contre ce que ay promis'"
+            },
+            {
+              "label": "Composer",
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f21/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f21",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f21/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60008028/f21",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f21.json"
             }
           ]
         }
