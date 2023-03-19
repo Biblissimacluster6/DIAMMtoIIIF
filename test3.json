@@ -52,6 +52,10 @@
             {
               "label": "Composer",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
             }
           ],
           "height": 1000,
@@ -100,6 +104,10 @@
             },
             {
               "label": "Composer",
+              "value": "None"
+            },
+            {
+              "label": "Genre",
               "value": "None"
             }
           ],
@@ -150,6 +158,10 @@
             {
               "label": "Composer",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
             }
           ],
           "height": 1000,
@@ -198,6 +210,10 @@
             },
             {
               "label": "Composer",
+              "value": "None"
+            },
+            {
+              "label": "Genre",
               "value": "None"
             }
           ],
@@ -248,6 +264,10 @@
             {
               "label": "Composer",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
             }
           ],
           "height": 1000,
@@ -296,6 +316,10 @@
             },
             {
               "label": "Composer",
+              "value": "None"
+            },
+            {
+              "label": "Genre",
               "value": "None"
             }
           ],
@@ -346,6 +370,10 @@
             {
               "label": "Composer",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
             }
           ],
           "height": 1000,
@@ -394,6 +422,10 @@
             },
             {
               "label": "Composer",
+              "value": "None"
+            },
+            {
+              "label": "Genre",
               "value": "None"
             }
           ],
@@ -444,6 +476,10 @@
             {
               "label": "Composer",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
             }
           ],
           "height": 1000,
@@ -492,6 +528,10 @@
             },
             {
               "label": "Composer",
+              "value": "None"
+            },
+            {
+              "label": "Genre",
               "value": "None"
             }
           ],
@@ -542,6 +582,10 @@
             {
               "label": "Composer",
               "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -591,6 +635,10 @@
             {
               "label": "Composer",
               "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -640,6 +688,10 @@
             {
               "label": "Composer",
               "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -689,6 +741,10 @@
             {
               "label": "Composer",
               "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -738,6 +794,10 @@
             {
               "label": "Composer",
               "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -787,6 +847,10 @@
             {
               "label": "Composer",
               "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -836,6 +900,10 @@
             {
               "label": "Composer",
               "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -885,6 +953,10 @@
             {
               "label": "Composer",
               "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -934,6 +1006,10 @@
             {
               "label": "Composer",
               "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -983,6 +1059,10 @@
             {
               "label": "Composer",
               "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -1032,6 +1112,10 @@
             {
               "label": "Composer",
               "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
@@ -1081,6 +1165,10 @@
             {
               "label": "Composer",
               "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+            },
+            {
+              "label": "Genre",
+              "value": "['Chanson']"
             }
           ],
           "height": 1000,
