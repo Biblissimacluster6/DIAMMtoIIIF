@@ -5710,15 +5710,15 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'A ma dame servir'"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Anonymous'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -5763,15 +5763,15 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'A ma dame servir'"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Anonymous'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -5922,7 +5922,7 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'A ma dame servir'"
+              "value": "\"J'ai am\u00e9 et touz jourz amerai\""
             },
             {
               "label": "Composer",
@@ -5975,7 +5975,7 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'A ma dame servir'"
+              "value": "\"J'ai am\u00e9 et touz jourz amerai\""
             },
             {
               "label": "Composer",
@@ -6134,7 +6134,7 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "\"J'ai am\u00e9 et touz jourz amerai\""
+              "value": "\"J'apelerai, se diex me gart\""
             },
             {
               "label": "Composer",
@@ -6187,7 +6187,7 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "\"J'ai am\u00e9 et touz jourz amerai\""
+              "value": "\"J'apelerai, se diex me gart\""
             },
             {
               "label": "Composer",
@@ -6336,112 +6336,6 @@
                 ]
               },
               "on": "https://example.com/iiif/canvas/f118.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f119.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 119",
-          "metadata": [
-            {
-              "label": "Work title",
-              "value": "\"J'apelerai, se diex me gart\""
-            },
-            {
-              "label": "Composer",
-              "value": "'Anonymous'"
-            },
-            {
-              "label": "Genre",
-              "value": "'Chanson'"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000803p/f119/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000803p/f119",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000803p/f119/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000803p/f119",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f119.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f120.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 120",
-          "metadata": [
-            {
-              "label": "Work title",
-              "value": "\"J'apelerai, se diex me gart\""
-            },
-            {
-              "label": "Composer",
-              "value": "'Anonymous'"
-            },
-            {
-              "label": "Genre",
-              "value": "'Chanson'"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000803p/f120/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000803p/f120",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000803p/f120/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000803p/f120",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f120.json"
             }
           ]
         }
