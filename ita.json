@@ -120,7 +120,7 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060517z/f1/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060517z/f1/0,0,3700,4000/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
