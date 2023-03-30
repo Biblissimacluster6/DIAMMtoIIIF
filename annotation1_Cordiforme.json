@@ -1,19 +1,18 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme.json",
-  "type": "AnnotationPage",
-  "items": [
+  "@id": "https://example.com/iiif/AnnotationList",
+  "@type": "sc:AnnotationList",
+  "resources": [
     {
-      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "Lyrics",
-        "language": "it",
+      "@id": "http://localhost:8887/coin/list/1",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "value": "Hora cridar «oyme» posso ben yo. Et consumare in pianti ly ochi mey, Poy che veder [piu ley].Non posso, oyme, [meschin] come sole(v)a.[Hora cridar oyme posso ben yo.]"
+        "chars": "Hora cridar «oyme» posso ben yo"
       },
-      "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10"
+      "on": "https://example.com/iiif/canvas/f10.json"
     }
   ]
 }
