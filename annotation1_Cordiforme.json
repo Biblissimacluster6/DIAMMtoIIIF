@@ -10,9 +10,20 @@
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "yayaya"
+        "chars": "Tenor. Hora cridar"
       },
       "on": "https://example.com/iiif/canvas/f11.json"
-    }
+    },
+    {
+      "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme.json",
+      "@type": "oa:Annotation",
+      "motivation": "tagging",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Tenor"
+      },
+      "on": "https://example.com/iiif/canvas/f11.json#xywh=749,1054,338,460"
+    },
   ]
 }
