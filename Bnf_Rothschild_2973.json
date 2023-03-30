@@ -594,7 +594,7 @@
                      "label": "Lyrics"
                      "value": "Hora cridar «oyme» posso ben yo/Et consumare in pianti ly ochi mey,/Poy che veder [piu ley]/Non posso, oyme, [meschin] come sole(v)a./[Hora cridar oyme posso ben yo.]"
                    },
-                   "target": "https://example.com/iiif/canvas/f10.json"
+                   "target": "https://example.com/iiif/canvas/f10.json#xywh=265,661,400,500"
                  }
                ]
              } 
@@ -645,7 +645,7 @@
                   }
                 ]
               },
-              "on": "https://example.com/iiif/canvas/f11.json#xywh=265,661,400,500"
+              "on": "https://example.com/iiif/canvas/f11.json"
             }
           ]
         },
