@@ -4,7 +4,7 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "@id": "http://localhost:8887/coin/list/1",
+      "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme.json",
       "@type": "oa:Annotation",
       "motivation": "sc:painting",
       "resource": {
