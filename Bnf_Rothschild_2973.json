@@ -577,8 +577,28 @@
               },
               "on": "https://example.com/iiif/canvas/f10.json"
             }
-          ]
-        },
+          ],
+          "annotations": [
+             {
+               "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
+               "type": "AnnotationPage",
+               "items": [
+                 {
+                   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
+                   "type": "Annotation",
+                   "motivation": "commenting",
+                   "body": {
+                     "type": "TextualBody",
+                     "language": "de",
+                     "format": "text/plain",
+                     "value": "Hora cridar"
+                   },
+                   "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10"
+                 }
+               ]
+             } 
+           ]
+        }, 
         {
           "@id": "https://example.com/iiif/canvas/f11.json",
           "@type": "sc:Canvas",
