@@ -591,9 +591,9 @@
                      "type": "TextualBody",
                      "language": "it",
                      "format": "text/plain",
-                     "value": "Hora cridar «oyme» posso ben yo/Et consumare in pianti ly ochi mey,/Poy che veder [piu ley]/Non posso, oyme, [meschin] come sole(v)a./[Hora cridar oyme posso ben yo.]"
+                     "value": "Hora cridar «oyme» posso"
                    },
-                   "target": "https://example.com/iiif/canvas/f10.json#xywh=265,661,500,600"
+                   "target": "https://example.com/iiif/canvas/f10.json#xywh=1595,705,513,88"
                  }
                ]
              } 
