@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme.json",
+  "@id": "xxx",
   "@type": "sc:AnnotationList",
   "resources": [
     {
