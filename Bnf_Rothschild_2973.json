@@ -580,7 +580,7 @@
           ],
           "otherContent": [
             {
-              "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme.json",
+              "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annot2.json",
               "@type": "sc:AnnotationList"
             }
           ]
