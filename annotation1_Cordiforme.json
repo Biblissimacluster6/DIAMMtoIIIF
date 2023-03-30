@@ -10,7 +10,7 @@
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "Tenor. Hora cridar"
+        "chars": "yaya"
       },
       "on": "https://example.com/iiif/canvas/f11.json"
     },
