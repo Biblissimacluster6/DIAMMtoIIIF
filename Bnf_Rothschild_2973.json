@@ -646,7 +646,13 @@
               },
               "on": "https://example.com/iiif/canvas/f11.json"
             }
-          ]
+          ],
+          "otherContent": [
+            {
+              "@id":"https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]  
         },
         {
           "@id": "https://example.com/iiif/canvas/f12.json",
