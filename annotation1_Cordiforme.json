@@ -10,20 +10,9 @@
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "yayaya"
-      },
-      "on": "https://example.com/iiif/canvas/f11.json#xywh=3706,208,522,522"
-    },
-    {
-      "@id": "http://localhost:8887/coin/list/2",
-      "@type": "oa:Annotation",
-      "motivation": "sc:painting",
-      "resource": {
-        "@type": "cnt:ContentAsText",
-        "format": "text/plain",
         "chars": "Tenor"
       },
-      "on": "https://example.com/iiif/canvas/f11.json#xywh=1800,208,522,522"
+      "on": "https://example.com/iiif/canvas/f11.json#xywh=1180,2057,971,315"
     }
   ]
 }
