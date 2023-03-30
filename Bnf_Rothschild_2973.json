@@ -586,7 +586,7 @@
                  {
                    "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
                    "type": "Annotation",
-                   "motivation": "commenting",
+                   "motivation": "tagging",
                    "body": {
                      "type": "TextualBody",
                      "language": "it",
