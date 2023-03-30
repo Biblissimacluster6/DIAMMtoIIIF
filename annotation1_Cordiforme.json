@@ -10,9 +10,9 @@
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "Hora cridar «oyme» posso ben yo"
+        "chars": "yayaya"
       },
-      "on": "https://example.com/iiif/canvas/f10.json"
+      "on": "https://example.com/iiif/canvas/f11.json"
     }
   ]
 }
