@@ -649,7 +649,7 @@
           ],
           "otherContent": [
             {
-              "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme.json",
+              "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/not.json",
               "@type": "sc:AnnotationList"
             }
           ]  
