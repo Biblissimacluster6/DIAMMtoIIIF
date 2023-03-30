@@ -581,7 +581,10 @@
         },
         "annotations": [
           {
-            "@id": "https://iii
+            "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme.json",
+            "@type": "AnnotationPage"
+          }
+        ],
         {
           "@id": "https://example.com/iiif/canvas/f11.json",
           "@type": "sc:Canvas",
