@@ -578,26 +578,12 @@
               "on": "https://example.com/iiif/canvas/f10.json"
             }
           ],
-          "annotations": [
-             {
-               "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
-               "type": "AnnotationPage",
-               "items": [
-                 {
-                   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
-                   "type": "Annotation",
-                   "motivation": "commenting",
-                   "body": {
-                     "type": "TextualBody",
-                     "language": "it",
-                     "format": "text/plain",
-                     "value": "Hora cridar «oyme» posso ben yo/Et consumare in pianti ly ochi mey,/Poy che veder [piu ley]/Non posso, oyme, [meschin] come sole(v)a./[Hora cridar oyme posso ben yo.]"
-                   },
-                   "target": "https://example.com/iiif/canvas/f10.json"
-                 }
-               ]
-             }
-           ]
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme.json",
+              "@type": "sc:AnnotationList"
+            }
+          ]
         }, 
         {
           "@id": "https://example.com/iiif/canvas/f11.json",
