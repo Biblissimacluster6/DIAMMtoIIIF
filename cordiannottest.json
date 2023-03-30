@@ -597,26 +597,6 @@
                  }
                ]
              }
-           ],
-           "annotations": [
-             {
-               "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
-               "type": "AnnotationPage",
-               "items": [
-                 {
-                   "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
-                   "type": "Annotation",
-                   "motivation": "tagging",
-                   "body": {
-                     "type": "TextualBody",
-                     "language": "it",
-                     "format": "text/plain",
-                     "value": "OOO"
-                   },
-                   "target": "https://example.com/iiif/canvas/f10.json#xywh=800,400,450,88"
-                 }
-               ]
-             }
            ]
         }, 
         {
