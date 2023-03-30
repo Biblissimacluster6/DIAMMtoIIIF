@@ -1,18 +1,18 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "xxx",
+  "@id": "http://localhost:8887/coin/canvas/AnnotationList",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme",
+      "@id": "http://localhost:8887/coin/list/1",
       "@type": "oa:Annotation",
       "motivation": "sc:painting",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "yaya"
+        "chars": "yayaya"
       },
-      "on": "https://example.com/iiif/canvas/f11.json"
-    },
+      "on": "http://localhost:8887/coin/canvas#xywh=3706,208,522,522"
+    }
   ]
 }
