@@ -591,9 +591,10 @@
                      "type": "TextualBody",
                      "language": "it",
                      "format": "text/plain",
-                     "value": "Hora cridarHora cridar «oyme» posso ben yo/Et consumare in pianti ly ochi mey,/Poy che veder [piu ley]/Non posso, oyme, [meschin] come sole(v)a./[Hora cridar oyme posso ben yo.]"
+                     "label": "Lyrics"
+                     "value": "Hora cridar «oyme» posso ben yo/Et consumare in pianti ly ochi mey,/Poy che veder [piu ley]/Non posso, oyme, [meschin] come sole(v)a./[Hora cridar oyme posso ben yo.]"
                    },
-                   "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10#xywh=265,661,1260,1239"
+                   "target": "https://example.com/iiif/canvas/f10.json"
                  }
                ]
              } 
@@ -644,7 +645,7 @@
                   }
                 ]
               },
-              "on": "https://example.com/iiif/canvas/f11.json"
+              "on": "https://example.com/iiif/canvas/f11.json#xywh=265,661,400,500"
             }
           ]
         },
