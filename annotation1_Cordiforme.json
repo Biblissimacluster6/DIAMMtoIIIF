@@ -1,0 +1,19 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "id": "https://example.com/iiif/manifest.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "Lyrics",
+        "language": "it",
+        "format": "text/plain",
+        "value": "Hora cridar «oyme» posso ben yo. Et consumare in pianti ly ochi mey, Poy che veder [piu ley].Non posso, oyme, [meschin] come sole(v)a.[Hora cridar oyme posso ben yo.]"
+      },
+      "target": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10"
+    }
+  ]
+}
