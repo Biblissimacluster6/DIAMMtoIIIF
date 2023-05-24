@@ -46,7 +46,23 @@
               "value": "None"
             },
             {
+              "label": "Composer first view",
+              "value": "None"
+            },
+            {
+              "label": "Genre first view",
+              "value": "None"
+            },
+            {
               "label": "Work title second view",
+              "value": "None"
+            },
+            {
+              "label": "Composer second view",
+              "value": "None"
+            },
+            {
+              "label": "Genre second view",
               "value": "None"
             }
           ],
@@ -95,7 +111,23 @@
               "value": "None"
             },
             {
+              "label": "Composer first view",
+              "value": "None"
+            },
+            {
+              "label": "Genre first view",
+              "value": "None"
+            },
+            {
               "label": "Work title second view",
+              "value": "None"
+            },
+            {
+              "label": "Composer second view",
+              "value": "None"
+            },
+            {
+              "label": "Genre second view",
               "value": "None"
             }
           ],
@@ -144,7 +176,23 @@
               "value": "None"
             },
             {
+              "label": "Composer first view",
+              "value": "None"
+            },
+            {
+              "label": "Genre first view",
+              "value": "None"
+            },
+            {
               "label": "Work title second view",
+              "value": "None"
+            },
+            {
+              "label": "Composer second view",
+              "value": "None"
+            },
+            {
+              "label": "Genre second view",
               "value": "None"
             }
           ],
@@ -193,8 +241,24 @@
               "value": "'Deu[il] et ennuy souci regrets et paine'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Deu[il] et ennuy souci regrets et paine'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Deu[il] et ennuy souci regrets et paine'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -242,8 +306,24 @@
               "value": "'Beata es Maria virgo dulcis et pia'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Motet'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Beata es Maria virgo dulcis et pia'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Beata es Maria virgo dulcis et pia'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Motet'"
             }
           ],
           "height": 1000,
@@ -291,8 +371,24 @@
               "value": "'Da pacem Domine in diebus nostris'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Motet'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Da pacem Domine in diebus nostris'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Da pacem Domine in diebus nostris'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Motet'"
             }
           ],
           "height": 1000,
@@ -340,8 +436,24 @@
               "value": "'Da pacem Domine in diebus nostris'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Motet'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Da pacem Domine in diebus nostris'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Da pacem Domine in diebus nostris'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Motet'"
             }
           ],
           "height": 1000,
@@ -389,8 +501,24 @@
               "value": "'Dulcis amica Dei rosa vernans stella'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Lauda'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Dulcis amica Dei rosa vernans stella'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Dulcis amica Dei rosa vernans stella'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Lauda'"
             }
           ],
           "height": 1000,
@@ -438,8 +566,24 @@
               "value": "'Si sumpsero pennas meas diluculo'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Obrecht, Jacobus (ca. 1457\u20131505)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Psalm motet'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Si sumpsero pennas meas diluculo'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Si sumpsero pennas meas diluculo'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Psalm motet'"
             }
           ],
           "height": 1000,
@@ -487,8 +631,24 @@
               "value": "'O quam glorifica.'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Ballata'"
+            },
+            {
               "label": "Work title second view",
               "value": "'O quam glorifica.'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'O quam glorifica.'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Ballata'"
             }
           ],
           "height": 1000,
@@ -536,8 +696,24 @@
               "value": "'Si dedero somnum oculis meis'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Motet'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Si dedero somnum oculis meis'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Si dedero somnum oculis meis'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Motet'"
             }
           ],
           "height": 1000,
@@ -585,8 +761,24 @@
               "value": "'Mes pens\u00e9es ne me laissent une heure 27.26'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Despres, Josquin (ca. 1450\u20131521)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Mes pens\u00e9es ne me laissent une heure 27.26'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Mes pens\u00e9es ne me laissent une heure 27.26'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -634,8 +826,24 @@
               "value": "\"L'heure est venue de me plaindre\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"L'heure est venue de me plaindre\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"L'heure est venue de me plaindre\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -683,8 +891,24 @@
               "value": "\"L'heure est venue de me plaindre\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"L'heure est venue de me plaindre\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"L'heure est venue de me plaindre\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -732,8 +956,24 @@
               "value": "'Allez regrets vuides de ma pr\u00e9sence'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson', 'Rondeau'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Allez regrets vuides de ma pr\u00e9sence'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Allez regrets vuides de ma pr\u00e9sence'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson', 'Rondeau'"
             }
           ],
           "height": 1000,
@@ -781,8 +1021,24 @@
               "value": "'Les grands regrets que sans cesses je porte'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Les grands regrets que sans cesses je porte'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Les grands regrets que sans cesses je porte'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -830,8 +1086,24 @@
               "value": "\"Va t'en regrets celluy qui me convoy\u00e9\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Ghizeghem, Hayne van'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Va t'en regrets celluy qui me convoy\u00e9\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Va t'en regrets celluy qui me convoy\u00e9\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -879,8 +1151,24 @@
               "value": "'Qui belles amours a souvent si lez remue'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Ghizeghem, Hayne van'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Qui belles amours a souvent si lez remue'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Qui belles amours a souvent si lez remue'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -928,8 +1216,24 @@
               "value": "\"Se je vous eslonge de l'oeil\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Se je vous eslonge de l'oeil\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Se je vous eslonge de l'oeil\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -977,8 +1281,24 @@
               "value": "\"Se je vous eslonge de l'oeil\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Se je vous eslonge de l'oeil\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Se je vous eslonge de l'oeil\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1026,8 +1346,24 @@
               "value": "\"Se vous voulez m'estre loyalle et bonne = Je vous en prise\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Se vous voulez m'estre loyalle et bonne = Je vous en prise\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Se vous voulez m'estre loyalle et bonne = Je vous en prise\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1075,8 +1411,24 @@
               "value": "\"Se vous voulez m'estre loyalle et bonne = Je vous en prise\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Se vous voulez m'estre loyalle et bonne = Je vous en prise\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Se vous voulez m'estre loyalle et bonne = Je vous en prise\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1124,8 +1476,24 @@
               "value": "\"Ha qu'il m'ennuie et que je ne treuve\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Ha qu'il m'ennuie et que je ne treuve\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Ha qu'il m'ennuie et que je ne treuve\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1173,8 +1541,24 @@
               "value": "'Seul et heureulx par fortune'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Seul et heureulx par fortune'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Seul et heureulx par fortune'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1222,8 +1606,24 @@
               "value": "'La saison en est ou jamais que je cognoisce'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Ghizeghem, Hayne van'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'La saison en est ou jamais que je cognoisce'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'La saison en est ou jamais que je cognoisce'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1271,8 +1671,24 @@
               "value": "'Penser en vous'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Penser en vous'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Penser en vous'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1320,8 +1736,24 @@
               "value": "'Venez regretz sourdes en habondar ce acompaigner'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Fresneau, Jehan'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Venez regretz sourdes en habondar ce acompaigner'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Venez regretz sourdes en habondar ce acompaigner'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1369,8 +1801,24 @@
               "value": "'Des fais mondains tant ay ou bonne chance'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Des fais mondains tant ay ou bonne chance'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Des fais mondains tant ay ou bonne chance'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1418,8 +1866,24 @@
               "value": "\"De plus en plus d'ardant desir\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"De plus en plus d'ardant desir\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"De plus en plus d'ardant desir\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1467,8 +1931,24 @@
               "value": "'Mon souvenir mi fait morir pour les regrets'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Mon souvenir mi fait morir pour les regrets'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Mon souvenir mi fait morir pour les regrets'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1516,8 +1996,24 @@
               "value": "'A heur le tiens le bien'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'A heur le tiens le bien'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'A heur le tiens le bien'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1565,8 +2061,24 @@
               "value": "'O vos omnes qui transitis /  O devots coeurs'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Ghizeghem, Hayne van'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson', 'Contrafactum', 'Motet'"
+            },
+            {
               "label": "Work title second view",
               "value": "'O vos omnes qui transitis /  O devots coeurs'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'O vos omnes qui transitis /  O devots coeurs'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson', 'Contrafactum', 'Motet'"
             }
           ],
           "height": 1000,
@@ -1614,8 +2126,24 @@
               "value": "'Comme femme desconfortee (II)'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson', 'Contrafactum'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Comme femme desconfortee (II)'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Comme femme desconfortee (II)'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson', 'Contrafactum'"
             }
           ],
           "height": 1000,
@@ -1663,8 +2191,24 @@
               "value": "'Se cong\u00e9 prens de mes belles amours'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Ballade'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Se cong\u00e9 prens de mes belles amours'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Se cong\u00e9 prens de mes belles amours'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Ballade'"
             }
           ],
           "height": 1000,
@@ -1712,8 +2256,24 @@
               "value": "\"Se mieulx ne vient d'amours\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Se mieulx ne vient d'amours\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Se mieulx ne vient d'amours\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1761,8 +2321,24 @@
               "value": "\"Plus qu'autre ay eu ma joye douloureuse\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Ghizeghem, Hayne van'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Plus qu'autre ay eu ma joye douloureuse\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Plus qu'autre ay eu ma joye douloureuse\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1810,8 +2386,24 @@
               "value": "\"En l'ombre d'ung buissonet tout au long d'une riviere\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"En l'ombre d'ung buissonet tout au long d'une riviere\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"En l'ombre d'ung buissonet tout au long d'une riviere\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1859,8 +2451,24 @@
               "value": "'La regretee en tous biens acomplie'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Obrecht, Jacobus (ca. 1457\u20131505)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'La regretee en tous biens acomplie'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'La regretee en tous biens acomplie'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1908,8 +2516,24 @@
               "value": "'Je say tout - 1a pars (of 2): Je say tout ce qui me nuit'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Je say tout - 1a pars (of 2): Je say tout ce qui me nuit'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Je say tout - 1a pars (of 2): Je say tout ce qui me nuit'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -1957,8 +2581,24 @@
               "value": "\"Fors seulement l'attente que je meure = Frayres y dexedes me\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Fors seulement l'attente que je meure = Frayres y dexedes me\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Fors seulement l'attente que je meure = Frayres y dexedes me\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2006,8 +2646,24 @@
               "value": "\"Il n'est vivant tant soit savant ou sage = Penses vivant\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Il n'est vivant tant soit savant ou sage = Penses vivant\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Il n'est vivant tant soit savant ou sage = Penses vivant\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2055,8 +2711,24 @@
               "value": "\"Il n'est vivant tant soit savant ou sage = Penses vivant\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Il n'est vivant tant soit savant ou sage = Penses vivant\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Il n'est vivant tant soit savant ou sage = Penses vivant\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2104,8 +2776,24 @@
               "value": "'Helas pour quoy ne suys je marye'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Helas pour quoy ne suys je marye'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Helas pour quoy ne suys je marye'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2153,8 +2841,24 @@
               "value": "'Je ne vis oncques la pareille de vous'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Je ne vis oncques la pareille de vous'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Je ne vis oncques la pareille de vous'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2202,8 +2906,24 @@
               "value": "\"Royne des flours que ie desire tant = C'est vous\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Royne des flours que ie desire tant = C'est vous\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Royne des flours que ie desire tant = C'est vous\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2251,8 +2971,24 @@
               "value": "'Faisons boutons le beau tamps est venu'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Ghizeghem, Hayne van'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Faisons boutons le beau tamps est venu'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Faisons boutons le beau tamps est venu'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2300,8 +3036,24 @@
               "value": "'Fin che vivo et poi la morte'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Ghizeghem, Hayne van'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Italian secular'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Fin che vivo et poi la morte'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Fin che vivo et poi la morte'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Italian secular'"
             }
           ],
           "height": 1000,
@@ -2349,8 +3101,24 @@
               "value": "'Yo so contento de la mya dona'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Italian secular'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Yo so contento de la mya dona'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Yo so contento de la mya dona'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Italian secular'"
             }
           ],
           "height": 1000,
@@ -2398,8 +3166,24 @@
               "value": "'Que vous madame / In pace in idipsum 27.33'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Motet'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Que vous madame / In pace in idipsum 27.33'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Que vous madame / In pace in idipsum 27.33'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Motet'"
             }
           ],
           "height": 1000,
@@ -2447,8 +3231,24 @@
               "value": "'La gaie pastour ma donne samour'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'La gaie pastour ma donne samour'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'La gaie pastour ma donne samour'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2496,8 +3296,24 @@
               "value": "\"Se je perdu mon amy je n'ai pas cause 27.34\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Se je perdu mon amy je n'ai pas cause 27.34\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Se je perdu mon amy je n'ai pas cause 27.34\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2545,8 +3361,24 @@
               "value": "'Mon seul plaisir 28.26 - 1a pars (of 2): Mon seul plaisir'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Italian secular'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Mon seul plaisir 28.26 - 1a pars (of 2): Mon seul plaisir'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Mon seul plaisir 28.26 - 1a pars (of 2): Mon seul plaisir'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Italian secular'"
             }
           ],
           "height": 1000,
@@ -2594,8 +3426,24 @@
               "value": "'Ce moys de may par ung doulx asserant'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Ce moys de may par ung doulx asserant'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Ce moys de may par ung doulx asserant'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2643,8 +3491,24 @@
               "value": "'Ce moys de may par ung doulx asserant'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Ce moys de may par ung doulx asserant'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Ce moys de may par ung doulx asserant'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2692,8 +3556,24 @@
               "value": "'Pastourelle jolie dieu vous doint'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Pastourelle jolie dieu vous doint'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Pastourelle jolie dieu vous doint'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2741,8 +3621,24 @@
               "value": "'Pastourelle jolie dieu vous doint'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Pastourelle jolie dieu vous doint'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Pastourelle jolie dieu vous doint'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2790,8 +3686,24 @@
               "value": "'Amoreuse mi fault estre'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Italian secular'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Amoreuse mi fault estre'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Amoreuse mi fault estre'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Italian secular'"
             }
           ],
           "height": 1000,
@@ -2839,8 +3751,24 @@
               "value": "'Tant belle mi son pensade'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Tant belle mi son pensade'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Tant belle mi son pensade'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2888,8 +3816,24 @@
               "value": "\"Se j'avoye de la soye et du fil\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Se j'avoye de la soye et du fil\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Se j'avoye de la soye et du fil\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2937,8 +3881,24 @@
               "value": "'Lourdault Lourdault garde que tu feras 28.23'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Despres, Josquin (ca. 1450\u20131521)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Lourdault Lourdault garde que tu feras 28.23'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Lourdault Lourdault garde que tu feras 28.23'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -2986,8 +3946,24 @@
               "value": "\"L'autre jour my chevauchoye tout du long d'une montaine\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"L'autre jour my chevauchoye tout du long d'une montaine\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"L'autre jour my chevauchoye tout du long d'une montaine\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3035,8 +4011,24 @@
               "value": "\"La nuyt s'en va et le jour vient\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"La nuyt s'en va et le jour vient\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"La nuyt s'en va et le jour vient\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3084,8 +4076,24 @@
               "value": "'Il etait un bon homme qui venoit de Lyons'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Despres, Josquin (ca. 1450\u20131521)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Il etait un bon homme qui venoit de Lyons'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Il etait un bon homme qui venoit de Lyons'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3133,8 +4141,24 @@
               "value": "\"Fors seulement l'atent que je meure (II)\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Petit, Nino le'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Fors seulement l'atent que je meure (II)\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Fors seulement l'atent que je meure (II)\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3182,8 +4206,24 @@
               "value": "'Crux triumphans - 1a pars (of 2): Crux triumphans decus potentium'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Despres, Josquin (ca. 1450\u20131521)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Motet'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Crux triumphans - 1a pars (of 2): Crux triumphans decus potentium'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Crux triumphans - 1a pars (of 2): Crux triumphans decus potentium'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Motet'"
             }
           ],
           "height": 1000,
@@ -3231,8 +4271,24 @@
               "value": "'Crux triumphans - 2a pars (of 2): Jesus nomen dignum triumphale'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Motet'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Crux triumphans - 2a pars (of 2): Jesus nomen dignum triumphale'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Crux triumphans - 2a pars (of 2): Jesus nomen dignum triumphale'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Motet'"
             }
           ],
           "height": 1000,
@@ -3280,8 +4336,24 @@
               "value": "'My levay par ung matin a la fresche matinade'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'My levay par ung matin a la fresche matinade'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'My levay par ung matin a la fresche matinade'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3329,8 +4401,24 @@
               "value": "'Mary de par sa mere pour quoy me printe'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Mary de par sa mere pour quoy me printe'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Mary de par sa mere pour quoy me printe'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3378,8 +4466,24 @@
               "value": "\"La cuillier d'or lureau bruneau\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Isaac, Heinrich (ca. 1450\u20131517)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"La cuillier d'or lureau bruneau\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"La cuillier d'or lureau bruneau\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3427,8 +4531,24 @@
               "value": "'Faictes si vous plaist'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Faictes si vous plaist'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Faictes si vous plaist'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3476,8 +4596,24 @@
               "value": "'Faictes si vous plaist'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Faictes si vous plaist'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Faictes si vous plaist'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3525,8 +4661,24 @@
               "value": "'Seullette suis au boys entree'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Petit, Nino le'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Seullette suis au boys entree'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Seullette suis au boys entree'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3574,8 +4726,24 @@
               "value": "\"Mon mari m'a diffamee\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Mon mari m'a diffamee\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Mon mari m'a diffamee\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3623,8 +4791,24 @@
               "value": "\"Mon mari m'a diffamee\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"Mon mari m'a diffamee\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"Mon mari m'a diffamee\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3672,8 +4856,24 @@
               "value": "\"L'amour de moy si est enclose\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Despres, Josquin (ca. 1450\u20131521)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"L'amour de moy si est enclose\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"L'amour de moy si est enclose\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3721,8 +4921,24 @@
               "value": "\"L'amour de moy si est enclose\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Despres, Josquin (ca. 1450\u20131521)'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"L'amour de moy si est enclose\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"L'amour de moy si est enclose\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3770,8 +4986,24 @@
               "value": "\"M'amiette m'a mande\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"M'amiette m'a mande\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"M'amiette m'a mande\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3819,8 +5051,24 @@
               "value": "\"M'amiette m'a mande\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"M'amiette m'a mande\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"M'amiette m'a mande\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3868,8 +5116,24 @@
               "value": "\"A l'ombre d'ung buissonet au matinet 27.2\""
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "\"A l'ombre d'ung buissonet au matinet 27.2\""
+            },
+            {
+              "label": "Composer second view",
+              "value": "\"A l'ombre d'ung buissonet au matinet 27.2\""
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3917,8 +5181,24 @@
               "value": "'Triste et pensif suis sans mot dire'"
             },
             {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre first view",
+              "value": "'Chanson'"
+            },
+            {
               "label": "Work title second view",
               "value": "'Triste et pensif suis sans mot dire'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Triste et pensif suis sans mot dire'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Chanson'"
             }
           ],
           "height": 1000,
@@ -3966,8 +5246,24 @@
               "value": "None"
             },
             {
+              "label": "Composer first view",
+              "value": "None"
+            },
+            {
+              "label": "Genre first view",
+              "value": "None"
+            },
+            {
               "label": "Work title second view",
               "value": "'Consumo la mia vita a poco a poco'"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Consumo la mia vita a poco a poco'"
+            },
+            {
+              "label": "Genre second view",
+              "value": "'Motet'"
             }
           ],
           "height": 1000,
