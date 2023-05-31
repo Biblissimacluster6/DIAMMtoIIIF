@@ -6574,23 +6574,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'In virtute nominum / Decens carmen edere / Clamor meus'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Motet'"
             },
             {
               "label": "Folio start",
-              "value": "NP"
+              "value": "48r"
             },
             {
               "label": "Folio end",
-              "value": "NP"
+              "value": "48r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Vitry, Philippe de (1291\u20131361)'"
             }
           ],
           "height": 1000,
@@ -6635,7 +6635,7 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'Flos ortus inter lilia quorum radix / Celsa cedrus ysopus effecta / O quam magnus pontifex'"
+              "value": "'O canenda vulgo per computa / Rex quem metrorum depingit / Rex regnum'"
             },
             {
               "label": "Genre",
@@ -6643,11 +6643,11 @@
             },
             {
               "label": "Folio start",
-              "value": "49r"
+              "value": "48v"
             },
             {
               "label": "Folio end",
-              "value": "49r"
+              "value": "48v"
             },
             {
               "label": "Composer",
@@ -6696,7 +6696,7 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'Beatius se servans liberat / Cum humanum sit peccare'"
+              "value": "'Flos ortus inter lilia quorum radix / Celsa cedrus ysopus effecta / O quam magnus pontifex'"
             },
             {
               "label": "Genre",
@@ -6704,11 +6704,11 @@
             },
             {
               "label": "Folio start",
-              "value": "49v"
+              "value": "49r"
             },
             {
               "label": "Folio end",
-              "value": "49v"
+              "value": "49r"
             },
             {
               "label": "Composer",
@@ -6757,7 +6757,7 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'In virtute nominum / Decens carmen edere / Clamor meus'"
+              "value": "'Beatius se servans liberat / Cum humanum sit peccare'"
             },
             {
               "label": "Genre",
@@ -6765,11 +6765,11 @@
             },
             {
               "label": "Folio start",
-              "value": "48r"
+              "value": "49v"
             },
             {
               "label": "Folio end",
-              "value": "48r"
+              "value": "49v"
             },
             {
               "label": "Composer",
