@@ -46,8 +46,20 @@
           "label": "Canvas 0",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer",
@@ -95,8 +107,20 @@
           "label": "Canvas 1",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer",
@@ -144,8 +168,20 @@
           "label": "Canvas 2",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer",
@@ -193,8 +229,20 @@
           "label": "Canvas 3",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer",
@@ -242,8 +290,20 @@
           "label": "Canvas 4",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer",
@@ -291,8 +351,20 @@
           "label": "Canvas 5",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer",
@@ -340,8 +412,20 @@
           "label": "Canvas 6",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer",
@@ -389,8 +473,20 @@
           "label": "Canvas 7",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer",
@@ -438,8 +534,20 @@
           "label": "Canvas 8",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer",
@@ -487,8 +595,20 @@
           "label": "Canvas 9",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "None"
+            },
+            {
+              "label": "Genre",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer",
@@ -536,8 +656,20 @@
           "label": "Canvas 10",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Hora cridar \"Oime\" posso ben io'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "0v"
+            },
+            {
+              "label": "Folio end",
+              "value": "1r"
             },
             {
               "label": "Composer",
@@ -577,22 +709,28 @@
               },
               "on": "https://example.com/iiif/canvas/f10.json"
             }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annot2.json",
-              "@type": "sc:AnnotationList"
-            }
           ]
-        }, 
+        },
         {
           "@id": "https://example.com/iiif/canvas/f11.json",
           "@type": "sc:Canvas",
           "label": "Canvas 11",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Hora cridar \"Oime\" posso ben io'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "0v"
+            },
+            {
+              "label": "Folio end",
+              "value": "1r"
             },
             {
               "label": "Composer",
@@ -632,13 +770,7 @@
               },
               "on": "https://example.com/iiif/canvas/f11.json"
             }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://raw.githubusercontent.com/KevinRog/IIIFProject/main/annotation1_Cordiforme.json",
-              "@type": "sc:AnnotationList"
-            }
-          ]  
+          ]
         },
         {
           "@id": "https://example.com/iiif/canvas/f12.json",
@@ -646,8 +778,20 @@
           "label": "Canvas 12",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Ben lo sa Dio lauda'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "1v"
+            },
+            {
+              "label": "Folio end",
+              "value": "2r"
             },
             {
               "label": "Composer",
@@ -695,8 +839,20 @@
           "label": "Canvas 13",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Ben lo sa Dio lauda'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "1v"
+            },
+            {
+              "label": "Folio end",
+              "value": "2r"
             },
             {
               "label": "Composer",
@@ -744,8 +900,20 @@
           "label": "Canvas 14",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Dona gentile belle come l'oro\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "2v"
+            },
+            {
+              "label": "Folio end",
+              "value": "3r"
             },
             {
               "label": "Composer",
@@ -793,8 +961,20 @@
           "label": "Canvas 15",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Dona gentile belle come l'oro\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "2v"
+            },
+            {
+              "label": "Folio end",
+              "value": "3r"
             },
             {
               "label": "Composer",
@@ -842,12 +1022,24 @@
           "label": "Canvas 16",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Gentil madona de no me habandonare'"
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "3v"
+            },
+            {
+              "label": "Folio end",
+              "value": "5r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Bedingham, John (\u2013ca. 1460)'"
             }
           ],
           "height": 1000,
@@ -891,12 +1083,24 @@
           "label": "Canvas 17",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Gentil madona de no me habandonare'"
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "3v"
+            },
+            {
+              "label": "Folio end",
+              "value": "5r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Bedingham, John (\u2013ca. 1460)'"
             }
           ],
           "height": 1000,
@@ -940,12 +1144,24 @@
           "label": "Canvas 18",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Gentil madona de no me habandonare'"
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "3v"
+            },
+            {
+              "label": "Folio end",
+              "value": "5r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Bedingham, John (\u2013ca. 1460)'"
             }
           ],
           "height": 1000,
@@ -989,12 +1205,24 @@
           "label": "Canvas 19",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Gentil madona de no me habandonare'"
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "3v"
+            },
+            {
+              "label": "Folio end",
+              "value": "5r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Bedingham, John (\u2013ca. 1460)'"
             }
           ],
           "height": 1000,
@@ -1038,8 +1266,20 @@
           "label": "Canvas 20",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Chiara fontana de' belli costumi\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "5v"
+            },
+            {
+              "label": "Folio end",
+              "value": "6r"
             },
             {
               "label": "Composer",
@@ -1087,8 +1327,20 @@
           "label": "Canvas 21",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Chiara fontana de' belli costumi\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "5v"
+            },
+            {
+              "label": "Folio end",
+              "value": "6r"
             },
             {
               "label": "Composer",
@@ -1136,8 +1388,20 @@
           "label": "Canvas 22",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O pellegrina o luce chiera stella'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "6v"
+            },
+            {
+              "label": "Folio end",
+              "value": "8r"
             },
             {
               "label": "Composer",
@@ -1185,8 +1449,20 @@
           "label": "Canvas 23",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O pellegrina o luce chiera stella'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "6v"
+            },
+            {
+              "label": "Folio end",
+              "value": "8r"
             },
             {
               "label": "Composer",
@@ -1234,8 +1510,20 @@
           "label": "Canvas 24",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O pellegrina o luce chiera stella'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "6v"
+            },
+            {
+              "label": "Folio end",
+              "value": "8r"
             },
             {
               "label": "Composer",
@@ -1283,8 +1571,20 @@
           "label": "Canvas 25",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O pellegrina o luce chiera stella'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "6v"
+            },
+            {
+              "label": "Folio end",
+              "value": "8r"
             },
             {
               "label": "Composer",
@@ -1332,12 +1632,24 @@
           "label": "Canvas 26",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O rosa bella, o Deitatis cella (= O quam suavis est domina)'"
             },
             {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "8v"
+            },
+            {
+              "label": "Folio end",
+              "value": "10r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Bedingham, John (\u2013ca. 1460)' or 'Dunstaple, John (ca. 1390\u20131453)'"
             }
           ],
           "height": 1000,
@@ -1381,12 +1693,24 @@
           "label": "Canvas 27",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O rosa bella, o Deitatis cella (= O quam suavis est domina)'"
             },
             {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "8v"
+            },
+            {
+              "label": "Folio end",
+              "value": "10r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Bedingham, John (\u2013ca. 1460)' or 'Dunstaple, John (ca. 1390\u20131453)'"
             }
           ],
           "height": 1000,
@@ -1430,12 +1754,24 @@
           "label": "Canvas 28",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O rosa bella, o Deitatis cella (= O quam suavis est domina)'"
             },
             {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "8v"
+            },
+            {
+              "label": "Folio end",
+              "value": "10r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Bedingham, John (\u2013ca. 1460)' or 'Dunstaple, John (ca. 1390\u20131453)'"
             }
           ],
           "height": 1000,
@@ -1479,12 +1815,24 @@
           "label": "Canvas 29",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O rosa bella, o Deitatis cella (= O quam suavis est domina)'"
             },
             {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "8v"
+            },
+            {
+              "label": "Folio end",
+              "value": "10r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Bedingham, John (\u2013ca. 1460)' or 'Dunstaple, John (ca. 1390\u20131453)'"
             }
           ],
           "height": 1000,
@@ -1528,12 +1876,24 @@
           "label": "Canvas 30",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'La gratia de voe'"
             },
             {
+              "label": "Genre",
+              "value": "Italian secular"
+            },
+            {
+              "label": "Folio start",
+              "value": "10v"
+            },
+            {
+              "label": "Folio end",
+              "value": "11r"
+            },
+            {
               "label": "Composer",
-              "value": "'Dunstaple, John (ca. 1390\u20131453)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -1577,12 +1937,24 @@
           "label": "Canvas 31",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'La gratia de voe'"
             },
             {
+              "label": "Genre",
+              "value": "Italian secular"
+            },
+            {
+              "label": "Folio start",
+              "value": "10v"
+            },
+            {
+              "label": "Folio end",
+              "value": "11r"
+            },
+            {
               "label": "Composer",
-              "value": "'Dunstaple, John (ca. 1390\u20131453)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -1626,8 +1998,20 @@
           "label": "Canvas 32",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Per la mya cara'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "11v"
+            },
+            {
+              "label": "Folio end",
+              "value": "12r"
             },
             {
               "label": "Composer",
@@ -1675,8 +2059,20 @@
           "label": "Canvas 33",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Per la mya cara'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "11v"
+            },
+            {
+              "label": "Folio end",
+              "value": "12r"
             },
             {
               "label": "Composer",
@@ -1724,12 +2120,24 @@
           "label": "Canvas 34",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Morte merc\u00e9  - 1a pars (of 2): Morte merc\u00e9 gentile aquil'altera\""
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "12v"
+            },
+            {
+              "label": "Folio end",
+              "value": "13r"
+            },
+            {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Cornago, Juan de'"
             }
           ],
           "height": 1000,
@@ -1773,12 +2181,24 @@
           "label": "Canvas 35",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Morte merc\u00e9  - 1a pars (of 2): Morte merc\u00e9 gentile aquil'altera\""
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "12v"
+            },
+            {
+              "label": "Folio end",
+              "value": "13r"
+            },
+            {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Cornago, Juan de'"
             }
           ],
           "height": 1000,
@@ -1822,12 +2242,24 @@
           "label": "Canvas 36",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Finir vogl'io la vita mya\""
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "13v"
+            },
+            {
+              "label": "Folio end",
+              "value": "14r"
+            },
+            {
               "label": "Composer",
-              "value": "'Cornago, Juan de'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -1871,12 +2303,24 @@
           "label": "Canvas 37",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Finir vogl'io la vita mya\""
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "13v"
+            },
+            {
+              "label": "Folio end",
+              "value": "14r"
+            },
+            {
               "label": "Composer",
-              "value": "'Cornago, Juan de'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -1920,12 +2364,24 @@
           "label": "Canvas 38",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Morte merc\u00e9  - 2a pars (of 2): Amor con l'arco tesso\""
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "14v"
+            },
+            {
+              "label": "Folio end",
+              "value": "15r"
+            },
+            {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Cornago, Juan de'"
             }
           ],
           "height": 1000,
@@ -1969,12 +2425,24 @@
           "label": "Canvas 39",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Morte merc\u00e9  - 2a pars (of 2): Amor con l'arco tesso\""
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "14v"
+            },
+            {
+              "label": "Folio end",
+              "value": "15r"
+            },
+            {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Cornago, Juan de'"
             }
           ],
           "height": 1000,
@@ -2018,12 +2486,24 @@
           "label": "Canvas 40",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O pellegrina o luce chiara stella'"
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "15v"
+            },
+            {
+              "label": "Folio end",
+              "value": "17r"
+            },
+            {
               "label": "Composer",
-              "value": "'Cornago, Juan de'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2067,12 +2547,24 @@
           "label": "Canvas 41",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O pellegrina o luce chiara stella'"
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "15v"
+            },
+            {
+              "label": "Folio end",
+              "value": "17r"
+            },
+            {
               "label": "Composer",
-              "value": "'Cornago, Juan de'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2116,12 +2608,24 @@
           "label": "Canvas 42",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O pellegrina o luce chiara stella'"
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "15v"
+            },
+            {
+              "label": "Folio end",
+              "value": "17r"
+            },
+            {
               "label": "Composer",
-              "value": "'Cornago, Juan de'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2165,12 +2669,24 @@
           "label": "Canvas 43",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'O pellegrina o luce chiara stella'"
             },
             {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "15v"
+            },
+            {
+              "label": "Folio end",
+              "value": "17r"
+            },
+            {
               "label": "Composer",
-              "value": "'Cornago, Juan de'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2214,8 +2730,20 @@
           "label": "Canvas 44",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"O meschin' enamorati\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "17v"
+            },
+            {
+              "label": "Folio end",
+              "value": "19r"
             },
             {
               "label": "Composer",
@@ -2263,8 +2791,20 @@
           "label": "Canvas 45",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"O meschin' enamorati\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "17v"
+            },
+            {
+              "label": "Folio end",
+              "value": "19r"
             },
             {
               "label": "Composer",
@@ -2312,8 +2852,20 @@
           "label": "Canvas 46",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"O meschin' enamorati\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "17v"
+            },
+            {
+              "label": "Folio end",
+              "value": "19r"
             },
             {
               "label": "Composer",
@@ -2361,8 +2913,20 @@
           "label": "Canvas 47",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"O meschin' enamorati\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Italian secular'"
+            },
+            {
+              "label": "Folio start",
+              "value": "17v"
+            },
+            {
+              "label": "Folio end",
+              "value": "19r"
             },
             {
               "label": "Composer",
@@ -2410,8 +2974,20 @@
           "label": "Canvas 48",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Comme ung homme desconforte'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "19v"
+            },
+            {
+              "label": "Folio end",
+              "value": "20r"
             },
             {
               "label": "Composer",
@@ -2459,8 +3035,20 @@
           "label": "Canvas 49",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Comme ung homme desconforte'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "19v"
+            },
+            {
+              "label": "Folio end",
+              "value": "20r"
             },
             {
               "label": "Composer",
@@ -2508,8 +3096,20 @@
           "label": "Canvas 50",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"S'il vous plaist que vostre je soye\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "20v"
+            },
+            {
+              "label": "Folio end",
+              "value": "21r"
             },
             {
               "label": "Composer",
@@ -2557,8 +3157,20 @@
           "label": "Canvas 51",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"S'il vous plaist que vostre je soye\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "20v"
+            },
+            {
+              "label": "Folio end",
+              "value": "21r"
             },
             {
               "label": "Composer",
@@ -2606,8 +3218,20 @@
           "label": "Canvas 52",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"L'aultre jour, par un matin esbatre m'en aloye\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "21v"
+            },
+            {
+              "label": "Folio end",
+              "value": "23r"
             },
             {
               "label": "Composer",
@@ -2655,8 +3279,20 @@
           "label": "Canvas 53",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"L'aultre jour, par un matin esbatre m'en aloye\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "21v"
+            },
+            {
+              "label": "Folio end",
+              "value": "23r"
             },
             {
               "label": "Composer",
@@ -2704,8 +3340,20 @@
           "label": "Canvas 54",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"L'aultre jour, par un matin esbatre m'en aloye\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "21v"
+            },
+            {
+              "label": "Folio end",
+              "value": "23r"
             },
             {
               "label": "Composer",
@@ -2753,8 +3401,20 @@
           "label": "Canvas 55",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"L'aultre jour, par un matin esbatre m'en aloye\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "21v"
+            },
+            {
+              "label": "Folio end",
+              "value": "23r"
             },
             {
               "label": "Composer",
@@ -2802,8 +3462,20 @@
           "label": "Canvas 56",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"J'ai pris amours\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "23v"
+            },
+            {
+              "label": "Folio end",
+              "value": "24r"
             },
             {
               "label": "Composer",
@@ -2851,8 +3523,20 @@
           "label": "Canvas 57",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"J'ai pris amours\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "23v"
+            },
+            {
+              "label": "Folio end",
+              "value": "24r"
             },
             {
               "label": "Composer",
@@ -2900,12 +3584,24 @@
           "label": "Canvas 58",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"L'aultre d'antan\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "24v"
+            },
+            {
+              "label": "Folio end",
+              "value": "25r"
+            },
+            {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -2949,12 +3645,24 @@
           "label": "Canvas 59",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"L'aultre d'antan\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "24v"
+            },
+            {
+              "label": "Folio end",
+              "value": "25r"
+            },
+            {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -2998,12 +3706,24 @@
           "label": "Canvas 60",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'De tous biens plaine est ma ma\u00eetresse [= Cum defecerint ligna]'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "25v"
+            },
+            {
+              "label": "Folio end",
+              "value": "26r"
+            },
+            {
               "label": "Composer",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+              "value": "'Ghizeghem, Hayne van'"
             }
           ],
           "height": 1000,
@@ -3047,12 +3767,24 @@
           "label": "Canvas 61",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'De tous biens plaine est ma ma\u00eetresse [= Cum defecerint ligna]'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "25v"
+            },
+            {
+              "label": "Folio end",
+              "value": "26r"
+            },
+            {
               "label": "Composer",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+              "value": "'Ghizeghem, Hayne van'"
             }
           ],
           "height": 1000,
@@ -3096,12 +3828,24 @@
           "label": "Canvas 62",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"J'ai mains de biens - 1a pars (of 2): J'ai mains de biens que s'il n'en estoit nuls = O mira circa nos\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "26v"
+            },
+            {
+              "label": "Folio end",
+              "value": "27r"
+            },
+            {
               "label": "Composer",
-              "value": "'Ghizeghem, Hayne van'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -3145,12 +3889,24 @@
           "label": "Canvas 63",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"J'ai mains de biens - 1a pars (of 2): J'ai mains de biens que s'il n'en estoit nuls = O mira circa nos\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "26v"
+            },
+            {
+              "label": "Folio end",
+              "value": "27r"
+            },
+            {
               "label": "Composer",
-              "value": "'Ghizeghem, Hayne van'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -3194,8 +3950,20 @@
           "label": "Canvas 64",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"J'ai mains de biens - 2a pars (of 2): [chanson text] = O felix culpa\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "27v"
+            },
+            {
+              "label": "Folio end",
+              "value": "28r"
             },
             {
               "label": "Composer",
@@ -3243,8 +4011,20 @@
           "label": "Canvas 65",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"J'ai mains de biens - 2a pars (of 2): [chanson text] = O felix culpa\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "27v"
+            },
+            {
+              "label": "Folio end",
+              "value": "28r"
             },
             {
               "label": "Composer",
@@ -3292,12 +4072,24 @@
           "label": "Canvas 66",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Vostre bruit et vostre grant fame'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson', 'Rondeau'"
+            },
+            {
+              "label": "Folio start",
+              "value": "28v"
+            },
+            {
+              "label": "Folio end",
+              "value": "29r"
+            },
+            {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -3341,12 +4133,24 @@
           "label": "Canvas 67",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Vostre bruit et vostre grant fame'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson', 'Rondeau'"
+            },
+            {
+              "label": "Folio start",
+              "value": "28v"
+            },
+            {
+              "label": "Folio end",
+              "value": "29r"
+            },
+            {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -3390,12 +4194,24 @@
           "label": "Canvas 68",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Cent mille escus quand je voldroie'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "29v"
+            },
+            {
+              "label": "Folio end",
+              "value": "30r"
+            },
+            {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)' or 'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -3439,12 +4255,24 @@
           "label": "Canvas 69",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Cent mille escus quand je voldroie'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "29v"
+            },
+            {
+              "label": "Folio end",
+              "value": "30r"
+            },
+            {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)' or 'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -3488,12 +4316,24 @@
           "label": "Canvas 70",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Le souvenir de vous me tue mon seul bien'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "30v"
+            },
+            {
+              "label": "Folio end",
+              "value": "31r"
+            },
+            {
               "label": "Composer",
-              "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
+              "value": "'Morton, Robert'"
             }
           ],
           "height": 1000,
@@ -3537,12 +4377,24 @@
           "label": "Canvas 71",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Le souvenir de vous me tue mon seul bien'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "30v"
+            },
+            {
+              "label": "Folio end",
+              "value": "31r"
+            },
+            {
               "label": "Composer",
-              "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
+              "value": "'Morton, Robert'"
             }
           ],
           "height": 1000,
@@ -3586,12 +4438,24 @@
           "label": "Canvas 72",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"L'homme banny de sa plaisance\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "31v"
+            },
+            {
+              "label": "Folio end",
+              "value": "32r"
+            },
+            {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Barbingant, Pierre' or 'Fede, Johannes'"
             }
           ],
           "height": 1000,
@@ -3635,12 +4499,24 @@
           "label": "Canvas 73",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"L'homme banny de sa plaisance\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "31v"
+            },
+            {
+              "label": "Folio end",
+              "value": "32r"
+            },
+            {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Barbingant, Pierre' or 'Fede, Johannes'"
             }
           ],
           "height": 1000,
@@ -3684,8 +4560,20 @@
           "label": "Canvas 74",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"N'aray je jamais mieux que j'ai\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "32v"
+            },
+            {
+              "label": "Folio end",
+              "value": "33r"
             },
             {
               "label": "Composer",
@@ -3733,8 +4621,20 @@
           "label": "Canvas 75",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"N'aray je jamais mieux que j'ai\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "32v"
+            },
+            {
+              "label": "Folio end",
+              "value": "33r"
             },
             {
               "label": "Composer",
@@ -3782,12 +4682,24 @@
           "label": "Canvas 76",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Le serviteur hault guerdonn\u00e9 assovy'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson', 'Rondeau'"
+            },
+            {
+              "label": "Folio start",
+              "value": "33v"
+            },
+            {
+              "label": "Folio end",
+              "value": "34r"
+            },
+            {
               "label": "Composer",
-              "value": "'Barbingant, Pierre'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -3831,12 +4743,24 @@
           "label": "Canvas 77",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Le serviteur hault guerdonn\u00e9 assovy'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson', 'Rondeau'"
+            },
+            {
+              "label": "Folio start",
+              "value": "33v"
+            },
+            {
+              "label": "Folio end",
+              "value": "34r"
+            },
+            {
               "label": "Composer",
-              "value": "'Barbingant, Pierre'"
+              "value": "'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -3880,12 +4804,24 @@
           "label": "Canvas 78",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson', 'Contrafactum', 'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "34v"
+            },
+            {
+              "label": "Folio end",
+              "value": "36r"
+            },
+            {
               "label": "Composer",
-              "value": "'Fede, Johannes'"
+              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
             }
           ],
           "height": 1000,
@@ -3929,12 +4865,24 @@
           "label": "Canvas 79",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson', 'Contrafactum', 'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "34v"
+            },
+            {
+              "label": "Folio end",
+              "value": "36r"
+            },
+            {
               "label": "Composer",
-              "value": "'Fede, Johannes'"
+              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
             }
           ],
           "height": 1000,
@@ -3978,12 +4926,24 @@
           "label": "Canvas 80",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson', 'Contrafactum', 'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "34v"
+            },
+            {
+              "label": "Folio end",
+              "value": "36r"
+            },
+            {
               "label": "Composer",
-              "value": "'Fede, Johannes'"
+              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
             }
           ],
           "height": 1000,
@@ -4027,12 +4987,24 @@
           "label": "Canvas 81",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson', 'Contrafactum', 'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "34v"
+            },
+            {
+              "label": "Folio end",
+              "value": "36r"
+            },
+            {
               "label": "Composer",
-              "value": "'Fede, Johannes'"
+              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
             }
           ],
           "height": 1000,
@@ -4076,12 +5048,24 @@
           "label": "Canvas 82",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Est-il merci de quoy'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "36v"
+            },
+            {
+              "label": "Folio end",
+              "value": "38r"
+            },
+            {
               "label": "Composer",
-              "value": "'Morton, Robert'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -4125,12 +5109,24 @@
           "label": "Canvas 83",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Est-il merci de quoy'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "36v"
+            },
+            {
+              "label": "Folio end",
+              "value": "38r"
+            },
+            {
               "label": "Composer",
-              "value": "'Morton, Robert'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -4174,12 +5170,24 @@
           "label": "Canvas 84",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Est-il merci de quoy'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "36v"
+            },
+            {
+              "label": "Folio end",
+              "value": "38r"
+            },
+            {
               "label": "Composer",
-              "value": "'Morton, Robert'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -4223,12 +5231,24 @@
           "label": "Canvas 85",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Est-il merci de quoy'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "36v"
+            },
+            {
+              "label": "Folio end",
+              "value": "38r"
+            },
+            {
               "label": "Composer",
-              "value": "'Morton, Robert'"
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             }
           ],
           "height": 1000,
@@ -4272,12 +5292,24 @@
           "label": "Canvas 86",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Comme femme desconfort\u00e9e'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "38v"
+            },
+            {
+              "label": "Folio end",
+              "value": "40r"
+            },
+            {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4321,12 +5353,24 @@
           "label": "Canvas 87",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Comme femme desconfort\u00e9e'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "38v"
+            },
+            {
+              "label": "Folio end",
+              "value": "40r"
+            },
+            {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4370,12 +5414,24 @@
           "label": "Canvas 88",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Comme femme desconfort\u00e9e'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "38v"
+            },
+            {
+              "label": "Folio end",
+              "value": "40r"
+            },
+            {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4419,12 +5475,24 @@
           "label": "Canvas 89",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Comme femme desconfort\u00e9e'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "38v"
+            },
+            {
+              "label": "Folio end",
+              "value": "40r"
+            },
+            {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4468,12 +5536,24 @@
           "label": "Canvas 90",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Tout a par moi'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "40v"
+            },
+            {
+              "label": "Folio end",
+              "value": "42r"
+            },
+            {
               "label": "Composer",
-              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
+              "value": "'Frye, Walter (\u2013ca. 1475)' or 'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4517,12 +5597,24 @@
           "label": "Canvas 91",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Tout a par moi'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "40v"
+            },
+            {
+              "label": "Folio end",
+              "value": "42r"
+            },
+            {
               "label": "Composer",
-              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
+              "value": "'Frye, Walter (\u2013ca. 1475)' or 'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4566,12 +5658,24 @@
           "label": "Canvas 92",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Tout a par moi'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "40v"
+            },
+            {
+              "label": "Folio end",
+              "value": "42r"
+            },
+            {
               "label": "Composer",
-              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
+              "value": "'Frye, Walter (\u2013ca. 1475)' or 'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4615,12 +5719,24 @@
           "label": "Canvas 93",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Tout a par moi'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "40v"
+            },
+            {
+              "label": "Folio end",
+              "value": "42r"
+            },
+            {
               "label": "Composer",
-              "value": "'Vincenet, Johannes (\u2013ca. 1480)'"
+              "value": "'Frye, Walter (\u2013ca. 1475)' or 'Binchois, Gilles (ca. 1400\u20131460)'"
             }
           ],
           "height": 1000,
@@ -4664,12 +5780,24 @@
           "label": "Canvas 94",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "42v"
+            },
+            {
+              "label": "Folio end",
+              "value": "44r"
+            },
+            {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -4713,12 +5841,24 @@
           "label": "Canvas 95",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "42v"
+            },
+            {
+              "label": "Folio end",
+              "value": "44r"
+            },
+            {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -4762,12 +5902,24 @@
           "label": "Canvas 96",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "42v"
+            },
+            {
+              "label": "Folio end",
+              "value": "44r"
+            },
+            {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -4811,12 +5963,24 @@
           "label": "Canvas 97",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "42v"
+            },
+            {
+              "label": "Folio end",
+              "value": "44r"
+            },
+            {
               "label": "Composer",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -4860,12 +6024,24 @@
           "label": "Canvas 98",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Mon seul plaisir, ma douce joie'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "44v"
+            },
+            {
+              "label": "Folio end",
+              "value": "46r"
+            },
+            {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Bedingham, John (\u2013ca. 1460)' or 'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -4909,12 +6085,24 @@
           "label": "Canvas 99",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Mon seul plaisir, ma douce joie'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "44v"
+            },
+            {
+              "label": "Folio end",
+              "value": "46r"
+            },
+            {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Bedingham, John (\u2013ca. 1460)' or 'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -4958,12 +6146,24 @@
           "label": "Canvas 100",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Mon seul plaisir, ma douce joie'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "44v"
+            },
+            {
+              "label": "Folio end",
+              "value": "46r"
+            },
+            {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Bedingham, John (\u2013ca. 1460)' or 'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -5007,12 +6207,24 @@
           "label": "Canvas 101",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Mon seul plaisir, ma douce joie'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "44v"
+            },
+            {
+              "label": "Folio end",
+              "value": "46r"
+            },
+            {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Bedingham, John (\u2013ca. 1460)' or 'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -5056,12 +6268,24 @@
           "label": "Canvas 102",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Ma bouche plaint les pleurs de ma pensee'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "46v"
+            },
+            {
+              "label": "Folio end",
+              "value": "48r"
+            },
+            {
               "label": "Composer",
-              "value": "'Frye, Walter (\u2013ca. 1475)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5105,12 +6329,24 @@
           "label": "Canvas 103",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Ma bouche plaint les pleurs de ma pensee'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "46v"
+            },
+            {
+              "label": "Folio end",
+              "value": "48r"
+            },
+            {
               "label": "Composer",
-              "value": "'Frye, Walter (\u2013ca. 1475)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5154,12 +6390,24 @@
           "label": "Canvas 104",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Ma bouche plaint les pleurs de ma pensee'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "46v"
+            },
+            {
+              "label": "Folio end",
+              "value": "48r"
+            },
+            {
               "label": "Composer",
-              "value": "'Frye, Walter (\u2013ca. 1475)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5203,12 +6451,24 @@
           "label": "Canvas 105",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Ma bouche plaint les pleurs de ma pensee'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "46v"
+            },
+            {
+              "label": "Folio end",
+              "value": "48r"
+            },
+            {
               "label": "Composer",
-              "value": "'Frye, Walter (\u2013ca. 1475)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5252,12 +6512,24 @@
           "label": "Canvas 106",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Vray dieu d'amours\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "48v"
+            },
+            {
+              "label": "Folio end",
+              "value": "49r"
+            },
+            {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5301,12 +6573,24 @@
           "label": "Canvas 107",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Vray dieu d'amours\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "48v"
+            },
+            {
+              "label": "Folio end",
+              "value": "49r"
+            },
+            {
               "label": "Composer",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5350,12 +6634,24 @@
           "label": "Canvas 108",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Helas, je n'ay pas os\u00e9 dire\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "49v"
+            },
+            {
+              "label": "Folio end",
+              "value": "50r"
+            },
+            {
               "label": "Composer",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5399,12 +6695,24 @@
           "label": "Canvas 109",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Helas, je n'ay pas os\u00e9 dire\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "49v"
+            },
+            {
+              "label": "Folio end",
+              "value": "50r"
+            },
+            {
               "label": "Composer",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5448,12 +6756,24 @@
           "label": "Canvas 110",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Or ay j'ay perdu mes amours\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "50v"
+            },
+            {
+              "label": "Folio end",
+              "value": "52r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5497,12 +6817,24 @@
           "label": "Canvas 111",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Or ay j'ay perdu mes amours\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "50v"
+            },
+            {
+              "label": "Folio end",
+              "value": "52r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5546,12 +6878,24 @@
           "label": "Canvas 112",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Or ay j'ay perdu mes amours\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "50v"
+            },
+            {
+              "label": "Folio end",
+              "value": "52r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5595,12 +6939,24 @@
           "label": "Canvas 113",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Or ay j'ay perdu mes amours\""
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "50v"
+            },
+            {
+              "label": "Folio end",
+              "value": "52r"
+            },
+            {
               "label": "Composer",
-              "value": "'Bedingham, John'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5644,12 +7000,24 @@
           "label": "Canvas 114",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Adieu vous dy'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "52v"
+            },
+            {
+              "label": "Folio end",
+              "value": "54r"
+            },
+            {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5693,12 +7061,24 @@
           "label": "Canvas 115",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Adieu vous dy'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "52v"
+            },
+            {
+              "label": "Folio end",
+              "value": "54r"
+            },
+            {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5742,12 +7122,24 @@
           "label": "Canvas 116",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Adieu vous dy'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "52v"
+            },
+            {
+              "label": "Folio end",
+              "value": "54r"
+            },
+            {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5791,12 +7183,24 @@
           "label": "Canvas 117",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Adieu vous dy'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "52v"
+            },
+            {
+              "label": "Folio end",
+              "value": "54r"
+            },
+            {
               "label": "Composer",
-              "value": "'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5840,8 +7244,20 @@
           "label": "Canvas 118",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Terriblement suis fortun\u00e9e'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "54v"
+            },
+            {
+              "label": "Folio end",
+              "value": "56r"
             },
             {
               "label": "Composer",
@@ -5889,8 +7305,20 @@
           "label": "Canvas 119",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Terriblement suis fortun\u00e9e'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "54v"
+            },
+            {
+              "label": "Folio end",
+              "value": "56r"
             },
             {
               "label": "Composer",
@@ -5938,8 +7366,20 @@
           "label": "Canvas 120",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Terriblement suis fortun\u00e9e'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "54v"
+            },
+            {
+              "label": "Folio end",
+              "value": "56r"
             },
             {
               "label": "Composer",
@@ -5987,8 +7427,20 @@
           "label": "Canvas 121",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Terriblement suis fortun\u00e9e'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "54v"
+            },
+            {
+              "label": "Folio end",
+              "value": "56r"
             },
             {
               "label": "Composer",
@@ -6036,8 +7488,20 @@
           "label": "Canvas 122",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'De mon povoir vous veul complaire'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "56v"
+            },
+            {
+              "label": "Folio end",
+              "value": "57r"
             },
             {
               "label": "Composer",
@@ -6085,8 +7549,20 @@
           "label": "Canvas 123",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'De mon povoir vous veul complaire'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "56v"
+            },
+            {
+              "label": "Folio end",
+              "value": "57r"
             },
             {
               "label": "Composer",
@@ -6134,8 +7610,20 @@
           "label": "Canvas 124",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Helas, n'aray je jamais\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "57v"
+            },
+            {
+              "label": "Folio end",
+              "value": "59r"
             },
             {
               "label": "Composer",
@@ -6183,8 +7671,20 @@
           "label": "Canvas 125",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Helas, n'aray je jamais\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "57v"
+            },
+            {
+              "label": "Folio end",
+              "value": "59r"
             },
             {
               "label": "Composer",
@@ -6232,8 +7732,20 @@
           "label": "Canvas 126",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Helas, n'aray je jamais\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "57v"
+            },
+            {
+              "label": "Folio end",
+              "value": "59r"
             },
             {
               "label": "Composer",
@@ -6281,8 +7793,20 @@
           "label": "Canvas 127",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "\"Helas, n'aray je jamais\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "57v"
+            },
+            {
+              "label": "Folio end",
+              "value": "59r"
             },
             {
               "label": "Composer",
@@ -6330,8 +7854,20 @@
           "label": "Canvas 128",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Quant du dire adieu me souvient'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "59v"
+            },
+            {
+              "label": "Folio end",
+              "value": "60r"
             },
             {
               "label": "Composer",
@@ -6379,8 +7915,20 @@
           "label": "Canvas 129",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Quant du dire adieu me souvient'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "59v"
+            },
+            {
+              "label": "Folio end",
+              "value": "60r"
             },
             {
               "label": "Composer",
@@ -6428,12 +7976,24 @@
           "label": "Canvas 130",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Je ne vis oncques la pareille de vous'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "60v"
+            },
+            {
+              "label": "Folio end",
+              "value": "62r"
+            },
+            {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)' or 'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -6477,12 +8037,24 @@
           "label": "Canvas 131",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Je ne vis oncques la pareille de vous'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "60v"
+            },
+            {
+              "label": "Folio end",
+              "value": "62r"
+            },
+            {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)' or 'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -6526,12 +8098,24 @@
           "label": "Canvas 132",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Je ne vis oncques la pareille de vous'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "60v"
+            },
+            {
+              "label": "Folio end",
+              "value": "62r"
+            },
+            {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)' or 'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -6575,12 +8159,24 @@
           "label": "Canvas 133",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Je ne vis oncques la pareille de vous'"
             },
             {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "60v"
+            },
+            {
+              "label": "Folio end",
+              "value": "62r"
+            },
+            {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)' or 'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -6624,8 +8220,20 @@
           "label": "Canvas 134",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Faites mon scavoir de la belle'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "62v"
+            },
+            {
+              "label": "Folio end",
+              "value": "64r"
             },
             {
               "label": "Composer",
@@ -6673,8 +8281,20 @@
           "label": "Canvas 135",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Faites mon scavoir de la belle'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "62v"
+            },
+            {
+              "label": "Folio end",
+              "value": "64r"
             },
             {
               "label": "Composer",
@@ -6722,8 +8342,20 @@
           "label": "Canvas 136",
           "metadata": [
             {
-              "label": "Title",
+              "label": "Work title",
               "value": "'Faites mon scavoir de la belle'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "62v"
+            },
+            {
+              "label": "Folio end",
+              "value": "64r"
             },
             {
               "label": "Composer",
@@ -6762,6 +8394,67 @@
                 ]
               },
               "on": "https://example.com/iiif/canvas/f136.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f137.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 137",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "'Faites mon scavoir de la belle'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "62v"
+            },
+            {
+              "label": "Folio end",
+              "value": "64r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f137/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f137",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f137/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f137",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f137.json"
             }
           ]
         }
