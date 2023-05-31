@@ -27,6 +27,10 @@
     {
       "label": "Surface type",
       "value": "Other"
+    },
+    {
+      "label": "Measurements",
+      "value": "307 x 205 mm"
     }
   ],
   "description": "A composite MS made up of liturgical fragments, dating from the 10th to the 18th century, many of them with music. Polyphony is found on a single bifolio; this contains motets such as those that appear in I-IV and CA 1328. Written in two columns. According to the 18th century writing on f.49v, the MS was formerly in the abbey of 'S. Sauveur le vicomte'. The 15th century writing at the bottom of f. 49 seems to refer to an exchange of land at nearby Coutances.",
@@ -46,11 +50,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -99,11 +111,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -152,11 +172,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -205,11 +233,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -258,11 +294,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -311,11 +355,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -364,11 +416,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -417,11 +477,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -470,11 +538,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -523,11 +599,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -576,11 +660,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -629,11 +721,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -682,11 +782,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -735,11 +843,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -788,11 +904,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -841,11 +965,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -894,11 +1026,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -947,11 +1087,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1000,11 +1148,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1053,11 +1209,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1106,11 +1270,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1159,11 +1331,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1212,11 +1392,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1265,11 +1453,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1318,11 +1514,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1371,11 +1575,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1424,11 +1636,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1477,11 +1697,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1530,11 +1758,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1583,11 +1819,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1636,11 +1880,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1689,11 +1941,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1742,11 +2002,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1795,11 +2063,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1848,11 +2124,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1901,11 +2185,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -1954,11 +2246,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2007,11 +2307,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2060,11 +2368,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2113,11 +2429,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2166,11 +2490,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2219,11 +2551,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2272,11 +2612,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2325,11 +2673,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2378,11 +2734,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2431,11 +2795,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2484,11 +2856,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2537,11 +2917,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2590,11 +2978,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2643,11 +3039,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2696,11 +3100,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2749,11 +3161,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2802,11 +3222,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2855,11 +3283,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2908,11 +3344,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -2961,11 +3405,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3014,11 +3466,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3067,11 +3527,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3120,11 +3588,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3173,11 +3649,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3226,11 +3710,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3279,11 +3771,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3332,11 +3832,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3385,11 +3893,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3438,11 +3954,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3491,11 +4015,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3544,11 +4076,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3597,11 +4137,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3650,11 +4198,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3703,11 +4259,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3756,11 +4320,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3809,11 +4381,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3862,11 +4442,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3915,11 +4503,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -3968,11 +4564,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4021,11 +4625,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4074,11 +4686,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4127,11 +4747,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4180,11 +4808,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4233,11 +4869,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4286,11 +4930,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4339,11 +4991,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4392,11 +5052,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4445,11 +5113,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4498,11 +5174,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4551,11 +5235,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4604,11 +5296,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4657,11 +5357,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4710,11 +5418,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4763,11 +5479,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4816,11 +5540,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4869,11 +5601,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4922,11 +5662,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -4975,11 +5723,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5028,11 +5784,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5081,11 +5845,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5134,11 +5906,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5187,11 +5967,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5240,11 +6028,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5293,11 +6089,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5346,11 +6150,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5399,11 +6211,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5452,11 +6272,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5505,11 +6333,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5558,11 +6394,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5611,11 +6455,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5664,11 +6516,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5717,11 +6577,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -5770,12 +6638,20 @@
               "value": "'Flos ortus inter lilia quorum radix / Celsa cedrus ysopus effecta / O quam magnus pontifex'"
             },
             {
-              "label": "Composer",
-              "value": "'Vitry, Philippe de (1291\u20131361)'"
-            },
-            {
               "label": "Genre",
               "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "49r"
+            },
+            {
+              "label": "Folio end",
+              "value": "49r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Vitry, Philippe de (1291\u20131361)'"
             }
           ],
           "height": 1000,
@@ -5823,12 +6699,20 @@
               "value": "'Beatius se servans liberat / Cum humanum sit peccare'"
             },
             {
-              "label": "Composer",
-              "value": "'Vitry, Philippe de (1291\u20131361)'"
-            },
-            {
               "label": "Genre",
               "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "49v"
+            },
+            {
+              "label": "Folio end",
+              "value": "49v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Vitry, Philippe de (1291\u20131361)'"
             }
           ],
           "height": 1000,
@@ -5873,15 +6757,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'Beatius se servans liberat / Cum humanum sit peccare'"
-            },
-            {
-              "label": "Composer",
-              "value": "'Vitry, Philippe de (1291\u20131361)'"
+              "value": "'In virtute nominum / Decens carmen edere / Clamor meus'"
             },
             {
               "label": "Genre",
               "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "48r"
+            },
+            {
+              "label": "Folio end",
+              "value": "48r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Vitry, Philippe de (1291\u20131361)'"
             }
           ],
           "height": 1000,
@@ -5926,15 +6818,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'Beatius se servans liberat / Cum humanum sit peccare'"
-            },
-            {
-              "label": "Composer",
-              "value": "'Vitry, Philippe de (1291\u20131361)'"
+              "value": "'O canenda vulgo per computa / Rex quem metrorum depingit / Rex regnum'"
             },
             {
               "label": "Genre",
               "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "48v"
+            },
+            {
+              "label": "Folio end",
+              "value": "48v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Vitry, Philippe de (1291\u20131361)'"
             }
           ],
           "height": 1000,
@@ -5969,112 +6869,6 @@
                 ]
               },
               "on": "https://example.com/iiif/canvas/f111.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f112.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 112",
-          "metadata": [
-            {
-              "label": "Work title",
-              "value": "'In virtute nominum / Decens carmen edere / Clamor meus'"
-            },
-            {
-              "label": "Composer",
-              "value": "'Vitry, Philippe de (1291\u20131361)'"
-            },
-            {
-              "label": "Genre",
-              "value": "'Motet'"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510818p/f112/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510818p/f112",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510818p/f112/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510818p/f112",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f112.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f113.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 113",
-          "metadata": [
-            {
-              "label": "Work title",
-              "value": "'O canenda vulgo per computa / Rex quem metrorum depingit / Rex regnum'"
-            },
-            {
-              "label": "Composer",
-              "value": "'Vitry, Philippe de (1291\u20131361)'"
-            },
-            {
-              "label": "Genre",
-              "value": "'Motet'"
-            }
-          ],
-          "height": 1000,
-          "width": 1000,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510818p/f113/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510818p/f113",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510818p/f113/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52510818p/f113",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f113.json"
             }
           ]
         }
