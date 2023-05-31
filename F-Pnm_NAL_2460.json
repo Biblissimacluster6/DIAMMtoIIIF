@@ -1957,6 +1957,14 @@
               "value": "'[Viderunt omnes] - Salutare Dei nostri - Alleluia! Dies sanctificatus'"
             },
             {
+              "label":"Folio start",
+              "value":"2Or"
+            },
+            {
+              "label": "Folio end",
+              "value": "20r"
+            },
+            {  
               "label": "Composer",
               "value": "'Anonymous'"
             }
@@ -2006,6 +2014,14 @@
               "value": "'Alleluia! Dies sanctificatus'"
             },
             {
+              "label":"Folio start",
+              "value":"2Ov"
+            },
+            {
+              "label": "Folio end",
+              "value": "20v"
+            },
+            {  
               "label": "Composer",
               "value": "'Anonymous'"
             }
