@@ -50,16 +50,24 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
-          "height": 500,
-          "width": 500,
+          "height": 1000,
+          "width": 1000,
           "images": [
             {
               "@type": "oa:Annotation",
@@ -103,11 +111,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -156,11 +172,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -209,11 +233,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -262,11 +294,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -315,11 +355,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -368,11 +416,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -421,11 +477,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -474,11 +538,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -527,11 +599,19 @@
               "value": "None"
             },
             {
-              "label": "Composer",
+              "label": "Genre",
               "value": "None"
             },
             {
-              "label": "Genre",
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
+              "label": "Composer",
               "value": "None"
             }
           ],
@@ -580,12 +660,20 @@
               "value": "\"Va t'en regrets celluy qui me convoy\u00e9\""
             },
             {
-              "label": "Composer",
-              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "2v"
+            },
+            {
+              "label": "Folio end",
+              "value": "3r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
             }
           ],
           "height": 1000,
@@ -633,12 +721,20 @@
               "value": "\"Va t'en regrets celluy qui me convoy\u00e9\""
             },
             {
-              "label": "Composer",
-              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "2v"
+            },
+            {
+              "label": "Folio end",
+              "value": "3r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
             }
           ],
           "height": 1000,
@@ -686,12 +782,20 @@
               "value": "'Oblier veult douleur et tristesse (= Carmen in sol)'"
             },
             {
-              "label": "Composer",
-              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "3v"
+            },
+            {
+              "label": "Folio end",
+              "value": "4r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -739,12 +843,20 @@
               "value": "'Oblier veult douleur et tristesse (= Carmen in sol)'"
             },
             {
-              "label": "Composer",
-              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "3v"
+            },
+            {
+              "label": "Folio end",
+              "value": "4r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -792,12 +904,20 @@
               "value": "\"Elle l'a pris, elle tient en sa liesse\""
             },
             {
-              "label": "Composer",
-              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "4v"
+            },
+            {
+              "label": "Folio end",
+              "value": "5r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
             }
           ],
           "height": 1000,
@@ -845,12 +965,20 @@
               "value": "\"Elle l'a pris, elle tient en sa liesse\""
             },
             {
-              "label": "Composer",
-              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "4v"
+            },
+            {
+              "label": "Folio end",
+              "value": "5r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
             }
           ],
           "height": 1000,
@@ -898,12 +1026,20 @@
               "value": "\"C'est pour aimer\""
             },
             {
-              "label": "Composer",
-              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "5v"
+            },
+            {
+              "label": "Folio end",
+              "value": "6r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
             }
           ],
           "height": 1000,
@@ -951,12 +1087,20 @@
               "value": "\"C'est pour aimer\""
             },
             {
-              "label": "Composer",
-              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "5v"
+            },
+            {
+              "label": "Folio end",
+              "value": "6r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
             }
           ],
           "height": 1000,
@@ -1004,12 +1148,20 @@
               "value": "'Vous, noblez cuers, qui mes regretz voyez'"
             },
             {
-              "label": "Composer",
-              "value": "'Anonymous'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "6v"
+            },
+            {
+              "label": "Folio end",
+              "value": "7r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -1057,12 +1209,20 @@
               "value": "'Vous, noblez cuers, qui mes regretz voyez'"
             },
             {
-              "label": "Composer",
-              "value": "'Anonymous'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "6v"
+            },
+            {
+              "label": "Folio end",
+              "value": "7r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -1110,12 +1270,20 @@
               "value": "'Fors seullement contre ce que ay promis'"
             },
             {
-              "label": "Composer",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "7v"
+            },
+            {
+              "label": "Folio end",
+              "value": "8r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -1163,12 +1331,20 @@
               "value": "'Fors seullement contre ce que ay promis'"
             },
             {
-              "label": "Composer",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
-            },
-            {
               "label": "Genre",
               "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "7v"
+            },
+            {
+              "label": "Folio end",
+              "value": "8r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
