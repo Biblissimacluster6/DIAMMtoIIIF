@@ -50,6 +50,14 @@
               "value": "None"
             },
             {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
               "label": "Composer first view",
               "value": "None"
             },
@@ -105,6 +113,14 @@
             {
               "label": "Work title first view",
               "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer first view",
@@ -164,6 +180,14 @@
               "value": "None"
             },
             {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
               "label": "Composer first view",
               "value": "None"
             },
@@ -219,6 +243,14 @@
             {
               "label": "Work title first view",
               "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer first view",
@@ -278,6 +310,14 @@
               "value": "None"
             },
             {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
+            },
+            {
               "label": "Composer first view",
               "value": "None"
             },
@@ -333,6 +373,14 @@
             {
               "label": "Work title first view",
               "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "NP"
+            },
+            {
+              "label": "Folio end",
+              "value": "NP"
             },
             {
               "label": "Composer first view",
@@ -392,6 +440,14 @@
               "value": "'O pulcherrima mulierum'"
             },
             {
+              "label": "Folio start",
+              "value": "1r"
+            },
+            {
+              "label": "Folio end",
+              "value": "3r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Lantins, Hugo de'"
             },
@@ -447,6 +503,14 @@
             {
               "label": "Work title first view",
               "value": "'O pulcherrima mulierum'"
+            },
+            {
+              "label": "Folio start",
+              "value": "1r"
+            },
+            {
+              "label": "Folio end",
+              "value": "3r"
             },
             {
               "label": "Composer first view",
@@ -506,6 +570,14 @@
               "value": "'O pulcherrima mulierum'"
             },
             {
+              "label": "Folio start",
+              "value": "3v"
+            },
+            {
+              "label": "Folio end",
+              "value": "4r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Lantins, Hugo de'"
             },
@@ -561,6 +633,14 @@
             {
               "label": "Work title first view",
               "value": "'O gloriosa regina mundi succurre nobis'"
+            },
+            {
+              "label": "Folio start",
+              "value": "4v"
+            },
+            {
+              "label": "Folio end",
+              "value": "5r"
             },
             {
               "label": "Composer first view",
@@ -620,6 +700,14 @@
               "value": "'Amor tu non me gabasti'"
             },
             {
+              "label": "Folio start",
+              "value": "5v"
+            },
+            {
+              "label": "Folio end",
+              "value": "6r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -675,6 +763,14 @@
             {
               "label": "Work title first view",
               "value": "'A Florence la joeuse cite / Helas la fille / En ma chambre'"
+            },
+            {
+              "label": "Folio start",
+              "value": "6v"
+            },
+            {
+              "label": "Folio end",
+              "value": "7r"
             },
             {
               "label": "Composer first view",
@@ -734,6 +830,14 @@
               "value": "\"Accueillie ma la belle (A version) = Saoul\u00e9 m'a la belle\""
             },
             {
+              "label": "Folio start",
+              "value": "7v"
+            },
+            {
+              "label": "Folio end",
+              "value": "8r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             },
@@ -789,6 +893,14 @@
             {
               "label": "Work title first view",
               "value": "'Advegne que venir pourra'"
+            },
+            {
+              "label": "Folio start",
+              "value": "8v"
+            },
+            {
+              "label": "Folio end",
+              "value": "9r"
             },
             {
               "label": "Composer first view",
@@ -848,6 +960,14 @@
               "value": "'Alla battaglia'"
             },
             {
+              "label": "Folio start",
+              "value": "9v"
+            },
+            {
+              "label": "Folio end",
+              "value": "10r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -903,6 +1023,14 @@
             {
               "label": "Work title first view",
               "value": "'Alla battaglia'"
+            },
+            {
+              "label": "Folio start",
+              "value": "10v"
+            },
+            {
+              "label": "Folio end",
+              "value": "11r"
             },
             {
               "label": "Composer first view",
@@ -962,6 +1090,14 @@
               "value": "'Cent mille escus quand je voldroie'"
             },
             {
+              "label": "Folio start",
+              "value": "11v"
+            },
+            {
+              "label": "Folio end",
+              "value": "12r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)' or 'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -1017,6 +1153,14 @@
             {
               "label": "Work title first view",
               "value": "'Creature la plus belle'"
+            },
+            {
+              "label": "Folio start",
+              "value": "12v"
+            },
+            {
+              "label": "Folio end",
+              "value": "13r"
             },
             {
               "label": "Composer first view",
@@ -1076,6 +1220,14 @@
               "value": "'Se de vous ie nay recouvrance'"
             },
             {
+              "label": "Folio start",
+              "value": "13v"
+            },
+            {
+              "label": "Folio end",
+              "value": "14r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -1131,6 +1283,14 @@
             {
               "label": "Work title first view",
               "value": "'Con tutta gentilezza'"
+            },
+            {
+              "label": "Folio start",
+              "value": "14v"
+            },
+            {
+              "label": "Folio end",
+              "value": "15r"
             },
             {
               "label": "Composer first view",
@@ -1190,6 +1350,14 @@
               "value": "'Chiamo merce'"
             },
             {
+              "label": "Folio start",
+              "value": "15v"
+            },
+            {
+              "label": "Folio end",
+              "value": "17r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -1245,6 +1413,14 @@
             {
               "label": "Work title first view",
               "value": "'Corps contre corps-Ramboure lui'"
+            },
+            {
+              "label": "Folio start",
+              "value": "15v"
+            },
+            {
+              "label": "Folio end",
+              "value": "17r"
             },
             {
               "label": "Composer first view",
@@ -1304,6 +1480,14 @@
               "value": "'Corps contre corps-Ramboure lui'"
             },
             {
+              "label": "Folio start",
+              "value": "17v"
+            },
+            {
+              "label": "Folio end",
+              "value": "18r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             },
@@ -1359,6 +1543,14 @@
             {
               "label": "Work title first view",
               "value": "'Cousine trop vous abus\u00e9s'"
+            },
+            {
+              "label": "Folio start",
+              "value": "18v"
+            },
+            {
+              "label": "Folio end",
+              "value": "19r"
             },
             {
               "label": "Composer first view",
@@ -1418,6 +1610,14 @@
               "value": "'Confortez moi'"
             },
             {
+              "label": "Folio start",
+              "value": "19v"
+            },
+            {
+              "label": "Folio end",
+              "value": "20r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -1473,6 +1673,14 @@
             {
               "label": "Work title first view",
               "value": "'Que poit plus faire une maistresse'"
+            },
+            {
+              "label": "Folio start",
+              "value": "20v"
+            },
+            {
+              "label": "Folio end",
+              "value": "21r"
             },
             {
               "label": "Composer first view",
@@ -1532,6 +1740,14 @@
               "value": "'Le souvenir de vous me tue mon seul bien'"
             },
             {
+              "label": "Folio start",
+              "value": "21v"
+            },
+            {
+              "label": "Folio end",
+              "value": "22r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Morton, Robert'"
             },
@@ -1587,6 +1803,14 @@
             {
               "label": "Work title first view",
               "value": "\"J'ai pris amours\""
+            },
+            {
+              "label": "Folio start",
+              "value": "22v"
+            },
+            {
+              "label": "Folio end",
+              "value": "23r"
             },
             {
               "label": "Composer first view",
@@ -1646,6 +1870,14 @@
               "value": "\"Se un peu d'esp\u00e9rance avais\""
             },
             {
+              "label": "Folio start",
+              "value": "23v"
+            },
+            {
+              "label": "Folio end",
+              "value": "24r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Pullois, Johannes'"
             },
@@ -1701,6 +1933,14 @@
             {
               "label": "Work title first view",
               "value": "'Seulette suis'"
+            },
+            {
+              "label": "Folio start",
+              "value": "24v"
+            },
+            {
+              "label": "Folio end",
+              "value": "25r"
             },
             {
               "label": "Composer first view",
@@ -1760,6 +2000,14 @@
               "value": "'Pour toutes fleurs'"
             },
             {
+              "label": "Folio start",
+              "value": "25v"
+            },
+            {
+              "label": "Folio end",
+              "value": "26r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Pullois, Johannes'"
             },
@@ -1815,6 +2063,14 @@
             {
               "label": "Work title first view",
               "value": "'Wie sach oit blider dach'"
+            },
+            {
+              "label": "Folio start",
+              "value": "26v"
+            },
+            {
+              "label": "Folio end",
+              "value": "27r"
             },
             {
               "label": "Composer first view",
@@ -1874,6 +2130,14 @@
               "value": "'Je vous prie mon tres douce amie / Tant que mon argent dura / Ma tres douce amie'"
             },
             {
+              "label": "Folio start",
+              "value": "27v"
+            },
+            {
+              "label": "Folio end",
+              "value": "28r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Du Fay, Guillaume (1397\u20131474)'"
             },
@@ -1929,6 +2193,14 @@
             {
               "label": "Work title first view",
               "value": "'Seigneur Leon - Benedictus qui venit'"
+            },
+            {
+              "label": "Folio start",
+              "value": "28v"
+            },
+            {
+              "label": "Folio end",
+              "value": "29r"
             },
             {
               "label": "Composer first view",
@@ -1988,6 +2260,14 @@
               "value": "'Sancta Barbara pour le trait'"
             },
             {
+              "label": "Folio start",
+              "value": "29v"
+            },
+            {
+              "label": "Folio end",
+              "value": "30r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -2043,6 +2323,14 @@
             {
               "label": "Work title first view",
               "value": "\"L'homme banny de sa plaisance\""
+            },
+            {
+              "label": "Folio start",
+              "value": "30v"
+            },
+            {
+              "label": "Folio end",
+              "value": "32r"
             },
             {
               "label": "Composer first view",
@@ -2102,6 +2390,14 @@
               "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
             },
             {
+              "label": "Folio start",
+              "value": "30v"
+            },
+            {
+              "label": "Folio end",
+              "value": "32r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             },
@@ -2157,6 +2453,14 @@
             {
               "label": "Work title first view",
               "value": "'Ma bouche rit et ma pens\u00e9e pleure'"
+            },
+            {
+              "label": "Folio start",
+              "value": "32v"
+            },
+            {
+              "label": "Folio end",
+              "value": "33r"
             },
             {
               "label": "Composer first view",
@@ -2216,6 +2520,14 @@
               "value": "\"L'aultre d'antan\""
             },
             {
+              "label": "Folio start",
+              "value": "33v"
+            },
+            {
+              "label": "Folio end",
+              "value": "34r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             },
@@ -2271,6 +2583,14 @@
             {
               "label": "Work title first view",
               "value": "'Helas que pourra devenir'"
+            },
+            {
+              "label": "Folio start",
+              "value": "34v"
+            },
+            {
+              "label": "Folio end",
+              "value": "35r"
             },
             {
               "label": "Composer first view",
@@ -2330,6 +2650,14 @@
               "value": "\"Ce qu'on fait a quatimini\""
             },
             {
+              "label": "Folio start",
+              "value": "35v"
+            },
+            {
+              "label": "Folio end",
+              "value": "36r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Joye, Gilles'"
             },
@@ -2385,6 +2713,14 @@
             {
               "label": "Work title first view",
               "value": "\"Morir me fault se n'ai secours de ma princesse\""
+            },
+            {
+              "label": "Folio start",
+              "value": "36v"
+            },
+            {
+              "label": "Folio end",
+              "value": "37r"
             },
             {
               "label": "Composer first view",
@@ -2444,6 +2780,14 @@
               "value": "'Cui diem [Cuidies] vous (A version) = Fuggir non posso'"
             },
             {
+              "label": "Folio start",
+              "value": "37v"
+            },
+            {
+              "label": "Folio end",
+              "value": "38r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             },
@@ -2499,6 +2843,14 @@
             {
               "label": "Work title first view",
               "value": "\"D'un tout ainsy que vous plair a\""
+            },
+            {
+              "label": "Folio start",
+              "value": "38v"
+            },
+            {
+              "label": "Folio end",
+              "value": "39r"
             },
             {
               "label": "Composer first view",
@@ -2558,6 +2910,14 @@
               "value": "'Je ne prise point tels baisers'"
             },
             {
+              "label": "Folio start",
+              "value": "39v"
+            },
+            {
+              "label": "Folio end",
+              "value": "40r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -2613,6 +2973,14 @@
             {
               "label": "Work title first view",
               "value": "'Par le regard de vos beaux yeux'"
+            },
+            {
+              "label": "Folio start",
+              "value": "40v"
+            },
+            {
+              "label": "Folio end",
+              "value": "41r"
             },
             {
               "label": "Composer first view",
@@ -2672,6 +3040,14 @@
               "value": "'Tenez moi en vos bras 30.12'"
             },
             {
+              "label": "Folio start",
+              "value": "41v"
+            },
+            {
+              "label": "Folio end",
+              "value": "43r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Despres, Josquin (ca. 1450\u20131521)'"
             },
@@ -2727,6 +3103,14 @@
             {
               "label": "Work title first view",
               "value": "'Entre Paris et Saint Quentin'"
+            },
+            {
+              "label": "Folio start",
+              "value": "41v"
+            },
+            {
+              "label": "Folio end",
+              "value": "43r"
             },
             {
               "label": "Composer first view",
@@ -2786,6 +3170,14 @@
               "value": "'Entre Paris et Saint Quentin'"
             },
             {
+              "label": "Folio start",
+              "value": "43v"
+            },
+            {
+              "label": "Folio end",
+              "value": "45r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -2841,6 +3233,14 @@
             {
               "label": "Work title first view",
               "value": "'Resjois toy terre de France /  Rex pacificus magnificatus'"
+            },
+            {
+              "label": "Folio start",
+              "value": "43v"
+            },
+            {
+              "label": "Folio end",
+              "value": "45r"
             },
             {
               "label": "Composer first view",
@@ -2900,6 +3300,14 @@
               "value": "'Resjois toy terre de France /  Rex pacificus magnificatus'"
             },
             {
+              "label": "Folio start",
+              "value": "45v"
+            },
+            {
+              "label": "Folio end",
+              "value": "46r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -2955,6 +3363,14 @@
             {
               "label": "Work title first view",
               "value": "'En un gent et joly pourpris'"
+            },
+            {
+              "label": "Folio start",
+              "value": "46v"
+            },
+            {
+              "label": "Folio end",
+              "value": "47r"
             },
             {
               "label": "Composer first view",
@@ -3014,6 +3430,14 @@
               "value": "'Doye je languir'"
             },
             {
+              "label": "Folio start",
+              "value": "47v"
+            },
+            {
+              "label": "Folio end",
+              "value": "48r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -3069,6 +3493,14 @@
             {
               "label": "Work title first view",
               "value": "\"La fiance que j'ai en vous\""
+            },
+            {
+              "label": "Folio start",
+              "value": "48v"
+            },
+            {
+              "label": "Folio end",
+              "value": "49r"
             },
             {
               "label": "Composer first view",
@@ -3128,6 +3560,14 @@
               "value": "'Vive madame par amours'"
             },
             {
+              "label": "Folio start",
+              "value": "49v"
+            },
+            {
+              "label": "Folio end",
+              "value": "50r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Morton, Robert'"
             },
@@ -3183,6 +3623,14 @@
             {
               "label": "Work title first view",
               "value": "'Depuis ce jour'"
+            },
+            {
+              "label": "Folio start",
+              "value": "50v"
+            },
+            {
+              "label": "Folio end",
+              "value": "51r"
             },
             {
               "label": "Composer first view",
@@ -3242,6 +3690,14 @@
               "value": "'Que pourroit plus faire'"
             },
             {
+              "label": "Folio start",
+              "value": "51v"
+            },
+            {
+              "label": "Folio end",
+              "value": "53r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Morton, Robert'"
             },
@@ -3297,6 +3753,14 @@
             {
               "label": "Work title first view",
               "value": "'Donne vidue/Tarrach/Jeus diray'"
+            },
+            {
+              "label": "Folio start",
+              "value": "51v"
+            },
+            {
+              "label": "Folio end",
+              "value": "53r"
             },
             {
               "label": "Composer first view",
@@ -3356,6 +3820,14 @@
               "value": "'Donne vidue/Tarrach/Jeus diray'"
             },
             {
+              "label": "Folio start",
+              "value": "53v"
+            },
+            {
+              "label": "Folio end",
+              "value": "54r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -3411,6 +3883,14 @@
             {
               "label": "Work title first view",
               "value": "'Galans et bons compagnons'"
+            },
+            {
+              "label": "Folio start",
+              "value": "None"
+            },
+            {
+              "label": "Folio end",
+              "value": "None"
             },
             {
               "label": "Composer first view",
@@ -3470,6 +3950,14 @@
               "value": "None"
             },
             {
+              "label": "Folio start",
+              "value": "55v"
+            },
+            {
+              "label": "Folio end",
+              "value": "57r"
+            },
+            {
               "label": "Composer first view",
               "value": "None"
             },
@@ -3525,6 +4013,14 @@
             {
               "label": "Work title first view",
               "value": "'Pour une suis desconfort\u00e9 [= So ys emprentid]'"
+            },
+            {
+              "label": "Folio start",
+              "value": "55v"
+            },
+            {
+              "label": "Folio end",
+              "value": "57r"
             },
             {
               "label": "Composer first view",
@@ -3584,6 +4080,14 @@
               "value": "'Pour une suis desconfort\u00e9 [= So ys emprentid]'"
             },
             {
+              "label": "Folio start",
+              "value": "57v"
+            },
+            {
+              "label": "Folio end",
+              "value": "59r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Frye, Walter (\u2013ca. 1475)' or 'Bedingham, John (\u2013ca. 1460)'"
             },
@@ -3639,6 +4143,14 @@
             {
               "label": "Work title first view",
               "value": "'Grant temps ay eu'"
+            },
+            {
+              "label": "Folio start",
+              "value": "57v"
+            },
+            {
+              "label": "Folio end",
+              "value": "59r"
             },
             {
               "label": "Composer first view",
@@ -3698,6 +4210,14 @@
               "value": "'Grant temps ay eu'"
             },
             {
+              "label": "Folio start",
+              "value": "59v"
+            },
+            {
+              "label": "Folio end",
+              "value": "60r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Bedingham, John (\u2013ca. 1460)'"
             },
@@ -3753,6 +4273,14 @@
             {
               "label": "Work title first view",
               "value": "\"Ay je rien fait contre vous = J'ay vyenes\""
+            },
+            {
+              "label": "Folio start",
+              "value": "60v"
+            },
+            {
+              "label": "Folio end",
+              "value": "61r"
             },
             {
               "label": "Composer first view",
@@ -3812,6 +4340,14 @@
               "value": "'Cy gist celle'"
             },
             {
+              "label": "Folio start",
+              "value": "61v"
+            },
+            {
+              "label": "Folio end",
+              "value": "62r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -3867,6 +4403,14 @@
             {
               "label": "Work title first view",
               "value": "'Charge de dueil'"
+            },
+            {
+              "label": "Folio start",
+              "value": "62v"
+            },
+            {
+              "label": "Folio end",
+              "value": "64r"
             },
             {
               "label": "Composer first view",
@@ -3926,6 +4470,14 @@
               "value": "'Non toches a moy'"
             },
             {
+              "label": "Folio start",
+              "value": "62v"
+            },
+            {
+              "label": "Folio end",
+              "value": "64r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Ycart, Bernhard'"
             },
@@ -3981,6 +4533,14 @@
             {
               "label": "Work title first view",
               "value": "'Non toches a moy'"
+            },
+            {
+              "label": "Folio start",
+              "value": "64v"
+            },
+            {
+              "label": "Folio end",
+              "value": "65r"
             },
             {
               "label": "Composer first view",
@@ -4040,6 +4600,14 @@
               "value": "'Do mal villano'"
             },
             {
+              "label": "Folio start",
+              "value": "65v"
+            },
+            {
+              "label": "Folio end",
+              "value": "66r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -4095,6 +4663,14 @@
             {
               "label": "Work title first view",
               "value": "'La donna che molto mira'"
+            },
+            {
+              "label": "Folio start",
+              "value": "66v"
+            },
+            {
+              "label": "Folio end",
+              "value": "67r"
             },
             {
               "label": "Composer first view",
@@ -4154,6 +4730,14 @@
               "value": "'Tart ara mon coeur sa plaisance'"
             },
             {
+              "label": "Folio start",
+              "value": "67v"
+            },
+            {
+              "label": "Folio end",
+              "value": "68r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Molinet, Jehan'"
             },
@@ -4209,6 +4793,14 @@
             {
               "label": "Work title first view",
               "value": "\"Puisqu' Atropos a ravi Diopee\""
+            },
+            {
+              "label": "Folio start",
+              "value": "68v"
+            },
+            {
+              "label": "Folio end",
+              "value": "69r"
             },
             {
               "label": "Composer first view",
@@ -4268,6 +4860,14 @@
               "value": "'Mon espoir et ma souvenance'"
             },
             {
+              "label": "Folio start",
+              "value": "69v"
+            },
+            {
+              "label": "Folio end",
+              "value": "70r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -4323,6 +4923,14 @@
             {
               "label": "Work title first view",
               "value": "'Mon seul plaisir, ma douce joie'"
+            },
+            {
+              "label": "Folio start",
+              "value": "70v"
+            },
+            {
+              "label": "Folio end",
+              "value": "71r"
             },
             {
               "label": "Composer first view",
@@ -4382,6 +4990,14 @@
               "value": "'Puisque je vis le regard gratieux'"
             },
             {
+              "label": "Folio start",
+              "value": "71v"
+            },
+            {
+              "label": "Folio end",
+              "value": "72r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -4437,6 +5053,14 @@
             {
               "label": "Work title first view",
               "value": "'Ung plus que tous est en mon souvenir'"
+            },
+            {
+              "label": "Folio start",
+              "value": "72v"
+            },
+            {
+              "label": "Folio end",
+              "value": "74r"
             },
             {
               "label": "Composer first view",
@@ -4496,6 +5120,14 @@
               "value": "'Combien le joyeux je fasse'"
             },
             {
+              "label": "Folio start",
+              "value": "72v"
+            },
+            {
+              "label": "Folio end",
+              "value": "74r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -4551,6 +5183,14 @@
             {
               "label": "Work title first view",
               "value": "'Combien le joyeux je fasse'"
+            },
+            {
+              "label": "Folio start",
+              "value": "74v"
+            },
+            {
+              "label": "Folio end",
+              "value": "75r"
             },
             {
               "label": "Composer first view",
@@ -4610,6 +5250,14 @@
               "value": "'Se je garde bien vostre honneur'"
             },
             {
+              "label": "Folio start",
+              "value": "75v"
+            },
+            {
+              "label": "Folio end",
+              "value": "76r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -4665,6 +5313,14 @@
             {
               "label": "Work title first view",
               "value": "'Depuis le cong\u00e9 que je pris'"
+            },
+            {
+              "label": "Folio start",
+              "value": "76v"
+            },
+            {
+              "label": "Folio end",
+              "value": "78r"
             },
             {
               "label": "Composer first view",
@@ -4724,6 +5380,14 @@
               "value": "'Mon coeur gemist'"
             },
             {
+              "label": "Folio start",
+              "value": "76v"
+            },
+            {
+              "label": "Folio end",
+              "value": "78r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -4779,6 +5443,14 @@
             {
               "label": "Work title first view",
               "value": "'Mon coeur gemist'"
+            },
+            {
+              "label": "Folio start",
+              "value": "78v"
+            },
+            {
+              "label": "Folio end",
+              "value": "79r"
             },
             {
               "label": "Composer first view",
@@ -4838,6 +5510,14 @@
               "value": "'O vie fortunee (O vive fortune) de diverses atemptans - Adieu fortune'"
             },
             {
+              "label": "Folio start",
+              "value": "79v"
+            },
+            {
+              "label": "Folio end",
+              "value": "81r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             },
@@ -4893,6 +5573,14 @@
             {
               "label": "Work title first view",
               "value": "'Et hola hola'"
+            },
+            {
+              "label": "Folio start",
+              "value": "79v"
+            },
+            {
+              "label": "Folio end",
+              "value": "81r"
             },
             {
               "label": "Composer first view",
@@ -4952,6 +5640,14 @@
               "value": "'Et hola hola'"
             },
             {
+              "label": "Folio start",
+              "value": "81v"
+            },
+            {
+              "label": "Folio end",
+              "value": "82r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -5007,6 +5703,14 @@
             {
               "label": "Work title first view",
               "value": "'Mon coeur de doleur partira'"
+            },
+            {
+              "label": "Folio start",
+              "value": "None"
+            },
+            {
+              "label": "Folio end",
+              "value": "None"
             },
             {
               "label": "Composer first view",
@@ -5066,6 +5770,14 @@
               "value": "None"
             },
             {
+              "label": "Folio start",
+              "value": "83v"
+            },
+            {
+              "label": "Folio end",
+              "value": "83v"
+            },
+            {
               "label": "Composer first view",
               "value": "None"
             },
@@ -5121,6 +5833,14 @@
             {
               "label": "Work title first view",
               "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "84v"
+            },
+            {
+              "label": "Folio end",
+              "value": "85r"
             },
             {
               "label": "Composer first view",
@@ -5180,6 +5900,14 @@
               "value": "'Amours amours trop me fiers de tes dars'"
             },
             {
+              "label": "Folio start",
+              "value": "85v"
+            },
+            {
+              "label": "Folio end",
+              "value": "86r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Ghizeghem, Hayne van'"
             },
@@ -5235,6 +5963,14 @@
             {
               "label": "Work title first view",
               "value": "'Pour vous ne fay que souspirer'"
+            },
+            {
+              "label": "Folio start",
+              "value": "86v"
+            },
+            {
+              "label": "Folio end",
+              "value": "87r"
             },
             {
               "label": "Composer first view",
@@ -5294,6 +6030,14 @@
               "value": "'Ci dit on benedicite = Laudem demus parvulo'"
             },
             {
+              "label": "Folio start",
+              "value": "87v"
+            },
+            {
+              "label": "Folio end",
+              "value": "88r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -5349,6 +6093,14 @@
             {
               "label": "Work title first view",
               "value": "'Pour prison ne pour maladie'"
+            },
+            {
+              "label": "Folio start",
+              "value": "88v"
+            },
+            {
+              "label": "Folio end",
+              "value": "89r"
             },
             {
               "label": "Composer first view",
@@ -5408,6 +6160,14 @@
               "value": "'Las je ne puis oir nouvelle = Unicus Dei filius'"
             },
             {
+              "label": "Folio start",
+              "value": "89v"
+            },
+            {
+              "label": "Folio end",
+              "value": "90r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Legrant, Johannes'"
             },
@@ -5463,6 +6223,14 @@
             {
               "label": "Work title first view",
               "value": "'Gentil madona de no me habandonare'"
+            },
+            {
+              "label": "Folio start",
+              "value": "90v"
+            },
+            {
+              "label": "Folio end",
+              "value": "92r"
             },
             {
               "label": "Composer first view",
@@ -5522,6 +6290,14 @@
               "value": "'O rosa bella, o Deitatis cella (= O quam suavis est domina)'"
             },
             {
+              "label": "Folio start",
+              "value": "90v"
+            },
+            {
+              "label": "Folio end",
+              "value": "92r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Bedingham, John (\u2013ca. 1460)' or 'Dunstaple, John (ca. 1390\u20131453)'"
             },
@@ -5577,6 +6353,14 @@
             {
               "label": "Work title first view",
               "value": "'O rosa bella, o Deitatis cella (= O quam suavis est domina)'"
+            },
+            {
+              "label": "Folio start",
+              "value": "92v"
+            },
+            {
+              "label": "Folio end",
+              "value": "93r"
             },
             {
               "label": "Composer first view",
@@ -5636,6 +6420,14 @@
               "value": "'Le serviteur hault guerdonn\u00e9 assovy'"
             },
             {
+              "label": "Folio start",
+              "value": "93v"
+            },
+            {
+              "label": "Folio end",
+              "value": "94r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Du Fay, Guillaume (1397\u20131474)'"
             },
@@ -5691,6 +6483,14 @@
             {
               "label": "Work title first view",
               "value": "\"Madame faites moi savoir = Madame m'amie = Quanto magnus est\""
+            },
+            {
+              "label": "Folio start",
+              "value": "94v"
+            },
+            {
+              "label": "Folio end",
+              "value": "96r"
             },
             {
               "label": "Composer first view",
@@ -5750,6 +6550,14 @@
               "value": "'Pace non trovo'"
             },
             {
+              "label": "Folio start",
+              "value": "94v"
+            },
+            {
+              "label": "Folio end",
+              "value": "96r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -5805,6 +6613,14 @@
             {
               "label": "Work title first view",
               "value": "'Pace non trovo'"
+            },
+            {
+              "label": "Folio start",
+              "value": "96v"
+            },
+            {
+              "label": "Folio end",
+              "value": "97r"
             },
             {
               "label": "Composer first view",
@@ -5864,6 +6680,14 @@
               "value": "'Ce que ma bouche nose dire'"
             },
             {
+              "label": "Folio start",
+              "value": "97v"
+            },
+            {
+              "label": "Folio end",
+              "value": "98r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -5919,6 +6743,14 @@
             {
               "label": "Work title first view",
               "value": "\"J'ay pris ung plus a ma chemise\""
+            },
+            {
+              "label": "Folio start",
+              "value": "98v"
+            },
+            {
+              "label": "Folio end",
+              "value": "99r"
             },
             {
               "label": "Composer first view",
@@ -5978,6 +6810,14 @@
               "value": "'Poi che vivo sopra la terra'"
             },
             {
+              "label": "Folio start",
+              "value": "99v"
+            },
+            {
+              "label": "Folio end",
+              "value": "100r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -6033,6 +6873,14 @@
             {
               "label": "Work title first view",
               "value": "'Nunca fue pena mayor / Numquam fuit pena magior'"
+            },
+            {
+              "label": "Folio start",
+              "value": "100v"
+            },
+            {
+              "label": "Folio end",
+              "value": "101r"
             },
             {
               "label": "Composer first view",
@@ -6092,6 +6940,14 @@
               "value": "'Doncella non me culpeis'"
             },
             {
+              "label": "Folio start",
+              "value": "101v"
+            },
+            {
+              "label": "Folio end",
+              "value": "103r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Cornago, Juan de'"
             },
@@ -6147,6 +7003,14 @@
             {
               "label": "Work title first view",
               "value": "'Mirando el grande splendore'"
+            },
+            {
+              "label": "Folio start",
+              "value": "101v"
+            },
+            {
+              "label": "Folio end",
+              "value": "103r"
             },
             {
               "label": "Composer first view",
@@ -6206,6 +7070,14 @@
               "value": "'Mirando el grande splendore'"
             },
             {
+              "label": "Folio start",
+              "value": "103v"
+            },
+            {
+              "label": "Folio end",
+              "value": "104r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -6261,6 +7133,14 @@
             {
               "label": "Work title first view",
               "value": "'Mes filles qui tenesz du vent'"
+            },
+            {
+              "label": "Folio start",
+              "value": "104v"
+            },
+            {
+              "label": "Folio end",
+              "value": "105r"
             },
             {
               "label": "Composer first view",
@@ -6320,6 +7200,14 @@
               "value": "'Trois filles estoient'"
             },
             {
+              "label": "Folio start",
+              "value": "105v"
+            },
+            {
+              "label": "Folio end",
+              "value": "106r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Japart, Jean'"
             },
@@ -6375,6 +7263,14 @@
             {
               "label": "Work title first view",
               "value": "'De tous biens plaine est ma ma\u00eetresse [= Cum defecerint ligna]'"
+            },
+            {
+              "label": "Folio start",
+              "value": "106v"
+            },
+            {
+              "label": "Folio end",
+              "value": "107r"
             },
             {
               "label": "Composer first view",
@@ -6434,6 +7330,14 @@
               "value": "\"Pour regard d'oeul somble.\""
             },
             {
+              "label": "Folio start",
+              "value": "107v"
+            },
+            {
+              "label": "Folio end",
+              "value": "109r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             },
@@ -6489,6 +7393,14 @@
             {
               "label": "Work title first view",
               "value": "'Or udite el buono horare'"
+            },
+            {
+              "label": "Folio start",
+              "value": "109v"
+            },
+            {
+              "label": "Folio end",
+              "value": "110r"
             },
             {
               "label": "Composer first view",
@@ -6548,6 +7460,14 @@
               "value": "\"N'aray je jamais mieux que j'ai\""
             },
             {
+              "label": "Folio start",
+              "value": "109v"
+            },
+            {
+              "label": "Folio end",
+              "value": "110r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Morton, Robert'"
             },
@@ -6603,6 +7523,14 @@
             {
               "label": "Work title first view",
               "value": "\"N'aray je jamais mieux que j'ai\""
+            },
+            {
+              "label": "Folio start",
+              "value": "110v"
+            },
+            {
+              "label": "Folio end",
+              "value": "112r"
             },
             {
               "label": "Composer first view",
@@ -6662,6 +7590,14 @@
               "value": "'Damer lamy - Faisant chapeau - Quand je suis la nuyt'"
             },
             {
+              "label": "Folio start",
+              "value": "112v"
+            },
+            {
+              "label": "Folio end",
+              "value": "113r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -6717,6 +7653,14 @@
             {
               "label": "Work title first view",
               "value": "'He fortune pourquoi suis fortun\u00e9e'"
+            },
+            {
+              "label": "Folio start",
+              "value": "112v"
+            },
+            {
+              "label": "Folio end",
+              "value": "113r"
             },
             {
               "label": "Composer first view",
@@ -6776,6 +7720,14 @@
               "value": "'He fortune pourquoi suis fortun\u00e9e'"
             },
             {
+              "label": "Folio start",
+              "value": "113v"
+            },
+            {
+              "label": "Folio end",
+              "value": "114r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -6831,6 +7783,14 @@
             {
               "label": "Work title first view",
               "value": "'La douleur que je recoy'"
+            },
+            {
+              "label": "Folio start",
+              "value": "114v"
+            },
+            {
+              "label": "Folio end",
+              "value": "115r"
             },
             {
               "label": "Composer first view",
@@ -6890,6 +7850,14 @@
               "value": "\"Je suis d'Allemagne\""
             },
             {
+              "label": "Folio start",
+              "value": "115v"
+            },
+            {
+              "label": "Folio end",
+              "value": "116r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -6945,6 +7913,14 @@
             {
               "label": "Work title first view",
               "value": "'Damer je my voel entremettre'"
+            },
+            {
+              "label": "Folio start",
+              "value": "116v"
+            },
+            {
+              "label": "Folio end",
+              "value": "117r"
             },
             {
               "label": "Composer first view",
@@ -7004,6 +7980,14 @@
               "value": "'Fatte bene asto meschino'"
             },
             {
+              "label": "Folio start",
+              "value": "118v"
+            },
+            {
+              "label": "Folio end",
+              "value": "120r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -7059,6 +8043,14 @@
             {
               "label": "Work title first view",
               "value": "'Fortune a tort'"
+            },
+            {
+              "label": "Folio start",
+              "value": "None"
+            },
+            {
+              "label": "Folio end",
+              "value": "None"
             },
             {
               "label": "Composer first view",
@@ -7118,6 +8110,14 @@
               "value": "None"
             },
             {
+              "label": "Folio start",
+              "value": "120v"
+            },
+            {
+              "label": "Folio end",
+              "value": "121r"
+            },
+            {
               "label": "Composer first view",
               "value": "None"
             },
@@ -7173,6 +8173,14 @@
             {
               "label": "Work title first view",
               "value": "\"Vostre regard si treffort m'a feru\""
+            },
+            {
+              "label": "Folio start",
+              "value": "120v"
+            },
+            {
+              "label": "Folio end",
+              "value": "121r"
             },
             {
               "label": "Composer first view",
@@ -7232,6 +8240,14 @@
               "value": "\"Vostre regard si treffort m'a feru\""
             },
             {
+              "label": "Folio start",
+              "value": "121v"
+            },
+            {
+              "label": "Folio end",
+              "value": "122r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Tinctoris, Johannes (ca. 1435\u20131511)'"
             },
@@ -7287,6 +8303,14 @@
             {
               "label": "Work title first view",
               "value": "\"Vostre regard tant fort m'enflamme\""
+            },
+            {
+              "label": "Folio start",
+              "value": "122v"
+            },
+            {
+              "label": "Folio end",
+              "value": "123r"
             },
             {
               "label": "Composer first view",
@@ -7346,6 +8370,14 @@
               "value": "'Sa peine pert qui sert'"
             },
             {
+              "label": "Folio start",
+              "value": "123v"
+            },
+            {
+              "label": "Folio end",
+              "value": "124r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -7401,6 +8433,14 @@
             {
               "label": "Work title first view",
               "value": "\"Du tout m'estoye abandonn\u00e9.\""
+            },
+            {
+              "label": "Folio start",
+              "value": "124v"
+            },
+            {
+              "label": "Folio end",
+              "value": "125r"
             },
             {
               "label": "Composer first view",
@@ -7460,6 +8500,14 @@
               "value": "'Mon seul et cele souvenir = Mon seul et sangle souvenir'"
             },
             {
+              "label": "Folio start",
+              "value": "125v"
+            },
+            {
+              "label": "Folio end",
+              "value": "126r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -7515,6 +8563,14 @@
             {
               "label": "Work title first view",
               "value": "\"J'ay bien choisi - 1a pars (of 2): J'ay bien choisi a mon voloir\""
+            },
+            {
+              "label": "Folio start",
+              "value": "126v"
+            },
+            {
+              "label": "Folio end",
+              "value": "127r"
             },
             {
               "label": "Composer first view",
@@ -7574,6 +8630,14 @@
               "value": "'O Fortune, trop tu es dure'"
             },
             {
+              "label": "Folio start",
+              "value": "127v"
+            },
+            {
+              "label": "Folio end",
+              "value": "128r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -7629,6 +8693,14 @@
             {
               "label": "Work title first view",
               "value": "'Je suis venue vers mon amy'"
+            },
+            {
+              "label": "Folio start",
+              "value": "128v"
+            },
+            {
+              "label": "Folio end",
+              "value": "129r"
             },
             {
               "label": "Composer first view",
@@ -7688,6 +8760,14 @@
               "value": "'Se brief je puis voir ma dame.'"
             },
             {
+              "label": "Folio start",
+              "value": "129v"
+            },
+            {
+              "label": "Folio end",
+              "value": "130r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)' or 'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -7743,6 +8823,14 @@
             {
               "label": "Work title first view",
               "value": "'Vive le roy'"
+            },
+            {
+              "label": "Folio start",
+              "value": "130v"
+            },
+            {
+              "label": "Folio end",
+              "value": "131r"
             },
             {
               "label": "Composer first view",
@@ -7802,6 +8890,14 @@
               "value": "\"Un grand pauvre homme insanne = Se yense an mains [Se j'eusse en mains?]\""
             },
             {
+              "label": "Folio start",
+              "value": "131v"
+            },
+            {
+              "label": "Folio end",
+              "value": "132v"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -7857,6 +8953,14 @@
             {
               "label": "Work title first view",
               "value": "'Ma tres souveraine princesse'"
+            },
+            {
+              "label": "Folio start",
+              "value": "131v"
+            },
+            {
+              "label": "Folio end",
+              "value": "132v"
             },
             {
               "label": "Composer first view",
@@ -7916,6 +9020,14 @@
               "value": "'D\u00e9partes vous male bouche.'"
             },
             {
+              "label": "Folio start",
+              "value": "133v"
+            },
+            {
+              "label": "Folio end",
+              "value": "134r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Ockeghem, Jean de (ca. 1410\u20131497)' or 'Du Fay, Guillaume (1397\u20131474)'"
             },
@@ -7970,6 +9082,14 @@
           "metadata": [
             {
               "label": "Work title first view",
+              "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "None"
+            },
+            {
+              "label": "Folio end",
               "value": "None"
             },
             {
@@ -8030,6 +9150,14 @@
               "value": "\"S'il convient que je preigne congie\""
             },
             {
+              "label": "Folio start",
+              "value": "134v"
+            },
+            {
+              "label": "Folio end",
+              "value": "135r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -8085,6 +9213,14 @@
             {
               "label": "Work title first view",
               "value": "'Se doulx penser'"
+            },
+            {
+              "label": "Folio start",
+              "value": "135v"
+            },
+            {
+              "label": "Folio end",
+              "value": "136r"
             },
             {
               "label": "Composer first view",
@@ -8144,6 +9280,14 @@
               "value": "'Ma dame qui tant est en mon coeur'"
             },
             {
+              "label": "Folio start",
+              "value": "136v"
+            },
+            {
+              "label": "Folio end",
+              "value": "137r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             },
@@ -8199,6 +9343,14 @@
             {
               "label": "Work title first view",
               "value": "\"Je n'ay ni ioie ni liesse\""
+            },
+            {
+              "label": "Folio start",
+              "value": "137v"
+            },
+            {
+              "label": "Folio end",
+              "value": "138v"
             },
             {
               "label": "Composer first view",
@@ -8258,6 +9410,14 @@
               "value": "\"Je n'ay ni ioie ni liesse\""
             },
             {
+              "label": "Folio start",
+              "value": "138r"
+            },
+            {
+              "label": "Folio end",
+              "value": "139v"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -8313,6 +9473,14 @@
             {
               "label": "Work title first view",
               "value": "'Un amoureux vieux'"
+            },
+            {
+              "label": "Folio start",
+              "value": "138r"
+            },
+            {
+              "label": "Folio end",
+              "value": "139v"
             },
             {
               "label": "Composer first view",
@@ -8372,6 +9540,14 @@
               "value": "'Un amoureux vieux'"
             },
             {
+              "label": "Folio start",
+              "value": "140v"
+            },
+            {
+              "label": "Folio end",
+              "value": "142r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -8427,6 +9603,14 @@
             {
               "label": "Work title first view",
               "value": "'Accordes moy'"
+            },
+            {
+              "label": "Folio start",
+              "value": "None"
+            },
+            {
+              "label": "Folio end",
+              "value": "None"
             },
             {
               "label": "Composer first view",
@@ -8486,6 +9670,14 @@
               "value": "None"
             },
             {
+              "label": "Folio start",
+              "value": "142v"
+            },
+            {
+              "label": "Folio end",
+              "value": "143r"
+            },
+            {
               "label": "Composer first view",
               "value": "None"
             },
@@ -8541,6 +9733,14 @@
             {
               "label": "Work title first view",
               "value": "'Avironne de deul'"
+            },
+            {
+              "label": "Folio start",
+              "value": "142v"
+            },
+            {
+              "label": "Folio end",
+              "value": "143r"
             },
             {
               "label": "Composer first view",
@@ -8600,6 +9800,14 @@
               "value": "'Avironne de deul'"
             },
             {
+              "label": "Folio start",
+              "value": "143v"
+            },
+            {
+              "label": "Folio end",
+              "value": "145r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -8655,6 +9863,14 @@
             {
               "label": "Work title first view",
               "value": "'Jone [=Bone] dame plaisante et belle'"
+            },
+            {
+              "label": "Folio start",
+              "value": "145v"
+            },
+            {
+              "label": "Folio end",
+              "value": "147r"
             },
             {
               "label": "Composer first view",
@@ -8714,6 +9930,14 @@
               "value": "'Ave spes et salus infirmorum revocatrix = La martinella'"
             },
             {
+              "label": "Folio start",
+              "value": "145v"
+            },
+            {
+              "label": "Folio end",
+              "value": "147r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Martini, Johannes (ca. 1430\u20131497)'"
             },
@@ -8769,6 +9993,14 @@
             {
               "label": "Work title first view",
               "value": "'Ave spes et salus infirmorum revocatrix = La martinella'"
+            },
+            {
+              "label": "Folio start",
+              "value": "147v"
+            },
+            {
+              "label": "Folio end",
+              "value": "148r"
             },
             {
               "label": "Composer first view",
@@ -8828,6 +10060,14 @@
               "value": "\"Vrai dieu d'amours\""
             },
             {
+              "label": "Folio start",
+              "value": "147v"
+            },
+            {
+              "label": "Folio end",
+              "value": "148r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -8883,6 +10123,14 @@
             {
               "label": "Work title first view",
               "value": "\"Vrai dieu d'amours\""
+            },
+            {
+              "label": "Folio start",
+              "value": "148v"
+            },
+            {
+              "label": "Folio end",
+              "value": "149r"
             },
             {
               "label": "Composer first view",
@@ -8942,6 +10190,14 @@
               "value": "'Par ung tout seul escondire'"
             },
             {
+              "label": "Folio start",
+              "value": "149v"
+            },
+            {
+              "label": "Folio end",
+              "value": "150r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -8997,6 +10253,14 @@
             {
               "label": "Work title first view",
               "value": "'Se une fois puis recouvrir joie'"
+            },
+            {
+              "label": "Folio start",
+              "value": "150v"
+            },
+            {
+              "label": "Folio end",
+              "value": "151r"
             },
             {
               "label": "Composer first view",
@@ -9056,6 +10320,14 @@
               "value": "'Se mon service vous plaisoit'"
             },
             {
+              "label": "Folio start",
+              "value": "151v"
+            },
+            {
+              "label": "Folio end",
+              "value": "152r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -9111,6 +10383,14 @@
             {
               "label": "Work title first view",
               "value": "'De votre amour suis tant empris'"
+            },
+            {
+              "label": "Folio start",
+              "value": "152v"
+            },
+            {
+              "label": "Folio end",
+              "value": "153r"
             },
             {
               "label": "Composer first view",
@@ -9170,6 +10450,14 @@
               "value": "'Vostre rigeur trop importune'"
             },
             {
+              "label": "Folio start",
+              "value": "153v"
+            },
+            {
+              "label": "Folio end",
+              "value": "154r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -9225,6 +10513,14 @@
             {
               "label": "Work title first view",
               "value": "'Benedicta semper = Je ne demande - 1a pars (of 2): Benedicta semper sancta sit trinitas = Je ne demande autre degre'"
+            },
+            {
+              "label": "Folio start",
+              "value": "104v"
+            },
+            {
+              "label": "Folio end",
+              "value": "105r"
             },
             {
               "label": "Composer first view",
@@ -9284,6 +10580,14 @@
               "value": "\"Benedicta semper = Je ne demande - 2a pars (of 2): [motet text] = O d'estre avec vous\""
             },
             {
+              "label": "Folio start",
+              "value": "None"
+            },
+            {
+              "label": "Folio end",
+              "value": "None"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -9339,6 +10643,14 @@
             {
               "label": "Work title first view",
               "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "155v"
+            },
+            {
+              "label": "Folio end",
+              "value": "156r"
             },
             {
               "label": "Composer first view",
@@ -9398,6 +10710,14 @@
               "value": "'La despourvue et la bannie'"
             },
             {
+              "label": "Folio start",
+              "value": "156v"
+            },
+            {
+              "label": "Folio end",
+              "value": "157r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             },
@@ -9453,6 +10773,14 @@
             {
               "label": "Work title first view",
               "value": "'Seule a par moy'"
+            },
+            {
+              "label": "Folio start",
+              "value": "157v"
+            },
+            {
+              "label": "Folio end",
+              "value": "158r"
             },
             {
               "label": "Composer first view",
@@ -9512,6 +10840,14 @@
               "value": "'Je vis toujours en esperance'"
             },
             {
+              "label": "Folio start",
+              "value": "158v"
+            },
+            {
+              "label": "Folio end",
+              "value": "159r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Domarto, Petrus de'"
             },
@@ -9567,6 +10903,14 @@
             {
               "label": "Work title first view",
               "value": "'Se vostre coeur \u00e9loigne de moi'"
+            },
+            {
+              "label": "Folio start",
+              "value": "159v"
+            },
+            {
+              "label": "Folio end",
+              "value": "160r"
             },
             {
               "label": "Composer first view",
@@ -9626,6 +10970,14 @@
               "value": "'Terrible dame'"
             },
             {
+              "label": "Folio start",
+              "value": "160v"
+            },
+            {
+              "label": "Folio end",
+              "value": "162r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -9681,6 +11033,14 @@
             {
               "label": "Work title first view",
               "value": "'Le poirier que charge'"
+            },
+            {
+              "label": "Folio start",
+              "value": "160v"
+            },
+            {
+              "label": "Folio end",
+              "value": "162r"
             },
             {
               "label": "Composer first view",
@@ -9740,6 +11100,14 @@
               "value": "'Le poirier que charge'"
             },
             {
+              "label": "Folio start",
+              "value": "162v"
+            },
+            {
+              "label": "Folio end",
+              "value": "163r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -9795,6 +11163,14 @@
             {
               "label": "Work title first view",
               "value": "'Bonne chere'"
+            },
+            {
+              "label": "Folio start",
+              "value": "163v"
+            },
+            {
+              "label": "Folio end",
+              "value": "164r"
             },
             {
               "label": "Composer first view",
@@ -9854,6 +11230,14 @@
               "value": "'Joie me fuit = Je me sans'"
             },
             {
+              "label": "Folio start",
+              "value": "164v"
+            },
+            {
+              "label": "Folio end",
+              "value": "165r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -9909,6 +11293,14 @@
             {
               "label": "Work title first view",
               "value": "'Quelque pauvre homme'"
+            },
+            {
+              "label": "Folio start",
+              "value": "165v"
+            },
+            {
+              "label": "Folio end",
+              "value": "166r"
             },
             {
               "label": "Composer first view",
@@ -9968,6 +11360,14 @@
               "value": "\"Vous n'av\u00e9s poient le coeur certain\""
             },
             {
+              "label": "Folio start",
+              "value": "166v"
+            },
+            {
+              "label": "Folio end",
+              "value": "167r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             },
@@ -10023,6 +11423,14 @@
             {
               "label": "Work title first view",
               "value": "'Fortune par ta cruaulte = Sancte speculum trinitatis'"
+            },
+            {
+              "label": "Folio start",
+              "value": "167v"
+            },
+            {
+              "label": "Folio end",
+              "value": "168r"
             },
             {
               "label": "Composer first view",
@@ -10082,6 +11490,14 @@
               "value": "\"S'il faut que ie perde madame\""
             },
             {
+              "label": "Folio start",
+              "value": "168v"
+            },
+            {
+              "label": "Folio end",
+              "value": "169r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -10137,6 +11553,14 @@
             {
               "label": "Work title first view",
               "value": "'Ou dois-je secours querir'"
+            },
+            {
+              "label": "Folio start",
+              "value": "169v"
+            },
+            {
+              "label": "Folio end",
+              "value": "170r"
             },
             {
               "label": "Composer first view",
@@ -10196,6 +11620,14 @@
               "value": "'Mes pens\u00e9es ne me laissent une heure 27.26'"
             },
             {
+              "label": "Folio start",
+              "value": "170v"
+            },
+            {
+              "label": "Folio end",
+              "value": "171r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Despres, Josquin (ca. 1450\u20131521)' or 'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
             },
@@ -10251,6 +11683,14 @@
             {
               "label": "Work title first view",
               "value": "\"Amours nous traite /Je m'envoy\""
+            },
+            {
+              "label": "Folio start",
+              "value": "171v"
+            },
+            {
+              "label": "Folio end",
+              "value": "172r"
             },
             {
               "label": "Composer first view",
@@ -10310,6 +11750,14 @@
               "value": "'Au pauvre par necessit\u00e9'"
             },
             {
+              "label": "Folio start",
+              "value": "172v"
+            },
+            {
+              "label": "Folio end",
+              "value": "173r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -10365,6 +11813,14 @@
             {
               "label": "Work title first view",
               "value": "\"Ce n'est pas moi, c'est vous madame.\""
+            },
+            {
+              "label": "Folio start",
+              "value": "173v"
+            },
+            {
+              "label": "Folio end",
+              "value": "175r"
             },
             {
               "label": "Composer first view",
@@ -10424,6 +11880,14 @@
               "value": "'Veu que tant de vous'"
             },
             {
+              "label": "Folio start",
+              "value": "173v"
+            },
+            {
+              "label": "Folio end",
+              "value": "175r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Raulin / Roelkin (1443\u20131485)'"
             },
@@ -10479,6 +11943,14 @@
             {
               "label": "Work title first view",
               "value": "'Veu que tant de vous'"
+            },
+            {
+              "label": "Folio start",
+              "value": "175v"
+            },
+            {
+              "label": "Folio end",
+              "value": "177r"
             },
             {
               "label": "Composer first view",
@@ -10538,6 +12010,14 @@
               "value": "'Je te veulx desavouer'"
             },
             {
+              "label": "Folio start",
+              "value": "175v"
+            },
+            {
+              "label": "Folio end",
+              "value": "177r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -10593,6 +12073,14 @@
             {
               "label": "Work title first view",
               "value": "'Je te veulx desavouer'"
+            },
+            {
+              "label": "Folio start",
+              "value": "177v"
+            },
+            {
+              "label": "Folio end",
+              "value": "178r"
             },
             {
               "label": "Composer first view",
@@ -10652,6 +12140,14 @@
               "value": "'Je ne fais plus je ne dis ne escris = Au joli mois de may'"
             },
             {
+              "label": "Folio start",
+              "value": "178v"
+            },
+            {
+              "label": "Folio end",
+              "value": "179r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Mureau, Gilles' or 'Comp\u00e8re, Loyset (ca. 1445\u20131518)' or 'Busnoys, Antoine (ca. 1430\u20131492)'"
             },
@@ -10707,6 +12203,14 @@
             {
               "label": "Work title first view",
               "value": "\"J'ai mains de biens que s'il n'en estoit nuls = O mira circa nos\""
+            },
+            {
+              "label": "Folio start",
+              "value": "179v"
+            },
+            {
+              "label": "Folio end",
+              "value": "181r"
             },
             {
               "label": "Composer first view",
@@ -10766,6 +12270,14 @@
               "value": "\"S'il est ainsi\""
             },
             {
+              "label": "Folio start",
+              "value": "179v"
+            },
+            {
+              "label": "Folio end",
+              "value": "181r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             },
@@ -10821,6 +12333,14 @@
             {
               "label": "Work title first view",
               "value": "\"S'il est ainsi\""
+            },
+            {
+              "label": "Folio start",
+              "value": "181v"
+            },
+            {
+              "label": "Folio end",
+              "value": "182r"
             },
             {
               "label": "Composer first view",
@@ -10880,6 +12400,14 @@
               "value": "'Je suis par desloyal amy'"
             },
             {
+              "label": "Folio start",
+              "value": "182v"
+            },
+            {
+              "label": "Folio end",
+              "value": "183r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -10935,6 +12463,14 @@
             {
               "label": "Work title first view",
               "value": "\"L'homme qui vit en esperance\""
+            },
+            {
+              "label": "Folio start",
+              "value": "183v"
+            },
+            {
+              "label": "Folio end",
+              "value": "184r"
             },
             {
               "label": "Composer first view",
@@ -10994,6 +12530,14 @@
               "value": "'Se je fay = La plus grant chi\u00e8re de jamais'"
             },
             {
+              "label": "Folio start",
+              "value": "184v"
+            },
+            {
+              "label": "Folio end",
+              "value": "185r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -11049,6 +12593,14 @@
             {
               "label": "Work title first view",
               "value": "\"Quant j'ay au coeur\""
+            },
+            {
+              "label": "Folio start",
+              "value": "185v"
+            },
+            {
+              "label": "Folio end",
+              "value": "186r"
             },
             {
               "label": "Composer first view",
@@ -11108,6 +12660,14 @@
               "value": "'Rose playsant odorant comme grant = Ave rex regum ditissime salva nos'"
             },
             {
+              "label": "Folio start",
+              "value": "186v"
+            },
+            {
+              "label": "Folio end",
+              "value": "187r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)' or 'Sart, Jean du' or 'Basiron, Philippe'"
             },
@@ -11163,6 +12723,14 @@
             {
               "label": "Work title first view",
               "value": "'Pucellotte que dieu vos guart'"
+            },
+            {
+              "label": "Folio start",
+              "value": "187v"
+            },
+            {
+              "label": "Folio end",
+              "value": "188r"
             },
             {
               "label": "Composer first view",
@@ -11222,6 +12790,14 @@
               "value": "'Mort ou merci'"
             },
             {
+              "label": "Folio start",
+              "value": "188v"
+            },
+            {
+              "label": "Folio end",
+              "value": "189r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Caron, Firminus (ca. 1460\u2013ca. 1475)'"
             },
@@ -11277,6 +12853,14 @@
             {
               "label": "Work title first view",
               "value": "'Mon bien ma joyeux [= Mon bien mamour]'"
+            },
+            {
+              "label": "Folio start",
+              "value": "189v"
+            },
+            {
+              "label": "Folio end",
+              "value": "190r"
             },
             {
               "label": "Composer first view",
@@ -11336,6 +12920,14 @@
               "value": "\"D'un autre aimer mon coeur s'abesseroit\""
             },
             {
+              "label": "Folio start",
+              "value": "190v"
+            },
+            {
+              "label": "Folio end",
+              "value": "191r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Busnoys, Antoine (ca. 1430\u20131492)' or 'Ockeghem, Jean de (ca. 1410\u20131497)'"
             },
@@ -11391,6 +12983,14 @@
             {
               "label": "Work title first view",
               "value": "'Faulx mesdisans.'"
+            },
+            {
+              "label": "Folio start",
+              "value": "191v"
+            },
+            {
+              "label": "Folio end",
+              "value": "192r"
             },
             {
               "label": "Composer first view",
@@ -11450,6 +13050,14 @@
               "value": "'Madame h\u00e9las = Tr\u00e8s amoureux'"
             },
             {
+              "label": "Folio start",
+              "value": "192v"
+            },
+            {
+              "label": "Folio end",
+              "value": "193r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Congiet, Petrus'"
             },
@@ -11505,6 +13113,14 @@
             {
               "label": "Work title first view",
               "value": "'Or est mon bien [Madame trop vous mesprenes]'"
+            },
+            {
+              "label": "Folio start",
+              "value": "193v"
+            },
+            {
+              "label": "Folio end",
+              "value": "194r"
             },
             {
               "label": "Composer first view",
@@ -11564,6 +13180,14 @@
               "value": "\"Les maulx que j'ai dure\""
             },
             {
+              "label": "Folio start",
+              "value": "194v"
+            },
+            {
+              "label": "Folio end",
+              "value": "195r"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -11619,6 +13243,14 @@
             {
               "label": "Work title first view",
               "value": "'Puisque vous / Je ne vous aimeray plus Marionete'"
+            },
+            {
+              "label": "Folio start",
+              "value": "195v"
+            },
+            {
+              "label": "Folio end",
+              "value": "196r"
             },
             {
               "label": "Composer first view",
@@ -11678,6 +13310,14 @@
               "value": "'Amar vos con leauldad'"
             },
             {
+              "label": "Folio start",
+              "value": "None"
+            },
+            {
+              "label": "Folio end",
+              "value": "None"
+            },
+            {
               "label": "Composer first view",
               "value": "'Anonymous'"
             },
@@ -11733,6 +13373,14 @@
             {
               "label": "Work title first view",
               "value": "None"
+            },
+            {
+              "label": "Folio start",
+              "value": "197v"
+            },
+            {
+              "label": "Folio end",
+              "value": "198r"
             },
             {
               "label": "Composer first view",
