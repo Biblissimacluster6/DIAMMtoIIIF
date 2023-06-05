@@ -282,19 +282,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Deu[il] et ennuy souci regrets et paine'"
+              "value": "None"
             },
             {
               "label": "Folio start second view",
-              "value": "0v"
+              "value": "NP"
             },
             {
               "label": "Folio end second view",
-              "value": "1r"
+              "value": "NP"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "None"
             }
           ],
           "height": 1000,
@@ -355,15 +355,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Beata es Maria virgo dulcis et pia'"
+              "value": "'Deu[il] et ennuy souci regrets et paine'"
             },
             {
               "label": "Folio start second view",
-              "value": "1v"
+              "value": "0v"
             },
             {
               "label": "Folio end second view",
-              "value": "2r"
+              "value": "1r"
             },
             {
               "label": "Composer second view",
@@ -428,15 +428,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Da pacem Domine in diebus nostris'"
+              "value": "'Beata es Maria virgo dulcis et pia'"
             },
             {
               "label": "Folio start second view",
-              "value": "2v"
+              "value": "1v"
             },
             {
               "label": "Folio end second view",
-              "value": "3r"
+              "value": "2r"
             },
             {
               "label": "Composer second view",
@@ -505,15 +505,15 @@
             },
             {
               "label": "Folio start second view",
-              "value": "3v"
+              "value": "2v"
             },
             {
               "label": "Folio end second view",
-              "value": "4r"
+              "value": "3r"
             },
             {
               "label": "Composer second view",
-              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -574,19 +574,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Dulcis amica Dei rosa vernans stella'"
+              "value": "'Da pacem Domine in diebus nostris'"
             },
             {
               "label": "Folio start second view",
-              "value": "4v"
+              "value": "3v"
             },
             {
               "label": "Folio end second view",
-              "value": "5r"
+              "value": "4r"
             },
             {
               "label": "Composer second view",
-              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -647,19 +647,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Si sumpsero pennas meas diluculo'"
+              "value": "'Dulcis amica Dei rosa vernans stella'"
             },
             {
               "label": "Folio start second view",
-              "value": "5v"
+              "value": "4v"
             },
             {
               "label": "Folio end second view",
-              "value": "6r"
+              "value": "5r"
             },
             {
               "label": "Composer second view",
-              "value": "'Obrecht, Jacobus (ca. 1457\u20131505)'"
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
             }
           ],
           "height": 1000,
@@ -720,19 +720,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'O quam glorifica.'"
+              "value": "'Si sumpsero pennas meas diluculo'"
             },
             {
               "label": "Folio start second view",
-              "value": "6v"
+              "value": "5v"
             },
             {
               "label": "Folio end second view",
-              "value": "7r"
+              "value": "6r"
             },
             {
               "label": "Composer second view",
-              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Obrecht, Jacobus (ca. 1457\u20131505)'"
             }
           ],
           "height": 1000,
@@ -793,15 +793,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Si dedero somnum oculis meis'"
+              "value": "'O quam glorifica.'"
             },
             {
               "label": "Folio start second view",
-              "value": "7v"
+              "value": "6v"
             },
             {
               "label": "Folio end second view",
-              "value": "8r"
+              "value": "7r"
             },
             {
               "label": "Composer second view",
@@ -866,19 +866,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Mes pens\u00e9es ne me laissent une heure 27.26'"
+              "value": "'Si dedero somnum oculis meis'"
             },
             {
               "label": "Folio start second view",
-              "value": "8v"
+              "value": "7v"
             },
             {
               "label": "Folio end second view",
-              "value": "9r"
+              "value": "8r"
             },
             {
               "label": "Composer second view",
-              "value": "'Despres, Josquin (ca. 1450\u20131521)' or 'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -939,19 +939,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"L'heure est venue de me plaindre\""
+              "value": "'Mes pens\u00e9es ne me laissent une heure 27.26'"
             },
             {
               "label": "Folio start second view",
-              "value": "9v"
+              "value": "8v"
             },
             {
               "label": "Folio end second view",
-              "value": "11r"
+              "value": "9r"
             },
             {
               "label": "Composer second view",
-              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Despres, Josquin (ca. 1450\u20131521)' or 'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
             }
           ],
           "height": 1000,
@@ -1085,19 +1085,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Allez regrets vuides de ma pr\u00e9sence'"
+              "value": "\"L'heure est venue de me plaindre\""
             },
             {
               "label": "Folio start second view",
-              "value": "11v"
+              "value": "9v"
             },
             {
               "label": "Folio end second view",
-              "value": "12r"
+              "value": "11r"
             },
             {
               "label": "Composer second view",
-              "value": "'Agricola, Alexander (ca. 1445\u20131506)' or 'Ghizeghem, Hayne van'"
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -1158,19 +1158,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Les grands regrets que sans cesses je porte'"
+              "value": "'Allez regrets vuides de ma pr\u00e9sence'"
             },
             {
               "label": "Folio start second view",
-              "value": "12v"
+              "value": "11v"
             },
             {
               "label": "Folio end second view",
-              "value": "13r"
+              "value": "12r"
             },
             {
               "label": "Composer second view",
-              "value": "'Ghizeghem, Hayne van' or 'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)' or 'Ghizeghem, Hayne van'"
             }
           ],
           "height": 1000,
@@ -1231,19 +1231,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Va t'en regrets celluy qui me convoy\u00e9\""
+              "value": "'Les grands regrets que sans cesses je porte'"
             },
             {
               "label": "Folio start second view",
-              "value": "13v"
+              "value": "12v"
             },
             {
               "label": "Folio end second view",
-              "value": "14r"
+              "value": "13r"
             },
             {
               "label": "Composer second view",
-              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+              "value": "'Ghizeghem, Hayne van' or 'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -1304,19 +1304,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Qui belles amours a souvent si lez remue'"
+              "value": "\"Va t'en regrets celluy qui me convoy\u00e9\""
             },
             {
               "label": "Folio start second view",
-              "value": "14v"
+              "value": "13v"
             },
             {
               "label": "Folio end second view",
-              "value": "15r"
+              "value": "14r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
             }
           ],
           "height": 1000,
@@ -1377,19 +1377,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Se je vous eslonge de l'oeil\""
+              "value": "'Qui belles amours a souvent si lez remue'"
             },
             {
               "label": "Folio start second view",
-              "value": "15v"
+              "value": "14v"
             },
             {
               "label": "Folio end second view",
-              "value": "17r"
+              "value": "15r"
             },
             {
               "label": "Composer second view",
-              "value": "'Agricola, Alexander (ca. 1445\u20131506)' or 'Ghizeghem, Hayne van'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -1523,19 +1523,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Se vous voulez m'estre loyalle et bonne = Je vous en prise\""
+              "value": "\"Se je vous eslonge de l'oeil\""
             },
             {
               "label": "Folio start second view",
-              "value": "17v"
+              "value": "15v"
             },
             {
               "label": "Folio end second view",
-              "value": "19r"
+              "value": "17r"
             },
             {
               "label": "Composer second view",
-              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)' or 'Ghizeghem, Hayne van'"
             }
           ],
           "height": 1000,
@@ -1669,19 +1669,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Ha qu'il m'ennuie et que je ne treuve\""
+              "value": "\"Se vous voulez m'estre loyalle et bonne = Je vous en prise\""
             },
             {
               "label": "Folio start second view",
-              "value": "19v"
+              "value": "17v"
             },
             {
               "label": "Folio end second view",
-              "value": "20r"
+              "value": "19r"
             },
             {
               "label": "Composer second view",
-              "value": "'Fresneau, Jehan' or 'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -1742,19 +1742,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Seul et heureulx par fortune'"
+              "value": "\"Ha qu'il m'ennuie et que je ne treuve\""
             },
             {
               "label": "Folio start second view",
-              "value": "20v"
+              "value": "19v"
             },
             {
               "label": "Folio end second view",
-              "value": "21r"
+              "value": "20r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Fresneau, Jehan' or 'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -1815,19 +1815,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'La saison en est ou jamais que je cognoisce'"
+              "value": "'Seul et heureulx par fortune'"
             },
             {
               "label": "Folio start second view",
-              "value": "21v"
+              "value": "20v"
             },
             {
               "label": "Folio end second view",
-              "value": "22r"
+              "value": "21r"
             },
             {
               "label": "Composer second view",
-              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)' or 'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -1888,19 +1888,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Penser en vous'"
+              "value": "'La saison en est ou jamais que je cognoisce'"
             },
             {
               "label": "Folio start second view",
-              "value": "22v"
+              "value": "21v"
             },
             {
               "label": "Folio end second view",
-              "value": "23r"
+              "value": "22r"
             },
             {
               "label": "Composer second view",
-              "value": "'Ghizeghem, Hayne van'"
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)' or 'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -1961,19 +1961,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Venez regretz sourdes en habondar ce acompaigner'"
+              "value": "'Penser en vous'"
             },
             {
               "label": "Folio start second view",
-              "value": "23v"
+              "value": "22v"
             },
             {
               "label": "Folio end second view",
-              "value": "24r"
+              "value": "23r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Ghizeghem, Hayne van'"
             }
           ],
           "height": 1000,
@@ -2034,15 +2034,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Des fais mondains tant ay ou bonne chance'"
+              "value": "'Venez regretz sourdes en habondar ce acompaigner'"
             },
             {
               "label": "Folio start second view",
-              "value": "24v"
+              "value": "23v"
             },
             {
               "label": "Folio end second view",
-              "value": "25r"
+              "value": "24r"
             },
             {
               "label": "Composer second view",
@@ -2107,15 +2107,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"De plus en plus d'ardant desir\""
+              "value": "'Des fais mondains tant ay ou bonne chance'"
             },
             {
               "label": "Folio start second view",
-              "value": "25v"
+              "value": "24v"
             },
             {
               "label": "Folio end second view",
-              "value": "26r"
+              "value": "25r"
             },
             {
               "label": "Composer second view",
@@ -2180,19 +2180,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Mon souvenir mi fait morir pour les regrets'"
+              "value": "\"De plus en plus d'ardant desir\""
             },
             {
               "label": "Folio start second view",
-              "value": "26v"
+              "value": "25v"
             },
             {
               "label": "Folio end second view",
-              "value": "27r"
+              "value": "26r"
             },
             {
               "label": "Composer second view",
-              "value": "'Ghizeghem, Hayne van'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2253,19 +2253,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'A heur le tiens le bien'"
+              "value": "'Mon souvenir mi fait morir pour les regrets'"
             },
             {
               "label": "Folio start second view",
-              "value": "27v"
+              "value": "26v"
             },
             {
               "label": "Folio end second view",
-              "value": "28r"
+              "value": "27r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Ghizeghem, Hayne van'"
             }
           ],
           "height": 1000,
@@ -2326,19 +2326,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'O vos omnes qui transitis /  O devots coeurs'"
+              "value": "'A heur le tiens le bien'"
             },
             {
               "label": "Folio start second view",
-              "value": "28v"
+              "value": "27v"
             },
             {
               "label": "Folio end second view",
-              "value": "29r"
+              "value": "28r"
             },
             {
               "label": "Composer second view",
-              "value": "'Obrecht, Jacobus (ca. 1457\u20131505)' or 'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2399,19 +2399,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Comme femme desconfortee (II)'"
+              "value": "'O vos omnes qui transitis /  O devots coeurs'"
             },
             {
               "label": "Folio start second view",
-              "value": "29v"
+              "value": "28v"
             },
             {
               "label": "Folio end second view",
-              "value": "30r"
+              "value": "29r"
             },
             {
               "label": "Composer second view",
-              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Obrecht, Jacobus (ca. 1457\u20131505)' or 'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
             }
           ],
           "height": 1000,
@@ -2472,15 +2472,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Se cong\u00e9 prens de mes belles amours'"
+              "value": "'Comme femme desconfortee (II)'"
             },
             {
               "label": "Folio start second view",
-              "value": "30v"
+              "value": "29v"
             },
             {
               "label": "Folio end second view",
-              "value": "31r"
+              "value": "30r"
             },
             {
               "label": "Composer second view",
@@ -2545,15 +2545,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Se mieulx ne vient d'amours\""
+              "value": "'Se cong\u00e9 prens de mes belles amours'"
             },
             {
               "label": "Folio start second view",
-              "value": "31v"
+              "value": "30v"
             },
             {
               "label": "Folio end second view",
-              "value": "32r"
+              "value": "31r"
             },
             {
               "label": "Composer second view",
@@ -2618,19 +2618,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Plus qu'autre ay eu ma joye douloureuse\""
+              "value": "\"Se mieulx ne vient d'amours\""
             },
             {
               "label": "Folio start second view",
-              "value": "32v"
+              "value": "31v"
             },
             {
               "label": "Folio end second view",
-              "value": "33r"
+              "value": "32r"
             },
             {
               "label": "Composer second view",
-              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -2691,19 +2691,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"En l'ombre d'ung buissonet tout au long d'une riviere\""
+              "value": "\"Plus qu'autre ay eu ma joye douloureuse\""
             },
             {
               "label": "Folio start second view",
-              "value": "33v"
+              "value": "32v"
             },
             {
               "label": "Folio end second view",
-              "value": "34r"
+              "value": "33r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Prioris, Johannes (Denis, Dionisius) (\u20131515)'"
             }
           ],
           "height": 1000,
@@ -2764,19 +2764,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'La regretee en tous biens acomplie'"
+              "value": "\"En l'ombre d'ung buissonet tout au long d'une riviere\""
             },
             {
               "label": "Folio start second view",
-              "value": "34v"
+              "value": "33v"
             },
             {
               "label": "Folio end second view",
-              "value": "35r"
+              "value": "34r"
             },
             {
               "label": "Composer second view",
-              "value": "'Ghizeghem, Hayne van'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -2837,15 +2837,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Je say tout - 1a pars (of 2): Je say tout ce qui me nuit'"
+              "value": "'La regretee en tous biens acomplie'"
             },
             {
               "label": "Folio start second view",
-              "value": "35v"
+              "value": "34v"
             },
             {
               "label": "Folio end second view",
-              "value": "36r"
+              "value": "35r"
             },
             {
               "label": "Composer second view",
@@ -2910,19 +2910,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Fors seulement l'attente que je meure = Frayres y dexedes me\""
+              "value": "'Je say tout - 1a pars (of 2): Je say tout ce qui me nuit'"
             },
             {
               "label": "Folio start second view",
-              "value": "36v"
+              "value": "35v"
             },
             {
               "label": "Folio end second view",
-              "value": "37r"
+              "value": "36r"
             },
             {
               "label": "Composer second view",
-              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
+              "value": "'Ghizeghem, Hayne van'"
             }
           ],
           "height": 1000,
@@ -2983,19 +2983,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Il n'est vivant tant soit savant ou sage = Penses vivant\""
+              "value": "\"Fors seulement l'attente que je meure = Frayres y dexedes me\""
             },
             {
               "label": "Folio start second view",
-              "value": "37v"
+              "value": "36v"
             },
             {
               "label": "Folio end second view",
-              "value": "39r"
+              "value": "37r"
             },
             {
               "label": "Composer second view",
-              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)' or 'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Ockeghem, Jean de (ca. 1410\u20131497)'"
             }
           ],
           "height": 1000,
@@ -3129,19 +3129,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Helas pour quoy ne suys je marye'"
+              "value": "\"Il n'est vivant tant soit savant ou sage = Penses vivant\""
             },
             {
               "label": "Folio start second view",
-              "value": "39v"
+              "value": "37v"
             },
             {
               "label": "Folio end second view",
-              "value": "40r"
+              "value": "39r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)' or 'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -3202,19 +3202,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Je ne vis oncques la pareille de vous'"
+              "value": "'Helas pour quoy ne suys je marye'"
             },
             {
               "label": "Folio start second view",
-              "value": "40v"
+              "value": "39v"
             },
             {
               "label": "Folio end second view",
-              "value": "41r"
+              "value": "40r"
             },
             {
               "label": "Composer second view",
-              "value": "'Binchois, Gilles (ca. 1400\u20131460)' or 'Du Fay, Guillaume (1397\u20131474)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -3275,19 +3275,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Royne des flours que ie desire tant = C'est vous\""
+              "value": "'Je ne vis oncques la pareille de vous'"
             },
             {
               "label": "Folio start second view",
-              "value": "41v"
+              "value": "40v"
             },
             {
               "label": "Folio end second view",
-              "value": "42r"
+              "value": "41r"
             },
             {
               "label": "Composer second view",
-              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Binchois, Gilles (ca. 1400\u20131460)' or 'Du Fay, Guillaume (1397\u20131474)'"
             }
           ],
           "height": 1000,
@@ -3348,19 +3348,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Faisons boutons le beau tamps est venu'"
+              "value": "\"Royne des flours que ie desire tant = C'est vous\""
             },
             {
               "label": "Folio start second view",
-              "value": "42v"
+              "value": "41v"
             },
             {
               "label": "Folio end second view",
-              "value": "43r"
+              "value": "42r"
             },
             {
               "label": "Composer second view",
-              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+              "value": "'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -3421,19 +3421,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Fin che vivo et poi la morte'"
+              "value": "'Faisons boutons le beau tamps est venu'"
             },
             {
               "label": "Folio start second view",
-              "value": "43v"
+              "value": "42v"
             },
             {
               "label": "Folio end second view",
-              "value": "44r"
+              "value": "43r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
             }
           ],
           "height": 1000,
@@ -3494,15 +3494,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Yo so contento de la mya dona'"
+              "value": "'Fin che vivo et poi la morte'"
             },
             {
               "label": "Folio start second view",
-              "value": "44v"
+              "value": "43v"
             },
             {
               "label": "Folio end second view",
-              "value": "45r"
+              "value": "44r"
             },
             {
               "label": "Composer second view",
@@ -3567,19 +3567,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Que vous madame / In pace in idipsum 27.33'"
+              "value": "'Yo so contento de la mya dona'"
             },
             {
               "label": "Folio start second view",
-              "value": "45v"
+              "value": "44v"
             },
             {
               "label": "Folio end second view",
-              "value": "46r"
+              "value": "45r"
             },
             {
               "label": "Composer second view",
-              "value": "'Despres, Josquin (ca. 1450\u20131521)' or 'Agricola, Alexander (ca. 1445\u20131506)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -3640,19 +3640,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'La gaie pastour ma donne samour'"
+              "value": "'Que vous madame / In pace in idipsum 27.33'"
             },
             {
               "label": "Folio start second view",
-              "value": "46v"
+              "value": "45v"
             },
             {
               "label": "Folio end second view",
-              "value": "47r"
+              "value": "46r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Despres, Josquin (ca. 1450\u20131521)' or 'Agricola, Alexander (ca. 1445\u20131506)'"
             }
           ],
           "height": 1000,
@@ -3713,19 +3713,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Se je perdu mon amy je n'ai pas cause 27.34\""
+              "value": "'La gaie pastour ma donne samour'"
             },
             {
               "label": "Folio start second view",
-              "value": "47v"
+              "value": "46v"
             },
             {
               "label": "Folio end second view",
-              "value": "48r"
+              "value": "47r"
             },
             {
               "label": "Composer second view",
-              "value": "'Despres, Josquin (ca. 1450\u20131521)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -3786,19 +3786,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Mon seul plaisir 28.26 - 1a pars (of 2): Mon seul plaisir'"
+              "value": "\"Se je perdu mon amy je n'ai pas cause 27.34\""
             },
             {
               "label": "Folio start second view",
-              "value": "48v"
+              "value": "47v"
             },
             {
               "label": "Folio end second view",
-              "value": "49r"
+              "value": "48r"
             },
             {
               "label": "Composer second view",
-              "value": "'Petit, Nino le' or 'Despres, Josquin (ca. 1450\u20131521)'"
+              "value": "'Despres, Josquin (ca. 1450\u20131521)'"
             }
           ],
           "height": 1000,
@@ -3859,19 +3859,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Ce moys de may par ung doulx asserant'"
+              "value": "'Mon seul plaisir 28.26 - 1a pars (of 2): Mon seul plaisir'"
             },
             {
               "label": "Folio start second view",
-              "value": "49v"
+              "value": "48v"
             },
             {
               "label": "Folio end second view",
-              "value": "51r"
+              "value": "49r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Petit, Nino le' or 'Despres, Josquin (ca. 1450\u20131521)'"
             }
           ],
           "height": 1000,
@@ -4005,15 +4005,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Pastourelle jolie dieu vous doint'"
+              "value": "'Ce moys de may par ung doulx asserant'"
             },
             {
               "label": "Folio start second view",
-              "value": "51v"
+              "value": "49v"
             },
             {
               "label": "Folio end second view",
-              "value": "53r"
+              "value": "51r"
             },
             {
               "label": "Composer second view",
@@ -4151,15 +4151,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Amoreuse mi fault estre'"
+              "value": "'Pastourelle jolie dieu vous doint'"
             },
             {
               "label": "Folio start second view",
-              "value": "53v"
+              "value": "51v"
             },
             {
               "label": "Folio end second view",
-              "value": "54r"
+              "value": "53r"
             },
             {
               "label": "Composer second view",
@@ -4224,19 +4224,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Tant belle mi son pensade'"
+              "value": "'Amoreuse mi fault estre'"
             },
             {
               "label": "Folio start second view",
-              "value": "54v"
+              "value": "53v"
             },
             {
               "label": "Folio end second view",
-              "value": "55r"
+              "value": "54r"
             },
             {
               "label": "Composer second view",
-              "value": "'Isaac, Heinrich (ca. 1450\u20131517)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -4297,19 +4297,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Se j'avoye de la soye et du fil\""
+              "value": "'Tant belle mi son pensade'"
             },
             {
               "label": "Folio start second view",
-              "value": "55v"
+              "value": "54v"
             },
             {
               "label": "Folio end second view",
-              "value": "56r"
+              "value": "55r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Isaac, Heinrich (ca. 1450\u20131517)'"
             }
           ],
           "height": 1000,
@@ -4370,19 +4370,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Lourdault Lourdault garde que tu feras 28.23'"
+              "value": "\"Se j'avoye de la soye et du fil\""
             },
             {
               "label": "Folio start second view",
-              "value": "56v"
+              "value": "55v"
             },
             {
               "label": "Folio end second view",
-              "value": "57r"
+              "value": "56r"
             },
             {
               "label": "Composer second view",
-              "value": "'Petit, Nino le' or 'Comp\u00e8re, Loyset (ca. 1445\u20131518)' or 'Despres, Josquin (ca. 1450\u20131521)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -4443,19 +4443,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"L'autre jour my chevauchoye tout du long d'une montaine\""
+              "value": "'Lourdault Lourdault garde que tu feras 28.23'"
             },
             {
               "label": "Folio start second view",
-              "value": "57v"
+              "value": "56v"
             },
             {
               "label": "Folio end second view",
-              "value": "58r"
+              "value": "57r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Petit, Nino le' or 'Comp\u00e8re, Loyset (ca. 1445\u20131518)' or 'Despres, Josquin (ca. 1450\u20131521)'"
             }
           ],
           "height": 1000,
@@ -4516,15 +4516,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"La nuyt s'en va et le jour vient\""
+              "value": "\"L'autre jour my chevauchoye tout du long d'une montaine\""
             },
             {
               "label": "Folio start second view",
-              "value": "58v"
+              "value": "57v"
             },
             {
               "label": "Folio end second view",
-              "value": "59r"
+              "value": "58r"
             },
             {
               "label": "Composer second view",
@@ -4589,15 +4589,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Il etait un bon homme qui venoit de Lyons'"
+              "value": "\"La nuyt s'en va et le jour vient\""
             },
             {
               "label": "Folio start second view",
-              "value": "59v"
+              "value": "58v"
             },
             {
               "label": "Folio end second view",
-              "value": "60r"
+              "value": "59r"
             },
             {
               "label": "Composer second view",
@@ -4662,19 +4662,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Fors seulement l'atent que je meure (II)\""
+              "value": "'Il etait un bon homme qui venoit de Lyons'"
             },
             {
               "label": "Folio start second view",
-              "value": "60v"
+              "value": "59v"
             },
             {
               "label": "Folio end second view",
-              "value": "61r"
+              "value": "60r"
             },
             {
               "label": "Composer second view",
-              "value": "'Pipelare, Mattheus' or 'Rue, Pierre de la (ca. 1452\u20131518)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -4735,19 +4735,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Crux triumphans - 1a pars (of 2): Crux triumphans decus potentium'"
+              "value": "\"Fors seulement l'atent que je meure (II)\""
             },
             {
               "label": "Folio start second view",
-              "value": "61v"
+              "value": "60v"
             },
             {
               "label": "Folio end second view",
-              "value": "62r"
+              "value": "61r"
             },
             {
               "label": "Composer second view",
-              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
+              "value": "'Pipelare, Mattheus' or 'Rue, Pierre de la (ca. 1452\u20131518)'"
             }
           ],
           "height": 1000,
@@ -4808,15 +4808,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Crux triumphans - 2a pars (of 2): Jesus nomen dignum triumphale'"
+              "value": "'Crux triumphans - 1a pars (of 2): Crux triumphans decus potentium'"
             },
             {
               "label": "Folio start second view",
-              "value": "62v"
+              "value": "61v"
             },
             {
               "label": "Folio end second view",
-              "value": "63r"
+              "value": "62r"
             },
             {
               "label": "Composer second view",
@@ -4881,19 +4881,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'My levay par ung matin a la fresche matinade'"
+              "value": "'Crux triumphans - 2a pars (of 2): Jesus nomen dignum triumphale'"
             },
             {
               "label": "Folio start second view",
-              "value": "63v"
+              "value": "62v"
             },
             {
               "label": "Folio end second view",
-              "value": "64r"
+              "value": "63r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Comp\u00e8re, Loyset (ca. 1445\u20131518)'"
             }
           ],
           "height": 1000,
@@ -4954,15 +4954,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Mary de par sa mere pour quoy me printe'"
+              "value": "'My levay par ung matin a la fresche matinade'"
             },
             {
               "label": "Folio start second view",
-              "value": "64v"
+              "value": "63v"
             },
             {
               "label": "Folio end second view",
-              "value": "65r"
+              "value": "64r"
             },
             {
               "label": "Composer second view",
@@ -5027,15 +5027,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"La cuillier d'or lureau bruneau\""
+              "value": "'Mary de par sa mere pour quoy me printe'"
             },
             {
               "label": "Folio start second view",
-              "value": "65v"
+              "value": "64v"
             },
             {
               "label": "Folio end second view",
-              "value": "66r"
+              "value": "65r"
             },
             {
               "label": "Composer second view",
@@ -5100,15 +5100,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Faictes si vous plaist'"
+              "value": "\"La cuillier d'or lureau bruneau\""
             },
             {
               "label": "Folio start second view",
-              "value": "66v"
+              "value": "65v"
             },
             {
               "label": "Folio end second view",
-              "value": "68r"
+              "value": "66r"
             },
             {
               "label": "Composer second view",
@@ -5173,15 +5173,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Seullette suis au boys entree'"
+              "value": "'Faictes si vous plaist'"
             },
             {
               "label": "Folio start second view",
-              "value": "68v"
+              "value": "66v"
             },
             {
               "label": "Folio end second view",
-              "value": "69r"
+              "value": "68r"
             },
             {
               "label": "Composer second view",
@@ -5319,15 +5319,15 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"Mon mari m'a diffamee\""
+              "value": "'Seullette suis au boys entree'"
             },
             {
               "label": "Folio start second view",
-              "value": "69v"
+              "value": "68v"
             },
             {
               "label": "Folio end second view",
-              "value": "71r"
+              "value": "69r"
             },
             {
               "label": "Composer second view",
@@ -5392,19 +5392,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"L'amour de moy si est enclose\""
+              "value": "\"Mon mari m'a diffamee\""
             },
             {
               "label": "Folio start second view",
-              "value": "71v"
+              "value": "69v"
             },
             {
               "label": "Folio end second view",
-              "value": "73r"
+              "value": "71r"
             },
             {
               "label": "Composer second view",
-              "value": "'P. B.'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5538,19 +5538,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"M'amiette m'a mande\""
+              "value": "\"L'amour de moy si est enclose\""
             },
             {
               "label": "Folio start second view",
-              "value": "73v"
+              "value": "71v"
             },
             {
               "label": "Folio end second view",
-              "value": "75r"
+              "value": "73r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'P. B.'"
             }
           ],
           "height": 1000,
@@ -5684,19 +5684,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "\"A l'ombre d'ung buissonet au matinet 27.2\""
+              "value": "\"M'amiette m'a mande\""
             },
             {
               "label": "Folio start second view",
-              "value": "75v"
+              "value": "73v"
             },
             {
               "label": "Folio end second view",
-              "value": "76r"
+              "value": "75r"
             },
             {
               "label": "Composer second view",
-              "value": "'Despres, Josquin (ca. 1450\u20131521)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -5830,19 +5830,19 @@
             },
             {
               "label": "Work title second view",
-              "value": "'Triste et pensif suis sans mot dire'"
+              "value": "\"A l'ombre d'ung buissonet au matinet 27.2\""
             },
             {
               "label": "Folio start second view",
-              "value": "76v"
+              "value": "75v"
             },
             {
               "label": "Folio end second view",
-              "value": "77r"
+              "value": "76r"
             },
             {
               "label": "Composer second view",
-              "value": "'Anonymous'"
+              "value": "'Despres, Josquin (ca. 1450\u20131521)'"
             }
           ],
           "height": 1000,
@@ -5877,6 +5877,79 @@
                 ]
               },
               "on": "https://example.com/iiif/canvas/f79.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f80.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 80",
+          "metadata": [
+            {
+              "label": "Work title first view",
+              "value": "'Triste et pensif suis sans mot dire'"
+            },
+            {
+              "label": "Folio start first view",
+              "value": "76v"
+            },
+            {
+              "label": "Folio end first view",
+              "value": "77r"
+            },
+            {
+              "label": "Composer first view",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work title second view",
+              "value": "'Triste et pensif suis sans mot dire'"
+            },
+            {
+              "label": "Folio start second view",
+              "value": "76v"
+            },
+            {
+              "label": "Folio end second view",
+              "value": "77r"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Anonymous'"
+            }
+          ],
+          "height": 1000,
+          "width": 1000,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060517z/f80/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060517z/f80",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060517z/f80/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9060517z/f80",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f80.json"
             }
           ]
         }
