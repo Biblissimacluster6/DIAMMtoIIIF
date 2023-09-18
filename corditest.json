@@ -282,12 +282,6 @@
               },
               "on": "https://example.com/iiif/canvas/f3.json"
             }
-          ],
-          "otherContent": [
-            {
-              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/annot.json",
-              "@type": "sc:AnnotationList"
-            }
           ]
         },
         {
@@ -714,6 +708,12 @@
                 ]
               },
               "on": "https://example.com/iiif/canvas/f10.json"
+            }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/annot.json",
+              "@type": "sc:AnnotationList"
             }
           ]
         },
