@@ -1,18 +1,18 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://cordi/canvas/AnnotationList",
+  "@id": "http://localhost:8887/coin/canvas/AnnotationList",
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "@id": "http://cordi/list/1",
+      "@id": "http://localhost:8887/coin/list/1",
       "@type": "oa:Annotation",
       "motivation": "sc:painting",
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "Hora cridar etc."
+        "chars": "Zeus seated on stool-throne"
       },
-      "on": "http://localhost:8887/coin/canvas#xywh=729,447,1380,1336"
+      "on": "http://localhost:8887/coin/canvas#xywh=3706,208,522,522"
     }
   ]
 }
