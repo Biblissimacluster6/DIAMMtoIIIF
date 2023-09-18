@@ -6,9 +6,9 @@
     {
       "@id": "http://cordi/list/1",
       "@type": "oa:Annotation",
-      "motivation": "sc:tagging",
+      "motivation": "tagging",
       "resource": {
-        "@type": "cnt:textualbody",
+        "@type": "textualbody",
         "format": "text/plain",
         "chars": "Hora cridar etc."
       },
