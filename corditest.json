@@ -285,7 +285,7 @@
           ],
           "otherContent": [
             {
-              "@id": "http://localhost:8887/annotation-list.json",
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/annot.json",
               "@type": "sc:AnnotationList"
             }
           ]
