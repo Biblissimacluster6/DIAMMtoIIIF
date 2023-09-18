@@ -282,6 +282,12 @@
               },
               "on": "https://example.com/iiif/canvas/f3.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "http://localhost:8887/annotation-list.json",
+              "@type": "sc:AnnotationList"
+            }
           ]
         },
         {
