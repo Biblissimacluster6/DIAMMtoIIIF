@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:8887/coin/canvas/AnnotationList",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "http://localhost:8887/coin/list/1",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Zeus seated on stool-throne"
+      },
+      "on": "http://localhost:8887/coin/canvas#xywh=3706,208,522,522"
+    }
+  ]
+}
