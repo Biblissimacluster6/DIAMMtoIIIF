@@ -1,33 +1,19 @@
-"@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/corditest.json",
-    "@type": "sc:AnnotationList",
-    "resources": [
-        {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@id": "https://iiif.harvardartmuseums.org/annotations/76408",
-            "@type": "oa:Annotation",
-            "motivation": [
-                "oa:commenting"
-            ],
-            "on": {
-                "@type": "oa:SpecificResource",
-                "full": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10/full/full/0/default.jpg",
-                "selector": {
-                    "@type": "oa:FragmentSelector",
-                    "value": "xywh=729,447,1380,1336"
-                },
-                "within": {
-                    "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/corditest.json",
-                    "@type": "sc:Manifest"
-                }
-            },
-            "resource": [
-                {
-                    "@type": "dctypes:Text",
-                    "chars": "<p>Hora cridar</p>",
-                    "format": "text/html"
-                }
-            ]
-        }
-    ]
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/annotationpage.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/canvas-1/annopage-2/anno-1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "Göttinger Marktplatz mit Gänseliesel Brunnen"
+      },
+      "target": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/canvas-1"
+    }
+  ]
 }
