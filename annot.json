@@ -10,9 +10,9 @@
       "resource": {
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "Zeus seated on stool-throne"
+        "chars": "Hora cridar etc."
       },
-      "on": "http://localhost:8887/coin/canvas#xywh=3706,208,522,522"
+      "on": "http://localhost:8887/coin/canvas#xywh=729,447,1380,1336"
     }
   ]
 }
