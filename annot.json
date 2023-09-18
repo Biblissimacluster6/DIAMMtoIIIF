@@ -1,19 +1,18 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "id": "https://example.com/iiif/annotationpage.json",
-  "type": "AnnotationPage",
-  "items": [
-    {
-      "id": "https://example.com/iiif/annotationpage/canvas-10",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "language": "de",
-        "format": "text/plain",
-        "value": "Hora cridar"
-      },
-      "target": "https://example.com/iiif/canvas/f10.json"
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://example.com/annotation1",
+    "@type": "oa:Annotation",
+    "motivation": ["oa:commenting"],
+    "on": {
+        "@type": "oa:SpecificResource",
+        "full": "https://example.com/canvas1",
+        "selector": {
+            "@type": "oa:FragmentSelector",
+            "value": "xywh=100,100,300,300"
+        }
+    },
+    "resource": {
+        "@type": "dctypes:Text",
+        "chars": "Ceci est un commentaire."
     }
-  ]
 }
