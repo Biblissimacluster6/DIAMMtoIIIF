@@ -1,1 +1,19 @@
-{"https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/manifest.json":{"https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f10":[{"@context":"http://iiif.io/api/presentation/2/context.json","@type":"oa:Annotation","motivation":["oa:commenting"],"resource":[{"@type":"dctypes:Text","format":"text/html","chars":"<p>Cantus</p>"}],"on":[{"@type":"oa:SpecificResource","full":"https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f10","selector":{"@type":"oa:Choice","default":{"@type":"oa:FragmentSelector","value":"xywh=729,447,1380,1336"},"item":{"@type":"oa:SvgSelector","value":"<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M728.56108,446.7521h690.01317v0h690.01317v668.17126v668.17126h-690.01317h-690.01317v-668.17126z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ef3d9964-8021-4c1a-9d22-8694d36dae1f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"}},"within":{"@id":"https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/manifest.json","@type":"sc:Manifest"}}],"@id":"864238cf-6c55-4ce4-bbdd-6b0d19122b3e"}]}}
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/annotationpage.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/canvas-1/annopage-2/anno-1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "Göttinger Marktplatz mit Gänseliesel Brunnen"
+      },
+      "target": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/canvas-1"
+    }
+  ]
+}
