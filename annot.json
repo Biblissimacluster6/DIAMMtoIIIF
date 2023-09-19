@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/annot.json",
-  "@type": "sc:AnnotationPage",
+  "@type": "sc:AnnotationList",
   "resources": [
     {
       "@id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/annot/1",
