@@ -712,7 +712,7 @@
           ],
           "annotations": [
             {
-              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/annot.json",
+              "@id": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/annotationpage.json",
               "@type": "AnnotationPage"
             }
           ]
