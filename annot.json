@@ -1,19 +1,18 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/annotationpage.json",
-  "@type": "sc:AnnotationPage",
+  "@id": "http://localhost:8887/coin/canvas/AnnotationList",
+  "@type": "sc:AnnotationList",
   "resources": [
     {
-      "@id": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/canvas-1/annopage-2/anno-1",
+      "@id": "http://localhost:8887/coin/list/1",
       "@type": "oa:Annotation",
-      "motivation": "sc:commenting",
+      "motivation": "sc:painting",
       "resource": {
-        "type": "cnt:ContentAsText",
-        "language": "de",
+        "@type": "cnt:ContentAsText",
         "format": "text/plain",
-        "chars": "Göttinger Marktplatz mit Gänseliesel Brunnen"
+        "chars": "Zeus seated on stool-throne"
       },
-      "on": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/canvas-1"
+      "on": "http://localhost:8887/coin/canvas#xywh=3706,208,522,522"
     }
   ]
 }
