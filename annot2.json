@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/annotationpage.json",
-  "type": "AnnotationPage",
+  "type": "AnnotationList",
   "items": [
     {
       "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/canvas-1/annopage-2/anno-1",
