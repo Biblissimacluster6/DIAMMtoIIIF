@@ -713,7 +713,7 @@
           "otherContent": [
             {
               "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/annot2.json",
-              "@type": "sc:AnnotationPage"
+              "@type": "sc:AnnotationList"
              }
           ]
         },
