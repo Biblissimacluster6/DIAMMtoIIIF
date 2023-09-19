@@ -1,36 +1,26 @@
 {
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/annotationpage.json",
-  "type": "AnnotationPage",
-  "items": [
-    {
-      "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/canvas-1/annopage-2/anno-1",
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "language": "de",
-        "format": "text/plain",
-        "value": "Der Gänseliesel-Brunnen"
-      },
-      "target": {
-        "type": "SpecificResource",
-        "source": {
-          "id": "https://example.com/iiif/canvas10",
-          "type": "Canvas",
-          "partOf": [
-            {
-              "id": "https://example.com/iiif/manifest.json",
-              "type": "Manifest"
-            }
-          ]
-        },
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=8000,7000,1200,1200"
-        }
+  "@context":"http://iiif.io/api/presentation/2/context.json",
+  "@id":"http://www.example.org/iiif/book1/annotation/anno1",
+  "@type":"oa:Annotation",
+  "motivation":"sc:painting",
+  "resource":{
+    "@id" : "http://www.example.org/iiif/book1-page1/40,50,1200,1800/full/0/default.jpg",
+    "@type":"oa:SpecificResource",
+    "full": {
+      "@id":"http://www.example.org/iiif/book1-page1/full/full/0/default.jpg",
+      "@type":"dctypes:Image",
+      "service": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "@id": "http://www.example.org/iiif/book1-page1",
+        "profile":"http://iiif.io/api/image/2/level2.json"
       }
+    },
+    "selector": {
+      "@context": "http://iiif.io/api/annex/openannotation/context.json",
+      "@type": "iiif:ImageApiSelector",
+      "region": "40,50,1200,1800"
     }
-  ]
+  },
+  "on":"http://www.example.org/iiif/book1/canvas/p1#xywh=50,50,320,240"
 }
+
