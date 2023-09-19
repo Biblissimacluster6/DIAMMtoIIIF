@@ -710,10 +710,10 @@
               "on": "https://example.com/iiif/canvas/f10.json"
             }
           ],
-          "annotations": [
+          "otherContent": [
             {
               "@id": "https://iiif.io/api/cookbook/recipe/0269-embedded-or-referenced-annotations/annotationpage.json",
-              "@type": "AnnotationPage"
+              "@type": "sc:AnnotationPage"
             }
           ]
         },
