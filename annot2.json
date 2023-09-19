@@ -16,11 +16,11 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/canvas-1",
+          "id": "https://example.com/iiif/canvas10",
           "type": "Canvas",
           "partOf": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/manifest.json",
+              "id": "https://example.com/iiif/manifest.json",
               "type": "Manifest"
             }
           ]
@@ -28,7 +28,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=300,800,1200,1200"
+          "value": "xywh=800,700,1200,1200"
         }
       }
     }
