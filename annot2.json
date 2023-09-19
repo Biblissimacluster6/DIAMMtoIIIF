@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/annotationpage.json",
+  "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2.json",
   "type": "AnnotationPage",
   "items": [
     {
-      "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/canvas-1/annopage-2/anno-1",
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot1",
       "type": "Annotation",
       "motivation": "commenting",
       "body": {
@@ -16,11 +16,11 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/canvas-1",
+          "id": "https://example.com/iiif/canvas/f10.json",
           "type": "Canvas",
           "partOf": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/manifest.json",
+              "id": "https://example.com/iiif/manifest.json",
               "type": "Manifest"
             }
           ]
@@ -28,7 +28,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=300,800,1200,1200"
+          "value": "xywh=900,800,1200,1200"
         }
       }
     }
