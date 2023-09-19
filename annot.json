@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "http://localhost:8887/coin/canvas/AnnotationList",
-  "@type": "sc:AnnotationList",
+  "@type": "sc:AnnotationPage",
   "resources": [
     {
       "@id": "http://localhost:8887/coin/list/1",
