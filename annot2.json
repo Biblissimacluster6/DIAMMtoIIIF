@@ -4,7 +4,7 @@
   "@type": "sc:AnnotationList",
   "resources": [
     {
-      "@id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2/10#xywh=400,500,1200,1800",
+      "@id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2/10",
       "@type": "oa:Annotation",
       "motivation": "sc:painting",
       "resource": {
@@ -12,7 +12,7 @@
         "format": "text/plain",
         "chars": "Zeus seated on stool-throne"
       },
-      "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10"
+      "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f10#xywh=4000,5000,1200,1800"
     }
   ]
 }
