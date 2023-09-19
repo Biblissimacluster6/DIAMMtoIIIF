@@ -1,18 +1,36 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2",
-  "@type": "sc:AnnotationList",
-  "resources": [
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/annotationpage.json",
+  "type": "AnnotationPage",
+  "items": [
     {
-      "@id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2/10",
-      "@type": "oa:Annotation",
-      "motivation": "sc:painting",
-      "resource": {
-        "@type": "cnt:ContentAsText",
+      "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/canvas-1/annopage-2/anno-1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
         "format": "text/plain",
-        "chars": "Zeus seated on stool-throne"
+        "value": "Der Gänseliesel-Brunnen"
       },
-      "on": "https://example.com/iiif/canvas/f10#xywh=450,550,1200,1800"
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/canvas-1",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0306-linking-annotations-to-manifests/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=300,800,1200,1200"
+        }
+      }
     }
   ]
 }
