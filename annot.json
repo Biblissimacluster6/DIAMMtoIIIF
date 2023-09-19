@@ -12,7 +12,7 @@
         "format": "text/plain",
         "chars": "Zeus seated on stool-throne"
       },
-      "on": "http://localhost:8887/coin/canvas#xywh=3706,208,522,522"
+      "on": "http://localhost:8887/coin/canvas#xywh=3706,3000,800,800"
     }
   ]
 }
