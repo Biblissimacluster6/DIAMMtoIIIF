@@ -1,0 +1,36 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "Tenor. Ben lo sa dio"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f13.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=206,404,1419,1974"
+        }
+      }
+    }
+  ]
+}
