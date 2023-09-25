@@ -16,7 +16,7 @@
       "target": {
         "type": "SpecificResource",
         "source": {
-          "id": "https://example.com/iiif/canvas/f10.json",
+          "id": "https://example.com/iiif/canvas/f11.json",
           "type": "Canvas",
           "partOf": [
             {
