@@ -910,6 +910,12 @@
               },
               "on": "https://example.com/iiif/canvas/f13.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/Annotations/anno3.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
