@@ -60,6 +60,35 @@
           "value": "xywh=1272,1799,1513,188"
         }
       }
-    }    
+    },
+     {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot3",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "Contratenor. Hora cridar «oyme»." 
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f10.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1675,2055,968,332"
+        }
+      }
+    }
   ]
 }
