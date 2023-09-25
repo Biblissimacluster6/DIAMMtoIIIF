@@ -1,0 +1,123 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "[Cantus]. Ben lo sa dio se sum vergine e pura / Che en ben fare spero / Che falsa infamia non remove el vero. / Se jalosia me pon(e) falsa casone, / Non posso contra la fortuna rea / El no se passa cussi de legero."
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f12.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1212,457,1441,1276"
+        }
+      }
+    },
+     {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "[Cantus] Altra vindicta non quero che rasone / Che la vertu sera l'eschusa mya / Ben qu'el pensare, dolore me sya."
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f12.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1853,1471,796,206"
+        }
+      }
+    },
+     {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot3",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "[Cantus]. A tollere grando suspecto del mal pensare / Ma solo prego dio justo seignore / Que abia pieta de me pura donzela." 
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f12.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1318,1750,1062,200"
+        }
+      }
+    },
+    {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot3",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "Contratenor. Ben lo sa dio" 
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f12.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1617,2077,1003,296"
+        }
+      }
+    }  
+  ]
+}
