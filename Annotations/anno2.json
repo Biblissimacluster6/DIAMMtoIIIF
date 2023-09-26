@@ -11,7 +11,7 @@
         "type": "TextualBody",
         "language": "de",
         "format": "text/plain",
-        "value": "[Cantus]. Ben lo sa dio se sum vergine e pura / Che en ben fare spero / Che falsa infamia non remove el vero. / Se jalosia me pon(e) falsa casone, / Non posso contra la fortuna rea / El no se passa cussi de legero."
+        "value": "[Superius]. Ben lo sa dio se sum vergine e pura / Che en ben fare spero / Che falsa infamia non remove el vero. / Se jalosia me pon(e) falsa casone, / Non posso contra la fortuna rea / El no se passa cussi de legero."
       },
       "target": {
         "type": "SpecificResource",
@@ -40,7 +40,7 @@
         "type": "TextualBody",
         "language": "de",
         "format": "text/plain",
-        "value": "[Cantus] Altra vindicta non quero che rasone / Che la vertu sera l'eschusa mya / Ben qu'el pensare, dolore me sya."
+        "value": "[Superius] Altra vindicta non quero che rasone / Che la vertu sera l'eschusa mya / Ben qu'el pensare, dolore me sya."
       },
       "target": {
         "type": "SpecificResource",
@@ -69,7 +69,7 @@
         "type": "TextualBody",
         "language": "de",
         "format": "text/plain",
-        "value": "[Cantus]. A tollere grando suspecto del mal pensare / Ma solo prego dio justo seignore / Que abia pieta de me pura donzela." 
+        "value": "[Superius]. A tollere grando suspecto del mal pensare / Ma solo prego dio justo seignore / Que abia pieta de me pura donzela." 
       },
       "target": {
         "type": "SpecificResource",
