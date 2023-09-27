@@ -1,0 +1,94 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "Tenor. Dona gentile / Come per l'universo"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f15.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=711,459,1358,947"
+        }
+      }
+    },
+     {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "[Superius]. Lasso yo sono de talle martyr(i)o / Che vivere non posso salvo en una / Che my trovo con voy, clara luna, / Per sempre servir(e) chella che yo adoro."
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f15.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=768,1431,951,252"
+        }
+      }
+    },
+     {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot3",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "[Contratenor]. Come per l'universo" 
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f15.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=726,1719,1347,548"
+        }
+      }
+    }
+  ]
+}
