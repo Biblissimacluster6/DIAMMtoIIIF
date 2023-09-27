@@ -1044,6 +1044,12 @@
               },
               "on": "https://example.com/iiif/canvas/f15.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/anno5.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
