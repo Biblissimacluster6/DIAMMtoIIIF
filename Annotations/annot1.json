@@ -28,7 +28,36 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=697,462,1428,1844"
+          "value": "xywh=697,830,1428,930"
+        }
+      }
+    },
+    {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "[Contratenor]. posso ben yo"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f11.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=697,462,1428,800"
         }
       }
     }
