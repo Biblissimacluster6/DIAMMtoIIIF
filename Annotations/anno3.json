@@ -57,7 +57,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=700,444,1420,1009"
+          "value": "xywh=699,1458,1397,878"
         }
       }
     }
