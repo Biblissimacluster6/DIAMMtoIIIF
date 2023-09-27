@@ -1,0 +1,94 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot1",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "[Superius]. Dona gentile (h)e bella come l'oro / Che supra le altre portate corona, / Come per l'universo se rasona, / Datime secorso, Stela, che yo (no) moro."
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f14.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1209,463,1406,1530"
+        }
+      }
+    },
+     {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "[Superius]. Que piu non stago en chesto purgator(i)o / Tranquillata enver di me fortuna."
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f14.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1737,1763,879,227"
+        }
+      }
+    },
+     {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot3",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "Contratenor. Dona gentile (h)e." 
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f14.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=1629,2049,989,377"
+        }
+      }
+    }
+  ]
+}
