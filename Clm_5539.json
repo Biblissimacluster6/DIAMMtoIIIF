@@ -80,7 +80,7 @@
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00079147/f0",
+                    "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00079147_00001",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
