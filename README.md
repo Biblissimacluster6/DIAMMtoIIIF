@@ -1,4 +1,4 @@
-# DIAMMtoIIIF
+# DIAMMtoIIIFv2
 
 ## English documentation
 
