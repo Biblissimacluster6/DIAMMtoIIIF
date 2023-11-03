@@ -11,6 +11,8 @@ The code is modular, and various DIAMM metadata can be added. In its current for
 
 ### Getting started and prerequisites:
 
+In addition to Python 3, you need to install the iiif-prezi library.
+
 DIAMMtoIIIFv2 now features command-line functionality:
 
 -u: DIAMM inventory URL (JSON)
@@ -43,6 +45,8 @@ Le code est modulable et diverses metadonnées DIAMM peuvent être ajoutées. Da
 Finalement, le manifeste généré (JSON) est converti en une chaîne de caractères et écrit dans un fichier texte (mymusicmanifest.txt).
 
 ### Prise en main et prérequis :
+
+En plus de disposer de Python 3, vous devez installer la bibliothèque iiif-prezi.
 
 DIAMMtoIIIFv2 dispose désormais de ses fonctionnalités en ligne de commande :
 
