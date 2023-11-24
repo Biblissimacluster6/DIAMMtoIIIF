@@ -41,7 +41,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://example.com/iiif/canvas/f0.json",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f1",
           "@type": "sc:Canvas",
           "label": "Canvas 0",
           "metadata": [
@@ -72,6 +72,7 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
+              "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f1",
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
@@ -80,27 +81,19 @@
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f0",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
-                "images": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f0/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f0",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
+                "height" : 3404,
+                "width" : 2395,
+                "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f0/full/full/0/default.jpg",
+                "@type" : "dctypes:Image",
+                "format": "image/jpeg"
+                    },
                   }
                 ]
               },
-              "on": "https://example.com/iiif/canvas/f0.json"
-            }
-          ]
-        },
         {
           "@id": "https://example.com/iiif/canvas/f1.json",
           "@type": "sc:Canvas",
