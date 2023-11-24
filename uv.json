@@ -72,7 +72,6 @@
             {
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f1",
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
