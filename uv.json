@@ -71,9 +71,17 @@
         "@type" : "oa:Annotation"
       } ],
       "thumbnail" : {
-        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b525044884/f1.thumbnail"
-      }
-    }
-  ]    
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b525044884/f149.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    } ],
+    "label" : "Current Page Order",
+    "@type" : "sc:Sequence",
+    "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/sequence/default"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b525044884.thumbnail"
+  },
+  "@type" : "sc:Manifest",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
 }
-]     
