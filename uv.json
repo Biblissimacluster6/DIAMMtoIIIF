@@ -41,7 +41,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/canvas/f1",
+          "@id": "https://example.com/iiif/canvas/f0.json",
           "@type": "sc:Canvas",
           "label": "Canvas 0",
           "metadata": [
