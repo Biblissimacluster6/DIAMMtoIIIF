@@ -80,7 +80,7 @@
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f0",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
