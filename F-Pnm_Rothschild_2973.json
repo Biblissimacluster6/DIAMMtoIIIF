@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/F-Pnm_Rothschild_2973.json",
+  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b53150668c/manifest.json",
   "@type": "sc:Manifest",
   "label": "F-Pnm Rothschild 2973 (Chansonnier Cordiforme; Chansonnier de Jean de Montchenu)",
   "metadata": [
