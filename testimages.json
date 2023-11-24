@@ -90,7 +90,7 @@
                 "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f0/full/full/0/default.jpg",
                 "@type" : "dctypes:Image",
                 "format": "image/jpeg"
-                    },
+                    }
                   }
                 ]
               },
