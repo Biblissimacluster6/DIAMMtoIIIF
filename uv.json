@@ -84,11 +84,15 @@
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
-                "height" : 3404,
-                "width" : 2395,
-                "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f0/full/full/0/default.jpg",
-                "@type" : "dctypes:Image",
-                "format": "image/jpeg"
+                "item": [
+                  {
+                    "height" : 3404,
+                    "width" : 2395,
+                    "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f0/full/full/0/default.jpg",
+                    "@type" : "dctypes:Image",
+                    "format": "image/jpeg"
+                  }
+                ]
                     }
                   }
                 ]
