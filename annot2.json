@@ -28,10 +28,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=1208,457,1413,1353"},
-          "item": {
-            "@type":"oa:SvgSelector",
-            "value":"<svg xmlns=\"http://www.w3.org/2000/svg\"><path id=\"rough_path_4f25a4a7-2b26-4c39-b25c-6110032c92a1\" d=\"M5867.4,1738.8L5821.2,886.2L701.4,945L751.8,1969.8Z\" data-paper-data=\"
+          "value": "xywh=1208,457,1413,1353"
         }
       }
     },
