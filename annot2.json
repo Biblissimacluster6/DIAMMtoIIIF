@@ -28,7 +28,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=1208,457,1413,1353"
+          "value": "xywh=808,457,1413,1353"
         } 
       }
     },
@@ -57,7 +57,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=1272,1799,1513,188"
+          "value": "xywh=872,1799,1513,188"
         }
       }
     },
@@ -86,7 +86,7 @@
         "selector": {
           "type": "FragmentSelector",
           "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=1675,2055,968,332"
+          "value": "xywh=1275,2055,968,332"
         }
       }
     }
