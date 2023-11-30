@@ -25,11 +25,20 @@
             }
           ]
         },
-        "selector": {
-          "type": "FragmentSelector",
-          "conformsTo": "http://www.w3.org/TR/media-frags/",
-          "value": "xywh=1208,457,1413,1353",  
-      }
+       "selector":
+                    {
+                        "@type": "oa:Choice",
+                        "default":
+                        {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=887,741,5299,2403"
+                        },
+                        "item":
+                        {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path id=\"rough_path_cbc91ed0-7bee-4337-9d11-8bbe17c0d43c\" d=\"M6177.08,3143.6925L6185.565,2358.83L5124.94,2358.83L5231.0025,2057.6125L886.6825,2032.1575L890.925,2808.535L2125.4925,2838.2325L2074.5825,3080.055Z\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" fill=\"#00bfff\" fill-opacity=\"0\" fill-rule=\"nonzero\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" stroke=\"#00bfff\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-width=\"5\" style=\"mix-blend-mode: normal\" text-anchor=\"start\" /></svg>"
+                        }
+                    }
     },
      {
       "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2",
