@@ -1,10 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2.json",
+  "id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/Annotations/anno2.json",
   "type": "AnnotationPage",
   "items": [
     {
-      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot1",
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot4",
       "type": "Annotation",
       "motivation": "commenting",
       "body": {
@@ -33,7 +33,7 @@
       }
     },
      {
-      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2",
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot5",
       "type": "Annotation",
       "motivation": "commenting",
       "body": {
@@ -62,7 +62,7 @@
       }
     },
      {
-      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot3",
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot6",
       "type": "Annotation",
       "motivation": "commenting",
       "body": {
@@ -91,7 +91,7 @@
       }
     },
     {
-      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot4",
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot7",
       "type": "Annotation",
       "motivation": "commenting",
       "body": {
