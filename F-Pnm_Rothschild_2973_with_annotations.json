@@ -1111,7 +1111,13 @@
               },
               "on": "https://example.com/iiif/canvas/f16.json"
             }
-          ]
+           ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/Annotations/anno6.json",
+              "@type": "sc:AnnotationList"
+             }
+          ] 
         },
         {
           "@id": "https://example.com/iiif/canvas/f17.json",
