@@ -1,13 +1,13 @@
 {
     "@id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2.json",
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@type": "AnnotationPage",
+    "@type": "sc:AnnotationList",
     "resources":
     [
         {
             "@id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot1",
             "@type": "oa:Annotation",
-            "motivation": "commenting",
+            "motivation": "sc:painting",
             "on":
             [
                 {
