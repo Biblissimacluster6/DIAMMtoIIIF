@@ -743,8 +743,8 @@
               "value": "'Anonymous'"
             }
           ],
-          "height": 7000,
-          "width": 7000,
+          "height": 1000,
+          "width": 1000,
           "images": [
             {
               "@type": "oa:Annotation",
