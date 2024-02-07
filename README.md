@@ -67,3 +67,5 @@ Le programme DIAMMtoIIIF est pour l'heure encore expérimental et nécessite une
 ### Bibliothèque de manifestes IIIF musicaux :
 
 Jusqu'à maintenant, le programme a permis de générer plusieurs manifestes, disponibles ci-dessus, de manuscrits musicaux du XIIe siècle au XVe siècle de la BnF essentiellement. Dans la mesure où les manifestes ne disposent pas encore d'URI, il est conseillé de les visualiser avec MIRADOR.
+
+![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Chansonnier%20Lorraine.png)
