@@ -30,6 +30,8 @@ To use DIAMMtoIIIF, you need to specify the desired DIAMM source URL (-u) and th
 Make sure to install the required modules and have a compatible version of Python to run this code. You can test it by executing it with the appropriate data to generate your own IIIF manifest.
 The DIAMMtoIIIF program is currently experimental and requires a basic understanding of the Python programming language to be used. Due to its experimental nature, this software may be subject to bugs or limitations. These errors are often related to specificities of the DIAMM inventories, which may not always be standardized.
 
+![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Chansonnier%20Lorraine.png)
+
 ### Library of musical IIIF manifests:
 
 So far, the program has generated several manifests, available above, for musical manuscripts from the 12th century to the 15th century. Since the manifests do not yet have URIs, it is recommended to view them with MIRADOR.
@@ -68,4 +70,3 @@ Le programme DIAMMtoIIIF est pour l'heure encore expérimental et nécessite une
 
 Jusqu'à maintenant, le programme a permis de générer plusieurs manifestes, disponibles ci-dessus, de manuscrits musicaux du XIIe siècle au XVe siècle de la BnF essentiellement. Dans la mesure où les manifestes ne disposent pas encore d'URI, il est conseillé de les visualiser avec MIRADOR.
 
-![code]([https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Chansonnier%20Lorraine.png)
