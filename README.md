@@ -9,7 +9,7 @@ The DIAMMtoIIIF project is carried out within the framework of the Biblissima+ C
 This code retrieves JSON data from a DIAMM API URL of the format https://www.diamm.ac.uk/sources/2387/?format=json. It uses the ManifestFactory (Prezy_iiif) module to generate and manipulate the IIIF manifest. The JSON data is processed by extracting specific information using regular expressions and the json module. Manipulations are performed on the extracted data, such as adding empty values for missing folios and handling composer duplicates. Information about each element of the manifest is added using loops and methods from the manifest factory.
 The code is modular, and various DIAMM metadata can be added. In its current form, the program supports work titles, composers, genres, and their positions in the source. Finally, the generated manifest (JSON) is converted to a string and written to a text file (mymusicmanifest.txt).
 
-![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Chansonnier%20cordiforme%201.png)
+![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Cordiforme%203.jpg)
 
 ### Getting started and prerequisites:
 
