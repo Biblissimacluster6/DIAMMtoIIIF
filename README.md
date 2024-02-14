@@ -44,6 +44,8 @@ Having created several musicological IIIF manifests, the question of additional 
 
 Once the YOLO models have been applied, the aim is to retrieve the generated metadata and enrich it with the IIIF manifests. This aspect relies heavily on the potential of IIIF annotations, making it possible to tag musical parts and attribute content to them. Cluster 6 intends to use advanced OCR (Kraken) to integrate automatic (but verified) transcriptions into the annotations, and eventually to create recognition models adapted to more complex problems, such as identifying the style of certain medieval notations, assessing the proximity of certain hands or refining dating.
 
+![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Label%20model.jpg)
+
 To train these models, Cluster 6 is relying on hundreds of digitisations collected mainly from the BnF. 
 
 ## Documentation française
