@@ -40,6 +40,12 @@ So far, the program has generated several manifests, available above, for musica
 
 Having created several musicological IIIF manifests, the question of additional annotations and metadata naturally arose. Tagging voices, their position, name and content goes far beyond the scope of traditional music inventories. For this reason, Cluster 6 Biblissima+ has taken a new direction: the generation of more semantic data and metadata using computer vision and deep learning techniques (convolutional neural networks). The first YOLO models of polyphonic/monodic vocal recognition for 13th and 14th century repertoires have been developed and are regularly trained to improve. Other models have been developed to improve the recognition of certain complex layouts by focusing on the staves.
 
+![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Chansonnier%20Cordiforme%202.jpg)
+
+Once the YOLO models have been applied, the aim is to retrieve the generated metadata and enrich it with the IIIF manifests. This aspect relies heavily on the potential of IIIF annotations, making it possible to tag musical parts and attribute content to them. Cluster 6 intends to use advanced OCR (Kraken) to integrate automatic (but verified) transcriptions into the annotations, and eventually to create recognition models adapted to more complex problems, such as identifying the style of certain medieval notations, assessing the proximity of certain hands or refining dating.
+
+To train these models, Cluster 6 is relying on hundreds of digitisations collected mainly from the BnF. 
+
 ## Documentation française
 
 Le projet DIAMMtoIIIF est le fruit du Cluster 6 Biblissima+ "Les défis du patrimoine musical". DIAMMtoIIIF est un programme Python qui génère un manifeste IIIF (International Image Interoperability Framework) à partir de données extraites de l'API DIAMM (Digital Image Archive of Medieval Music) et des serveurs IIIF de différentes bibliothèques (BnF, Bayerische Staatsbibliothek, etc.).
