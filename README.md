@@ -36,6 +36,10 @@ The DIAMMtoIIIF program is currently experimental and requires a basic understan
 
 So far, the program has generated several manifests, available above, for musical manuscripts from the 12th century to the 15th century. Since the manifests do not yet have URIs, it is recommended to view them with MIRADOR.
 
+# Beyond DIAMMtoIIIF 
+
+Having created several musicological IIIF manifests, the question of additional annotations and metadata naturally arose. Tagging voices, their position, name and content goes far beyond the scope of traditional music inventories. For this reason, Cluster 6 Biblissima+ has taken a new direction: the generation of more semantic data and metadata using computer vision and deep learning techniques (convolutional neural networks). The first YOLO models of polyphonic/monodic vocal recognition for 13th and 14th century repertoires have been developed and are regularly trained to improve. Other models have been developed to improve the recognition of certain complex layouts by focusing on the staves.
+
 ## Documentation française
 
 Le projet DIAMMtoIIIF est le fruit du Cluster 6 Biblissima+ "Les défis du patrimoine musical". DIAMMtoIIIF est un programme Python qui génère un manifeste IIIF (International Image Interoperability Framework) à partir de données extraites de l'API DIAMM (Digital Image Archive of Medieval Music) et des serveurs IIIF de différentes bibliothèques (BnF, Bayerische Staatsbibliothek, etc.).
