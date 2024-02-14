@@ -4,12 +4,12 @@
 
 The DIAMMtoIIIF project is carried out within the framework of the Biblissima+ Cluster 6, "The Challenges of Musical Heritage". DIAMMtoIIIF is a Python program that generates an IIIF (International Image Interoperability Framework) manifest from data extracted from the DIAMM (Digital Image Archive of Medieval Music) API and from the IIIF server of various libraries (BnF, Bayerische Staatsbibliothek, etc.).
 
+![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Cordiforme%203.jpg)
+
 ### How DIAMMtoIIIF works
 
 This code retrieves JSON data from a DIAMM API URL of the format https://www.diamm.ac.uk/sources/2387/?format=json. It uses the ManifestFactory (Prezy_iiif) module to generate and manipulate the IIIF manifest. The JSON data is processed by extracting specific information using regular expressions and the json module. Manipulations are performed on the extracted data, such as adding empty values for missing folios and handling composer duplicates. Information about each element of the manifest is added using loops and methods from the manifest factory.
 The code is modular, and various DIAMM metadata can be added. In its current form, the program supports work titles, composers, genres, and their positions in the source. Finally, the generated manifest (JSON) is converted to a string and written to a text file (mymusicmanifest.txt).
-
-![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Cordiforme%203.jpg)
 
 ### Getting started and prerequisites:
 
@@ -44,9 +44,9 @@ Having created several musicological IIIF manifests, the question of additional 
 
 Once the YOLO models have been applied, the aim is to retrieve the generated metadata and enrich it with the IIIF manifests. This aspect relies heavily on the potential of IIIF annotations, making it possible to tag musical parts and attribute content to them. Cluster 6 intends to use advanced OCR (Kraken) to integrate automatic (but verified) transcriptions into the annotations, and eventually to create recognition models adapted to more complex problems, such as identifying the style of certain medieval notations, assessing the proximity of certain hands or refining dating.
 
-![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Label%20model.jpg)
-
 To train these models, Cluster 6 is relying on hundreds of digitisations collected mainly from the BnF. 
+
+![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Label%20model.jpg)
 
 ## Documentation française
 
