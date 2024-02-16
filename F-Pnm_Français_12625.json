@@ -24263,6 +24263,10 @@
           "label": "Canvas 397",
           "metadata": [
             {
+              "label": "Work number",
+              "value": "1"
+            }, 
+            {
               "label": "Work title",
               "value": "'Lonc le rieu de la fontaine trovai / Regnat'"
             },
@@ -24277,6 +24281,30 @@
             {
               "label": "Folio end",
               "value": "193r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "2"
+            }, 
+            {
+              "label": "Work title",
+              "value": "'L'autrier quand me chevaucoie de Blason / Pro Patribus'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "193r"
+            },
+            {
+              "label": "Folio end",
+              "value": "193v"
             },
             {
               "label": "Composer",
@@ -24324,6 +24352,10 @@
           "label": "Canvas 398",
           "metadata": [
             {
+              "label": "Work number",
+              "value": "1"
+            },
+            {
               "label": "Work title",
               "value": "\"Se valours vient d'estre amourous / Bien me sui aperche\u00fcs que de vivre / Hic factus est\""
             },
@@ -24338,6 +24370,30 @@
             {
               "label": "Folio end",
               "value": "193v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "2"
+            },
+            {
+              "label": "Work title",
+              "value": "\"Merci de qui j'atendroie secours / Fiat fiat""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "193v"
+            },
+            {
+              "label": "Folio end",
+              "value": "194r"
             },
             {
               "label": "Composer",
@@ -24385,8 +24441,36 @@
           "label": "Canvas 399",
           "metadata": [
             {
+              "label": "Work number",
+              "value": "1"
+            }, 
+            {
               "label": "Work title",
               "value": "\"Moult au longuement am\u00e9 n'encoir / Diex, or ne vit jou piecha / Loqueretur\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "194r"
+            },
+            {
+              "label": "Folio end",
+              "value": "194r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "2"
+            }, 
+            {
+              "label": "Work title",
+              "value": "\"Quant se siet belle Ysabeaus / Propter veritatem\""
             },
             {
               "label": "Genre",
