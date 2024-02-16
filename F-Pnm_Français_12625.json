@@ -24019,6 +24019,10 @@
           "label": "Canvas 393",
           "metadata": [
             {
+              "label": "Work number",
+              "value": "1"
+            }, 
+            {
               "label": "Work title",
               "value": "\"Je n'amerai autrui que vos, bele / Pro patribus\""
             },
@@ -24033,6 +24037,102 @@
             {
               "label": "Folio end",
               "value": "191r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "2"
+            }, 
+            {
+              "label": "Work title",
+              "value": "\"Ma dame a douté que ne l'entreoublie / Domino\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "191r"
+            },
+            {
+              "label": "Folio end",
+              "value": "191r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "3"
+            }, 
+            {
+              "label": "Work title",
+              "value": "\"Mainte dame est desperée de loyal amour / Johanne""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "191r"
+            },
+            {
+              "label": "Folio end",
+              "value": "191r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "4"
+            }, 
+            {
+              "label": "Work title",
+              "value": "\"Mieuz vueill sentir les maus d'amer / Alleluia""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "191r"
+            },
+            {
+              "label": "Folio end",
+              "value": "191r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "5"
+            }, 
+            {
+              "label": "Work title",
+              "value": "\"C'est la jus par desous l'olive / Quia concupivit rex""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "191r"
+            },
+            {
+              "label": "Folio end",
+              "value": "191v"
             },
             {
               "label": "Composer",
@@ -24193,6 +24293,30 @@
             },
             {
               "label": "Folio end",
+              "value": "191v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "6"
+            }, 
+            {
+              "label": "Work title",
+              "value": "'J'ai fait ami a mon chois, preu / Gaudete'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "191v"
+            },
+            {
+              "label": "Folio end",
               "value": "192r"
             },
             {
@@ -24241,8 +24365,36 @@
           "label": "Canvas 395",
           "metadata": [
             {
+              "label": "Work number",
+              "value": "1"
+            },  
+            {
               "label": "Work title",
-              "value": "\"J'ai fait ami a mon chois, preu / Gaudete\""
+              "value": "\"Pour coillir la flour en mai juer m'en alai / Docebit\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "192r"
+            },
+            {
+              "label": "Folio end",
+              "value": "192r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "2"
+            },  
+            {
+              "label": "Work title",
+              "value": "\"Li dous chants des oisellons que j'ai / Virgo\""
             },
             {
               "label": "Genre",
