@@ -24507,6 +24507,10 @@
           "label": "Canvas 401",
           "metadata": [
             {
+              "label": "Work number",
+              "value": "1"
+            }, 
+            {
               "label": "Work title",
               "value": "\"C'est la jus en la roi pr\u00e9e / Pro patribus\""
             },
@@ -24521,6 +24525,54 @@
             {
               "label": "Folio end",
               "value": "195r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "2"
+            }, 
+            {
+              "label": "Work title",
+              "value": "\"Chantez seri, Marot, vos amis / Proecedam vos\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "195r"
+            },
+            {
+              "label": "Folio end",
+              "value": "195r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "3"
+            }, 
+            {
+              "label": "Work title",
+              "value": "\"Cele m'a s'amour donnée ky mon coeur / Alleluia V. Hodie … regnavit\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "195r"
+            },
+            {
+              "label": "Folio end",
+              "value": "195v"
             },
             {
               "label": "Composer",
@@ -24629,8 +24681,8 @@
           "label": "Canvas 403",
           "metadata": [
             { 
-              "label": "<strong>Work number</strong>",
-              "value": "<strong>1</strong>"
+              "label": "Work number",
+              "value": "1"
             },  
             {
               "label": "Work title",
@@ -24653,8 +24705,8 @@
               "value": "'Anonymous'"
             },
             { 
-              "label": "<strong>Work number</strong>",
-              "value": "<strong>2</strong>"
+              "label": "Work number",
+              "value": "2"
             },  
             {
               "label": "Work title",
@@ -24677,8 +24729,8 @@
               "value": "'Anonymous'"
             },
             { 
-              "label": "<strong>Work number</strong>",
-              "value": "<strong>3</strong>"
+              "label": "Work number",
+              "value": "3"
             },  
             {
               "label": "Work title",
@@ -24701,8 +24753,8 @@
               "value": "'Anonymous'"
             },
             { 
-              "label": "<strong>Work number</strong>",
-              "value": "<strong>4</strong>"
+              "label": "Work number",
+              "value": "4"
             },  
             {
               "label": "Work title",
