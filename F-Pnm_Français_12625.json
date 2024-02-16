@@ -24628,6 +24628,9 @@
           "@type": "sc:Canvas",
           "label": "Canvas 403",
           "metadata": [
+            { "label": "Work number",
+              "value": "1"
+            },  
             {
               "label": "Work title",
               "value": "'Je les ai tant quises, les loiaus amours / Vitam'"
@@ -24639,6 +24642,75 @@
             {
               "label": "Folio start",
               "value": "195v"
+            },
+            {
+              "label": "Folio end",
+              "value": "196r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            }
+            { "label": "Work number",
+              "value": "2"
+            },  
+            {
+              "label": "Work title",
+              "value": "'Quant de ma dame part apres toutes / Eius'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "196r"
+            },
+            {
+              "label": "Folio end",
+              "value": "196r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            }
+            { "label": "Work number",
+              "value": "3"
+            },  
+            {
+              "label": "Work title",
+              "value": "'J'ai trouvé qui m'aimera / Fiat'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "196r"
+            },
+            {
+              "label": "Folio end",
+              "value": "196r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            }
+            { "label": "Work number",
+              "value": "4"
+            },  
+            {
+              "label": "Work title",
+              "value": "'A grand joie chevaucoie l'autrier / Justus'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "196r"
             },
             {
               "label": "Folio end",
@@ -24742,6 +24814,67 @@
                 ]
               },
               "on": "https://example.com/iiif/canvas/f404.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f405.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 405",
+          "metadata": [
+            {
+              "label": "Work title",
+              "value": "\"Amours et boine volentés me tiegnent / In saeculum\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "196v"
+            },
+            {
+              "label": "Folio end",
+              "value": "197r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            }
+          ],
+          "height": 3900,
+          "width": 2635,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60007945/f405/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60007945/f405",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60007945/f405/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b60007945/f405",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
+              "on": "https://example.com/iiif/canvas/f405.json"
             }
           ]
         }
