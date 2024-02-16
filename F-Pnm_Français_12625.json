@@ -24446,6 +24446,10 @@
           "label": "Canvas 400",
           "metadata": [
             {
+              "label": "Work number",
+              "value": "1"
+            },
+            {
               "label": "Work title",
               "value": "\"Trop m'a Amours assailli et rrop s'est pen\u00e9e / In saeculum\""
             },
@@ -24460,6 +24464,78 @@
             {
               "label": "Folio end",
               "value": "194v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "2"
+            },
+            {
+              "label": "Work title",
+              "value": "\"D'amors sont en grant esmai, telles ont esprovées / Et super\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "194v"
+            },
+            {
+              "label": "Folio end",
+              "value": "194v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "3"
+            },
+            {
+              "label": "Work title",
+              "value": "\"Hier matin me chevaucoie dejoste un vergier / Portare\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "194v"
+            },
+            {
+              "label": "Folio end",
+              "value": "194v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "4"
+            },
+            {
+              "label": "Work title",
+              "value": "\"Tout ce qu'ils aiment valour doivent / Adorabo Flos filius eius\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "194v"
+            },
+            {
+              "label": "Folio end",
+              "value": "195r"
             },
             {
               "label": "Composer",
