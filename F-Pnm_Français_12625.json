@@ -24628,7 +24628,8 @@
           "@type": "sc:Canvas",
           "label": "Canvas 403",
           "metadata": [
-            { "label": "Work number",
+            { 
+              "label": "Work number",
               "value": "1"
             },  
             {
