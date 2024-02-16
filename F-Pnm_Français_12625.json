@@ -24080,6 +24080,10 @@
           "label": "Canvas 394",
           "metadata": [
             {
+              "label": "Work number",
+              "value": "1"
+            }, 
+            {
               "label": "Work title",
               "value": "'Renvoisiement i vois a mon ami / Hodie'"
             },
@@ -24094,6 +24098,102 @@
             {
               "label": "Folio end",
               "value": "191v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "2"
+            }, 
+            {
+              "label": "Work title",
+              "value": "'Ja ne mi marierai mais par amours / Amoris'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "191v"
+            },
+            {
+              "label": "Folio end",
+              "value": "191v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "3"
+            }, 
+            {
+              "label": "Work title",
+              "value": "'A vous pens, bele douce amie, de coeur / Propter veritatem'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "191v"
+            },
+            {
+              "label": "Folio end",
+              "value": "191v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "4"
+            }, 
+            {
+              "label": "Work title",
+              "value": "'A vous vient, chevallier sire, del pié / Et florebit'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "191v"
+            },
+            {
+              "label": "Folio end",
+              "value": "191v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Work number",
+              "value": "5"
+            }, 
+            {
+              "label": "Work title",
+              "value": "'Lies est cil ki el païs va / Docebit'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Motet'"
+            },
+            {
+              "label": "Folio start",
+              "value": "191v"
+            },
+            {
+              "label": "Folio end",
+              "value": "192r"
             },
             {
               "label": "Composer",
