@@ -24629,8 +24629,8 @@
           "label": "Canvas 403",
           "metadata": [
             { 
-              "label": "Work number",
-              "value": "1"
+              "label": "<strong>Work number</strong>",
+              "value": "<strong>1</strong>"
             },  
             {
               "label": "Work title",
@@ -24653,8 +24653,8 @@
               "value": "'Anonymous'"
             },
             { 
-              "label": "Work number",
-              "value": "2"
+              "label": "<strong>Work number</strong>",
+              "value": "<strong>2</strong>"
             },  
             {
               "label": "Work title",
@@ -24677,8 +24677,8 @@
               "value": "'Anonymous'"
             },
             { 
-              "label": "Work number",
-              "value": "3"
+              "label": "<strong>Work number</strong>",
+              "value": "<strong>3</strong>"
             },  
             {
               "label": "Work title",
@@ -24701,8 +24701,8 @@
               "value": "'Anonymous'"
             },
             { 
-              "label": "Work number",
-              "value": "4"
+              "label": "<strong>Work number</strong>",
+              "value": "<strong>4</strong>"
             },  
             {
               "label": "Work title",
