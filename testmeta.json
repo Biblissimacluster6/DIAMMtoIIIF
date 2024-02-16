@@ -24757,33 +24757,33 @@
           "label": "Canvas 403",
           "metadata": [
             { 
-              "label": "Work number",
-              "value": "1"
-            },  
-            {
-              "label": "Work title",
-              "value": "'Je les ai tant quises, les loiaus amours / Vitam'"
-            },
-            {
-              "label": "Genre",
-              "value": "'Motet'"
-            },
-            {
-              "label": "Folio start",
-              "value": "195v"
-            },
-            {
-              "label": "Folio end",
-              "value": "196r"
-            },
-            {
-              "label": "Composer",
-              "value": "'Anonymous'"
-            },
+              "label": "Work 1",
+              "value": [ 
+              {
+                "label": "Work title",
+                "value": "'Je les ai tant quises, les loiaus amours / Vitam'"
+              },
+              {
+                "label": "Genre",
+                "value": "'Motet'"
+              },
+              {
+                "label": "Folio start",
+                "value": "195v"
+              },
+              {
+                "label": "Folio end",
+                "value": "196r"
+              },
+              {
+                "label": "Composer",
+                "value": "'Anonymous'"
+              } 
+            ]   
+         },
             { 
-              "label": "Work number",
-              "value": "2"
-            },  
+              "label": "Work 2",
+              "value": [ 
             {
               "label": "Work title",
               "value": "'Quant de ma dame part apres toutes / Eius'"
@@ -24803,11 +24803,12 @@
             {
               "label": "Composer",
               "value": "'Anonymous'"
-            },
+            }
+          ]
+        },     
             { 
-              "label": "Work number",
-              "value": "3"
-            },  
+              "label": "Work 3",
+              "value": [
             {
               "label": "Work title",
               "value": "'J'ai trouvé qui m'aimera / Fiat'"
@@ -24827,11 +24828,12 @@
             {
               "label": "Composer",
               "value": "'Anonymous'"
-            },
-            { 
-              "label": "Work number",
-              "value": "4"
+            }
+            ]
             },  
+            { 
+              "label": "Work 4",
+              "value": [ 
             {
               "label": "Work title",
               "value": "'A grand joie chevaucoie l'autrier / Justus'"
@@ -24852,6 +24854,8 @@
               "label": "Composer",
               "value": "'Anonymous'"
             }
+            ]
+            }  
           ],
           "height": 3900,
           "width": 2635,
