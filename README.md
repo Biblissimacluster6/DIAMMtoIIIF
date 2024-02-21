@@ -48,6 +48,18 @@ To train these models, Cluster 6 is relying on hundreds of digitisations collect
 
 ![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Label%20model.jpg)
 
+## Bibliography and communication
+
+David Fiala and Kevin Roger. 2023. Connecting online early music libraries and musicological resources: Experiments in ergonomics in the Biblissima+ framework. In Proceedings of the 10th International Conference on Digital Libraries for Musicology (DLfM '23). Association for Computing Machinery, New York, NY, USA, 128–131. https://doi.org/10.1145/3625135.3625140
+
+Kévin Roger and David Fiala. « Visualisation et réutilisation de ressources musicologiques : le projet diammtoiiif ». 6 octobre 2023. https://doi.org/10.5281/zenodo.8413707.
+
+Kévin Roger and David Fiala. « Feuille de route et premières avancées du cluster 6 biblissima+ ». Journées Biblissima+, Paris, 4 avril 2023. https://doi.org/10.5281/zenodo.7851991.
+
+Kévin Roger. « The French digital infrastructure for written heritage Biblissima+ and the challenges of musical heritage », MedRen2023, Munich, 26 juillet 2023. https://doi.org/10.5281/zenodo.8414821
+
+Alicia Fornés and Kévin Roger. « Computer Vision Methodologies applied to musical documents », Novel approaches to Digital Codicology, Tours, 11 mai 2023.
+
 ## Documentation française
 
 Le projet DIAMMtoIIIF est le fruit du Cluster 6 Biblissima+ "Les défis du patrimoine musical". DIAMMtoIIIF est un programme Python qui génère un manifeste IIIF (International Image Interoperability Framework) à partir de données extraites de l'API DIAMM (Digital Image Archive of Medieval Music) et des serveurs IIIF de différentes bibliothèques (BnF, Bayerische Staatsbibliothek, etc.).
