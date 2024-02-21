@@ -48,7 +48,7 @@ To train these models, Cluster 6 is relying on hundreds of digitisations collect
 
 ![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/Label%20model.jpg)
 
-## Bibliography and communication
+### Bibliography and communication
 
 David Fiala and Kevin Roger. 2023. Connecting online early music libraries and musicological resources: Experiments in ergonomics in the Biblissima+ framework. In Proceedings of the 10th International Conference on Digital Libraries for Musicology (DLfM '23). Association for Computing Machinery, New York, NY, USA, 128–131. https://doi.org/10.1145/3625135.3625140
 
