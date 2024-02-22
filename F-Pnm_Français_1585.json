@@ -28924,23 +28924,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "On parle de richesses et de grant signorie"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "232v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "233v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300–1377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -28985,23 +28985,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "On parle de richesses et de grant signorie"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "232v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "233v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300–1377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -29046,23 +29046,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Amours, se plus demandoie"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "233v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "234v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300–1377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -29107,23 +29107,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Amours, se plus demandoie"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "233v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "234v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300–1377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -29168,23 +29168,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Amours, se plus demandoie"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "233v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "234v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300–1377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30020,6 +30020,10 @@
           "@type": "sc:Canvas",
           "label": "Canvas 491",
           "metadata": [
+            { 
+              "label": "Work number"
+              "value": "1"
+            },  
             {
               "label": "Work title",
               "value": "'Un mortel lay weil commencier (Le Lay Mortel)'"
@@ -30039,6 +30043,30 @@
             {
               "label": "Genre",
               "value": "'Lai'"
+            },
+            { 
+              "label": "Work number"
+              "value": "2"
+            },  
+            {
+              "label": "Work title",
+              "value": "'Maintes fois oy recorder'"
+            },
+            {
+              "label": "Folio start",
+              "value": "241v"
+            },
+            {
+              "label": "Folio end",
+              "value": "243r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
             }
           ],
           "height": 4730,
@@ -30083,23 +30111,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Maintes fois oy recorder'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "241v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "243r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Chanson'"
             }
           ],
           "height": 4730,
@@ -30144,23 +30172,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Maintes fois oy recorder'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "241v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "243r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Chanson'"
             }
           ],
           "height": 4730,
@@ -30205,23 +30233,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Ne say comment commencier'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "243r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30266,23 +30294,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Ne say comment commencier'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "243r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30327,23 +30355,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Ne say comment commencier'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "243r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30388,23 +30416,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Ne say comment commencier'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "243r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30449,23 +30477,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Ne say comment commencier'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "243r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30510,23 +30538,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Contre ce douce mois de May'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30571,23 +30599,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Contre ce douce mois de May'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30632,23 +30660,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Contre ce douce mois de May'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30693,23 +30721,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Contre ce douce mois de May'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30754,23 +30782,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Contre ce douce mois de May'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30815,23 +30843,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Contre ce douce mois de May'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "245v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -30876,23 +30904,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Je ne cesse de prier a ma dame chere / s'en vueil une autre acointier qui joie planiere'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "251r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Canon', 'Lai'"
             }
           ],
           "height": 4730,
@@ -30937,23 +30965,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Je ne cesse de prier a ma dame chere / s'en vueil une autre acointier qui joie planiere'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "251r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Canon', 'Lai'"
             }
           ],
           "height": 4730,
@@ -30998,23 +31026,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Je ne cesse de prier a ma dame chere / s'en vueil une autre acointier qui joie planiere'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "251r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Canon', 'Lai'"
             }
           ],
           "height": 4730,
@@ -31059,23 +31087,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Je ne cesse de prier a ma dame chere / s'en vueil une autre acointier qui joie planiere'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "251r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Canon', 'Lai'"
             }
           ],
           "height": 4730,
@@ -31120,23 +31148,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Je ne cesse de prier a ma dame chere / s'en vueil une autre acointier qui joie planiere'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "251r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Canon', 'Lai'"
             }
           ],
           "height": 4730,
@@ -31181,23 +31209,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Je ne cesse de prier a ma dame chere / s'en vueil une autre acointier qui joie planiere'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "248v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "251r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Canon', 'Lai'"
             }
           ],
           "height": 4730,
@@ -31669,23 +31697,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Longuement me sui tenus (Le lay be bonne esperance)'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "254v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "257v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -31730,23 +31758,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Longuement me sui tenus (Le lay be bonne esperance)'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "254v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "257v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -31791,23 +31819,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Longuement me sui tenus (Le lay be bonne esperance)'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "254v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "257v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -31852,23 +31880,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Longuement me sui tenus (Le lay be bonne esperance)'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "254v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "257v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -31913,23 +31941,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Longuement me sui tenus (Le lay be bonne esperance)'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "254v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "257v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
