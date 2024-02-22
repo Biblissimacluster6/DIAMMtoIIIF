@@ -27554,15 +27554,15 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "\"J'aim la flour\""
+              "value": "\"Pour ce qu'on puist miex retraire\""
             },
             {
               "label": "Folio start",
-              "value": "220r"
+              "value": "221v"
             },
             {
               "label": "Folio end",
-              "value": "221v"
+              "value": "224r"
             },
             {
               "label": "Composer",
@@ -27615,23 +27615,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "\"Pour ce qu'on puist miex retraire\""
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "221v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "224r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -27676,23 +27676,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "\"Pour ce qu'on puist miex retraire\""
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "221v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "224r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -27737,23 +27737,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "\"Pour ce qu'on puist miex retraire\""
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "221v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "224r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -27798,23 +27798,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "\"Pour ce qu'on puist miex retraire\""
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "221v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "224r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -27859,23 +27859,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "\"Pour ce qu'on puist miex retraire\""
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "221v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "224r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -27980,6 +27980,10 @@
           "label": "Canvas 458",
           "metadata": [
             {
+              "label": "Work number"
+              "value": "1"
+            },  
+            {
               "label": "Work title",
               "value": "'Aus amans pour exemplaire'"
             },
@@ -27998,7 +28002,31 @@
             {
               "label": "Genre",
               "value": "'Lai'"
-            }
+            },
+            {
+              "label": "Work number"
+              "value": "2"
+            },
+            {
+              "label": "Work title",
+              "value": "'Nuls ne doit avoir merveille'"
+            },
+            {
+              "label": "Folio start",
+              "value": "225r"
+            },
+            {
+              "label": "Folio end",
+              "value": "227v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Lai'"
+            } 
           ],
           "height": 4730,
           "width": 3450,
@@ -28042,24 +28070,24 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Nuls ne doit avoir merveille'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "225r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "227v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
-            }
+              "value": "'Lai'"
+            } 
           ],
           "height": 4730,
           "width": 3450,
@@ -28103,24 +28131,24 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Nuls ne doit avoir merveille'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "225r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "227v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
-            }
+              "value": "'Lai'"
+            } 
           ],
           "height": 4730,
           "width": 3450,
@@ -28164,24 +28192,24 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Nuls ne doit avoir merveille'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "225r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "227v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
-            }
+              "value": "'Lai'"
+            } 
           ],
           "height": 4730,
           "width": 3450,
@@ -28225,24 +28253,24 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Nuls ne doit avoir merveille'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "225r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "227v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
-            }
+              "value": "'Lai'"
+            } 
           ],
           "height": 4730,
           "width": 3450,
@@ -28286,23 +28314,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Par trois raisons me vueil deffendre"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "227v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "230r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -28347,23 +28375,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Par trois raisons me vueil deffendre"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "227v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "230r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -28408,23 +28436,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Par trois raisons me vueil deffendre"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "227v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "230r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -28469,23 +28497,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Par trois raisons me vueil deffendre"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "227v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "230r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -28530,23 +28558,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Par trois raisons me vueil deffendre"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "227v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "230r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -28591,23 +28619,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Amour doucement me tente"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "230r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "232v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -28652,23 +28680,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Amour doucement me tente"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "230r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "232v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -28713,23 +28741,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Amour doucement me tente"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "230r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "232v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -28774,23 +28802,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Amour doucement me tente"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "230r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "232v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
@@ -28835,23 +28863,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "Amour doucement me tente"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "230r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "232v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Machaut, Guillaume de (ca. 1300\u20131377)'"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Lai'"
             }
           ],
           "height": 4730,
