@@ -3888,6 +3888,10 @@
           "@type": "sc:Canvas",
           "label": "Canvas 63",
           "metadata": [
+            { 
+              "label": "Work number",
+              "value": "1"
+            },  
             {
               "label": "Work title",
               "value": "'Sanctus, Sanctus. [Tro] Quem pium benedicit'"
@@ -3906,7 +3910,31 @@
             },
             {
               "label": "Genre",
-              "value": "'Mass Ordinary', 'Troped Sanctus'"
+              "value": "'Mass Ordinary', 'Troped Sanctus'" 
+            },
+            {
+            "label": "Work number",
+              "value": "2"
+            }, 
+            {
+              "label": "Work title",
+              "value": "'Sanctus [Tro] Maria mater egregia'"
+            },
+            {
+              "label": "Folio start",
+              "value": "30r"
+            },
+            {
+              "label": "Folio end",
+              "value": "30v"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
+            },
+            {
+              "label": "Genre",
+              "value": "'Mass Ordinary', 'Troped Sanctus'" 
             }
           ],
           "height": 1600,
@@ -3949,25 +3977,53 @@
           "@type": "sc:Canvas",
           "label": "Canvas 64",
           "metadata": [
+            { 
+              "label": "Work number",
+              "value": "1"
+            }, 
             {
               "label": "Work title",
-              "value": "None"
+              "value": "'Sanctus [Tro] Maria mater egregia'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "30r"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "30v"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "Anonymus"
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Mass Ordinary', 'Troped Sanctus'"
+            },
+            { 
+              "label": "Work number",
+              "value": "2"
+            }, 
+            {
+              "label": "Work title",
+              "value": "Agnus Dei [Tro] Mortis dira ferens"
+            },
+            {
+              "label": "Folio start",
+              "value": "30v"
+            },
+            {
+              "label": "Folio end",
+              "value": "31r"
+            },
+            {
+              "label": "Composer",
+              "value": "Anonymus"
+            },
+            {
+              "label": "Genre",
+              "value": "'Mass Ordinary', 'Troped Agnus'"
             }
           ],
           "height": 1600,
