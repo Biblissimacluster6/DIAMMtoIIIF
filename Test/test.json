@@ -62,8 +62,8 @@
               "value": "None"
             }
           ],
-          "height": 5000,
-          "width": 3750,
+          "height": 2727,
+          "width": 4120,
           "images": [
             {
               "@type": "oa:Annotation",
@@ -71,7 +71,7 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/78faffab-d302-4e8a-a0dc-987c07d52b78/full/256,/0/default.jpg",
+                  "@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/78faffab-d302-4e8a-a0dc-987c07d52b78/full/1000,/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
@@ -82,7 +82,7 @@
                 },
                 "item": [
                   {
-                    "@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/78faffab-d302-4e8a-a0dc-987c07d52b78/full/256,/0/default.jpg",
+                    "@id": "https://iiif.bodleian.ox.ac.uk/iiif/image/78faffab-d302-4e8a-a0dc-987c07d52b78/full/1000,/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
