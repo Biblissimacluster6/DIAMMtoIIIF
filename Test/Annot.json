@@ -25,7 +25,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=742,800,2626,2215"
+          "value" : "xywh=742,1200,2300,2215"
         },
         "item" : {
           "@type" : "oa:SvgSelector",
