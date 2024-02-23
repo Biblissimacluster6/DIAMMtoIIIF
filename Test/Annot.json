@@ -1,0 +1,860 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708713701696",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:41:41",
+    "dcterms:modified" : "2024-02-23T19:41:41",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "que lucelcit etc.",
+      "format" : "text/html",
+      "chars" : "<p>que lucelcit etc.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=774,693,2321,234"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M774.41291,693.36404h1160.53945v0h1160.53945v116.95394v116.95394h-1160.53945h-1160.53945v-116.95394z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0e975907-9b81-4a05-a8af-cf8d8f3fbc8c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708713723697",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:42:03",
+    "dcterms:modified" : "2024-02-23T19:45:06",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "altera etc.",
+      "format" : "text/html",
+      "chars" : "<p>altera etc.</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=805,1047,2279,192"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M805.41988,1047.1862h1139.58392v0h1139.58392v95.99841v95.99841h-1139.58392h-1139.58392v-95.99841z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_b2b5c977-a504-43b1-aea5-1a1ee5e90ecf\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"15.94786\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714286595",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:51:26",
+    "dcterms:modified" : "2024-02-23T19:51:26",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie",
+      "format" : "text/html",
+      "chars" : "<p>Monophonie</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=738,488,2353,420"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M737.69007,487.80359h1176.40188v0h1176.40188v210.10114v210.10114h-1176.40188h-1176.40188v-210.10114z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_08274bf6-e2aa-471b-8e49-8e3fd05fed3c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714304863",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:51:44",
+    "dcterms:modified" : "2024-02-23T19:51:44",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Music",
+      "chars" : "Music"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie",
+      "format" : "text/html",
+      "chars" : "<p>Monophonie</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=706,887,2391,357"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M706.00807,886.99668h1195.41108v0h1195.41108v178.41915v178.41915h-1195.41108h-1195.41108v-178.41915z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e16f27c6-c08c-4988-ab36-cacb06a063bf\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714340834",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:52:20",
+    "dcterms:modified" : "2024-02-23T19:53:00",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Sacerdos",
+      "format" : "text/html",
+      "chars" : "<p>Sacerdos</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=858,1236,661,262"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M857.63183,1236.3982h330.49271v0h330.49271v130.89616v130.89616h-330.49271h-330.49271v-130.89616z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_d0902ada-d2f4-4834-843d-eb620ea9884d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"18.33449\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714367501",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:52:47",
+    "dcterms:modified" : "2024-02-23T19:53:21",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Ite misa est",
+      "format" : "text/html",
+      "chars" : "<p>Ite misa est</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : "https://example.com/iiif/manifest.json",
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1508,1352,1068,177"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1508.26651,1351.66589h534.22552v0h534.22552v88.3895v88.3895h-534.22552h-534.22552v-88.3895z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_ced4f303-b5ff-467f-a749-706fcc293f13\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.40166\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    }, {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1530,2357,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1529.73985,2357.04108h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a4da95c2-acf1-41c7-b575-b9900862b580\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.40166\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714367501",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:52:47",
+    "dcterms:modified" : "2024-02-23T19:53:21",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Ite misa est",
+      "format" : "text/html",
+      "chars" : "<p>Ite misa est</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : "https://example.com/iiif/manifest.json",
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1508,1352,1068,177"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1508.26651,1351.66589h534.22552v0h534.22552v88.3895v88.3895h-534.22552h-534.22552v-88.3895z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_ced4f303-b5ff-467f-a749-706fcc293f13\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.40166\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    }, {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1530,2357,2,2"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1529.73985,2357.04108h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a4da95c2-acf1-41c7-b575-b9900862b580\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.40166\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714417681",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:53:37",
+    "dcterms:modified" : "2024-02-23T19:53:37",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie",
+      "format" : "text/html",
+      "chars" : "<p>Monophonie</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Music",
+      "chars" : "Music"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1496,1205,1186,332"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2682.35187,1204.52727h-593.03734v0h-593.03734v166.01037v166.01037h593.03734h593.03734v-166.01037z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_15d2f566-b3fa-4dd6-a772-8036cd5eafee\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714439416",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:53:59",
+    "dcterms:modified" : "2024-02-23T19:53:59",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Christus resurgens etc.",
+      "format" : "text/html",
+      "chars" : "<p>Christus resurgens etc.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=786,1662,2277,235"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M785.83266,1662.15603h1138.4715v0h1138.4715v117.60733v117.60733h-1138.4715h-1138.4715v-117.60733z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_aedc3525-6a34-418e-a16f-af9559c24732\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714456026",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:54:16",
+    "dcterms:modified" : "2024-02-23T19:54:16",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Music",
+      "chars" : "Music"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie",
+      "format" : "text/html",
+      "chars" : "<p>Monophonie</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=764,1495,2308,402"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M763.83128,1494.94552h1153.87247v0h1153.87247v201.21258v201.21258h-1153.87247h-1153.87247v-201.21258z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_41269e8c-7d00-4a68-849b-ba57814c3237\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714509312",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:55:09",
+    "dcterms:modified" : "2024-02-23T19:55:22",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "lyrics",
+      "chars" : "lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "illi urlta non etc.",
+      "format" : "text/html",
+      "chars" : "<p>illi urlta non etc.</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=808,2003,2308,222"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M807.83405,2002.61755h1153.87247v0h1153.87247v111.00691v111.00691h-1153.87247h-1153.87247v-111.00691z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_ead9a672-10f1-43cf-82d7-d3d6823dec03\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.40166\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714539884",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:55:39",
+    "dcterms:modified" : "2024-02-23T19:55:39",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie",
+      "format" : "text/html",
+      "chars" : "<p>Monophonie</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Music",
+      "chars" : "Music"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=751,1897,2356,336"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M750.63045,1897.01091h1178.07399v0h1178.07399v168.21051v168.21051h-1178.07399h-1178.07399v-168.21051z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4f3237a9-1941-4ec1-9119-dd1561395fbb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714570360",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:56:10",
+    "dcterms:modified" : "2024-02-23T19:56:10",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Deo alle etc.",
+      "format" : "text/html",
+      "chars" : "<p>Deo alle etc.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=834,2362,2009,187"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M834.23571,2362.46653h1004.26306v0h1004.26306v93.40581v93.40581h-1004.26306h-1004.26306v-93.40581z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6fb9dc36-3f50-46a9-aa86-82738e9068c2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714606348",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:56:46",
+    "dcterms:modified" : "2024-02-23T19:57:37",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Music",
+      "chars" : "Music"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie",
+      "format" : "text/html",
+      "chars" : "<p>Monophonie</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=777,2144,2341,384"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M777.38666,2143.70207h1170.44925v0h1170.44925v191.7919v191.7919h-1170.44925h-1170.44925v-191.7919z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_dcfb8c05-225f-4f59-baea-ad3d1648d2f3\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"25.96618\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714687973",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:58:07",
+    "dcterms:modified" : "2024-02-23T19:58:19",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Music",
+      "chars" : "Music"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Polyphonie",
+      "format" : "text/html",
+      "chars" : "<p>Polyphonie</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=807,2492,2352,1998"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M807.3752,2492.00636h1175.76824v0h1175.76824v998.98273v998.98273h-1175.76824h-1175.76824v-998.98273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_ba6cb03f-47bf-4021-a01d-867be4bfc4a1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.81103\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714740429",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:59:00",
+    "dcterms:modified" : "2024-02-23T19:59:12",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Dicant etc.",
+      "format" : "text/html",
+      "chars" : "<p>Dicant etc.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=869,2962,2295,231"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M869.43792,2961.77989h1147.27205v0h1147.27205v115.40719v115.40719h-1147.27205h-1147.27205v-115.40719z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_d3b9dafa-8852-4d58-809b-67deab871d93\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.40166\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714773494",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T19:59:33",
+    "dcterms:modified" : "2024-02-23T19:59:45",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "cru etc.",
+      "format" : "text/html",
+      "chars" : "<p>cru etc.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=935,3582,2207,253"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M935.44207,3582.2189h1103.26929v0h1103.26929v126.40789v126.40789h-1103.26929h-1103.26929v-126.40789z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_29f411f6-6f9e-4730-bd9d-6ca3f0c400fd\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.40166\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714808347",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T20:00:08",
+    "dcterms:modified" : "2024-02-23T20:00:24",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "bant etc.",
+      "format" : "text/html",
+      "chars" : "<p>bant etc.</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=950,4159,2198,304"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M950.43821,4159.21836h1098.86901v0h1098.86901v151.82388v151.82388h-1098.86901h-1098.86901v-151.82388z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_c2c17801-4869-4a28-9ed6-d7e955cb24be\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.81103\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714989134",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T20:03:09",
+    "dcterms:modified" : "2024-02-23T20:03:27",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
+      "chars" : "Voice"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "format" : "text/html",
+      "chars" : "<p>Superius</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=854,2419,2271,352"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M862.45421,2564.28972l2239.74079,-145.20913l22.00138,233.21466l-2270.54272,118.80746l0,-206.813z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_2b7b2d2a-d4e4-4bf8-8de4-e0856d528b43\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"26.40166\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714862950",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T20:01:02",
+    "dcterms:modified" : "2024-02-23T20:03:51",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
+      "chars" : "Voice"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
+      "format" : "text/html",
+      "chars" : "<p>Antienne</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=869,2720,2258,332"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M888.06739,2825.61121l2238.86073,-105.60664l-5.28033,190.09195l-2252.06156,141.68891l-0.88005,-229.25441z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_b2ffa750-70bb-493f-a5fc-b813369330ee\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"13.20083\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714902294",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T20:01:42",
+    "dcterms:modified" : "2024-02-23T20:04:47",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
+      "chars" : "Voice"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
+      "format" : "text/html",
+      "chars" : "<p>Antienne</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=890,3322,2244,403"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M893.19503,3515.77167l2241.42121,-193.63358l-1.6193,206.65107l-2242.6743,196.79015l1.34453,-208.09641z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_7b59c57e-3317-46ab-a628-42720e17a923\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"13.68662\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708714941850",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T20:02:21",
+    "dcterms:modified" : "2024-02-23T20:05:39",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
+      "format" : "text/html",
+      "chars" : "<p>Antienne</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
+      "chars" : "Voice"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=904,3935,2232,463"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M903.68643,4212.76734l2232.19442,-278.09132l-0.32386,218.38044l-2222.88664,244.84843l-6.906,-157.08579z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_5b9b4f97-11e1-4e81-9306-1f6e1d49a5f1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"15.27874\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708715206193",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T20:06:46",
+    "dcterms:modified" : "2024-02-23T20:06:46",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "format" : "text/html",
+      "chars" : "<p>Superius</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
+      "chars" : "Voice"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=889,3658,2235,497"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M893.25615,3895.36186l2226.53995,-237.61494l4.40028,255.21604l-2217.7394,242.01521l-17.60111,-259.61632h4.40028z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_bb781cda-ed6d-485c-a629-4038446205a3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/d40cdc1645535a0f2ffe07696e4f0efb.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
