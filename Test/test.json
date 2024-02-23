@@ -98,7 +98,7 @@
           ],
           "otherContent": [
             {
-              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/Annotations/anno5.json",
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/Test/Annot.json",
               "@type": "sc:AnnotationList"
              }
           ]
