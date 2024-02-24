@@ -25,7 +25,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=2000,1080,1300,1105"
+          "value" : "xywh=2300,1080,1300,1105"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -57,7 +57,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=953,3600,2456,491"
+          "value" : "xywh=2300,3600,2456,491"
         },
         "item" : {
           "@type" : "oa:SvgSelector",
@@ -93,7 +93,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=700,2725,2747,2164"
+          "value" : "xywh=2300,2725,2747,2164"
         },
         "item" : {
           "@type" : "oa:SvgSelector",
@@ -129,7 +129,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=922,2937,2495,394"
+          "value" : "xywh=2300,2937,2495,394"
         },
         "item" : {
           "@type" : "oa:SvgSelector",
@@ -165,7 +165,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=959,4254,2467,530"
+          "value" : "xywh=2300,4254,2467,530"
         },
         "item" : {
           "@type" : "oa:SvgSelector",
