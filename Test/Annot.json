@@ -70,6 +70,10 @@
     "dcterms:created" : "2024-02-24T13:25:14",
     "dcterms:modified" : "2024-02-24T13:25:14",
     "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Vox principalis",
+      "chars" : "Vox principalis"
+    }, {  
       "@type" : "dctypes:Text",
       "http://dev.llgc.org.uk/sas/full_text" : "Antienne 3",
       "format" : "text/html",
@@ -85,7 +89,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,2800,2000,336"
+          "value" : "xywh=500,2700,2000,336"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -117,7 +121,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,3500,2000,350"
+          "value" : "xywh=500,3300,2000,350"
           }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -149,7 +153,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,4200,2000,434"
+          "value" : "xywh=500,3900,2000,434"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
