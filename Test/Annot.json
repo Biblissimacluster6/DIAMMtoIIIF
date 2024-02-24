@@ -25,7 +25,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,850,2000,1550"
+          "value" : "xywh=500,850,2000,1650"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -57,7 +57,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,2800,2000,1500"
+          "value" : "xywh=500,2500,2000,1500"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -85,7 +85,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,3684,2000,336"
+          "value" : "xywh=500,3000,2000,336"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -117,7 +117,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,4357,2000,350"
+          "value" : "xywh=500,3700,2000,350"
           }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -149,7 +149,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,5000,2000,434"
+          "value" : "xywh=500,4400,2000,434"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
