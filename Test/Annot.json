@@ -58,10 +58,6 @@
         "default" : {
           "@type" : "oa:FragmentSelector",
           "value" : "xywh=2300,3600,2456,491"
-        },
-        "item" : {
-          "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M953.30888,3829.32741l2455.61179,-228.9397l-4.13037,249.37286l-2450.81327,241.40773z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_4eb2f29e-9670-4c27-93ae-19629d68e4a6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -94,10 +90,6 @@
         "default" : {
           "@type" : "oa:FragmentSelector",
           "value" : "xywh=2300,2725,2747,2164"
-        },
-        "item" : {
-          "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M700.07331,2724.68983h1373.35047v0h1373.35047v1082.0868v1082.0868h-1373.35047h-1373.35047v-1082.0868z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_208ecee7-fb14-4276-82df-c55a81dc6044\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -130,10 +122,6 @@
         "default" : {
           "@type" : "oa:FragmentSelector",
           "value" : "xywh=2300,2937,2495,394"
-        },
-        "item" : {
-          "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M922.8616,3101.82827l2494.39673,-165.21868l-1.97205,236.53228l-2492.79722,157.06729z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_138a7cb4-b788-4857-84c6-26a368781c5b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -166,10 +154,6 @@
         "default" : {
           "@type" : "oa:FragmentSelector",
           "value" : "xywh=2300,4254,2467,530"
-        },
-        "item" : {
-          "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M959.22502,4521.50383l2466.55725,-267.6477v257.15171l-2461.30926,272.8957z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_34160194-122f-4696-8b2d-7b2ee952cfbc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
