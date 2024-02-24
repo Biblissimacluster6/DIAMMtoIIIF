@@ -249,7 +249,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,3500,2000,250"
+          "value" : "xywh=500,3450,2000,280"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
