@@ -75,7 +75,7 @@
       "chars" : "Vox principalis"
     }, {  
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Antienne 3",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antiphona",
       "format" : "text/html",
       "chars" : "<p>Antienne 3</p>"
     } ],
@@ -89,7 +89,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,2700,2000,336"
+          "value" : "xywh=500,2650,2000,336"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -107,7 +107,7 @@
       "chars" : "Vox principalis"
     }, {  
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Antienne 2",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antiphona",
       "format" : "text/html",
       "chars" : "<p>Antienne 2</p>"
     } ],
@@ -121,7 +121,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,3300,2000,350"
+          "value" : "xywh=500,3200,2000,350"
           }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -139,7 +139,7 @@
       "chars" : "Vox principalis"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Antienne 1",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antiphona",
       "format" : "text/html",
       "chars" : "<p>Antienne 1</p>"
     } ],
@@ -153,7 +153,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,3900,2000,434"
+          "value" : "xywh=500,3700,2000,434"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
