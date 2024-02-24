@@ -98,6 +98,10 @@
     "dcterms:created" : "2024-02-24T13:25:27",
     "dcterms:modified" : "2024-02-24T13:25:38",
     "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Vox principalis",
+      "chars" : "Vox principalis"
+    }, {  
       "@type" : "dctypes:Text",
       "http://dev.llgc.org.uk/sas/full_text" : "Antienne 2",
       "format" : "text/html",
@@ -127,8 +131,8 @@
     "dcterms:modified" : "2024-02-24T13:26:22",
     "resource" : [ {
       "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
-      "chars" : "Voice"
+      "http://dev.llgc.org.uk/sas/full_text" : "Vox principalis",
+      "chars" : "Vox principalis"
     }, {
       "@type" : "dctypes:Text",
       "http://dev.llgc.org.uk/sas/full_text" : "Antienne 1",
