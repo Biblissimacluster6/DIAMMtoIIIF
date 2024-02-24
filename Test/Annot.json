@@ -4,7 +4,7 @@
     "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716419815",
     "@type" : "oa:Annotation",
     "dcterms:created" : "2024-02-23T20:26:59",
-    "dcterms:modified" : "2024-02-23T20:27:10",
+    "dcterms:modified" : "2024-02-24T13:22:34",
     "resource" : [ {
       "@type" : "oa:Tag",
       "http://dev.llgc.org.uk/sas/full_text" : "Monophonie",
@@ -25,39 +25,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=2300,1080,1300,1105"
-        }
-      },
-      "full" : "https://example.com/iiif/canvas/f0.json"
-    } ],
-    "motivation" : [ "oa:commenting", "oa:tagging" ],
-    "@context" : "http://iiif.io/api/presentation/2/context.json"
-  }, {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716521223",
-    "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-02-23T20:28:41",
-    "dcterms:modified" : "2024-02-23T20:28:58",
-    "resource" : [ {
-      "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
-      "chars" : "Voice"
-    }, {
-      "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
-      "format" : "text/html",
-      "chars" : "<p>Antienne</p>"
-    } ],
-    "on" : [ {
-      "@type" : "oa:SpecificResource",
-      "within" : {
-        "@id" : "https://example.com/iiif/manifest.json",
-        "@type" : "sc:Manifest"
-      },
-      "selector" : {
-        "@type" : "oa:Choice",
-        "default" : {
-          "@type" : "oa:FragmentSelector",
-          "value" : "xywh=2300,3600,2456,491"
+          "value" : "xywh=742,509,3029,2481"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -68,7 +36,7 @@
     "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716454185",
     "@type" : "oa:Annotation",
     "dcterms:created" : "2024-02-23T20:27:34",
-    "dcterms:modified" : "2024-02-23T20:29:09",
+    "dcterms:modified" : "2024-02-24T13:24:54",
     "resource" : [ {
       "@type" : "oa:Tag",
       "http://dev.llgc.org.uk/sas/full_text" : "Polyphonie",
@@ -89,7 +57,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=2300,2725,2747,2164"
+          "value" : "xywh=758,3014,3023,2434"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -97,19 +65,15 @@
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716487154",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708777514938",
     "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-02-23T20:28:07",
-    "dcterms:modified" : "2024-02-23T20:29:21",
+    "dcterms:created" : "2024-02-24T13:25:14",
+    "dcterms:modified" : "2024-02-24T13:25:14",
     "resource" : [ {
       "@type" : "dctypes:Text",
       "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
       "format" : "text/html",
       "chars" : "<p>Antienne</p>"
-    }, {
-      "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
-      "chars" : "Voice"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
@@ -121,27 +85,23 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=2300,2937,2495,394"
+          "value" : "xywh=988,3284,2791,336"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
     } ],
-    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "motivation" : [ "oa:commenting" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716597283",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708777527050",
     "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-02-23T20:29:57",
-    "dcterms:modified" : "2024-02-23T20:29:57",
+    "dcterms:created" : "2024-02-24T13:25:27",
+    "dcterms:modified" : "2024-02-24T13:25:38",
     "resource" : [ {
       "@type" : "dctypes:Text",
       "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
       "format" : "text/html",
       "chars" : "<p>Antienne</p>"
-    }, {
-      "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
-      "chars" : "Voice"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
@@ -153,7 +113,39 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=2300,4254,2467,530"
+          "value" : "xywh=1014,4057,2749,350"
+          }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708777559605",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-24T13:25:59",
+    "dcterms:modified" : "2024-02-24T13:26:22",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
+      "chars" : "Voice"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
+      "format" : "text/html",
+      "chars" : "<p>Antienne</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1049,4800,2783,434"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
