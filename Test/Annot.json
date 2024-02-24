@@ -129,6 +129,38 @@
     "motivation" : [ "oa:commenting" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708777514939",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-24T13:25:14",
+    "dcterms:modified" : "2024-02-24T13:25:14",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Discantus",
+      "chars" : "Vox principalis"
+    }, {  
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antiphona",
+      "format" : "text/html",
+      "chars" : "<p>Verse</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://example.com/iiif/manifest.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=500,2500,2000,200"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f0.json"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"  
+  }, {
     "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708777527050",
     "@type" : "oa:Annotation",
     "dcterms:created" : "2024-02-24T13:25:27",
