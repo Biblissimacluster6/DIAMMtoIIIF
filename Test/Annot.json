@@ -25,7 +25,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,800,2000,1500"
+          "value" : "xywh=500,850,2000,1550"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -57,7 +57,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,3014,2000,1500"
+          "value" : "xywh=500,2800,2000,1500"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -73,7 +73,7 @@
       "@type" : "dctypes:Text",
       "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
       "format" : "text/html",
-      "chars" : "<p>Antienne</p>"
+      "chars" : "<p>Antienne 3</p>"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
@@ -101,7 +101,7 @@
       "@type" : "dctypes:Text",
       "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
       "format" : "text/html",
-      "chars" : "<p>Antienne</p>"
+      "chars" : "<p>Antienne 2</p>"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
@@ -133,7 +133,7 @@
       "@type" : "dctypes:Text",
       "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
       "format" : "text/html",
-      "chars" : "<p>Antienne</p>"
+      "chars" : "<p>Antienne 1</p>"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
