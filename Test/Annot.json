@@ -40,7 +40,7 @@
     "resource" : [ {
       "@type" : "oa:Tag",
       "http://dev.llgc.org.uk/sas/full_text" : "Polyphony",
-      "chars" : "Polyphonie"
+      "chars" : "Polyphony"
     }, {
       "@type" : "dctypes:Text",
       "http://dev.llgc.org.uk/sas/full_text" : "Polyphony",
@@ -57,7 +57,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,2500,2000,1500"
+          "value" : "xywh=500,2500,2000,1600"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -85,7 +85,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,3000,2000,336"
+          "value" : "xywh=500,2800,2000,336"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -117,7 +117,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,3700,2000,350"
+          "value" : "xywh=500,3500,2000,350"
           }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -149,7 +149,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,4400,2000,434"
+          "value" : "xywh=500,4200,2000,434"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
