@@ -25,7 +25,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=1000,540,2626,2215"
+          "value" : "xywh=2000,1080,1300,1105"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
