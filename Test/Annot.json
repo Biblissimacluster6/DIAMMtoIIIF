@@ -136,7 +136,7 @@
     "resource" : [ {
       "@type" : "oa:Tag",
       "http://dev.llgc.org.uk/sas/full_text" : "Discantus",
-      "chars" : "Vox principalis"
+      "chars" : "Discantus"
     }, {  
       "@type" : "dctypes:Text",
       "http://dev.llgc.org.uk/sas/full_text" : "Antiphona",
