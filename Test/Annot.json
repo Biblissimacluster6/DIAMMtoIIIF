@@ -71,7 +71,7 @@
     "dcterms:modified" : "2024-02-24T13:25:14",
     "resource" : [ {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne 3",
       "format" : "text/html",
       "chars" : "<p>Antienne 3</p>"
     } ],
@@ -99,7 +99,7 @@
     "dcterms:modified" : "2024-02-24T13:25:38",
     "resource" : [ {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne 2",
       "format" : "text/html",
       "chars" : "<p>Antienne 2</p>"
     } ],
@@ -131,7 +131,7 @@
       "chars" : "Voice"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne 1",
       "format" : "text/html",
       "chars" : "<p>Antienne 1</p>"
     } ],
