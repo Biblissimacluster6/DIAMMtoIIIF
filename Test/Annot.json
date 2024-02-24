@@ -25,7 +25,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,500,2000,1500"
+          "value" : "xywh=500,300,2000,1500"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -57,7 +57,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,3014,2000,2434"
+          "value" : "xywh=500,3014,2000,1500"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
