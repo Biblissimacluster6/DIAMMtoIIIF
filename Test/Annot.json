@@ -25,7 +25,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,850,2000,800"
+          "value" : "xywh=500,870,2000,800"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -33,7 +33,7 @@
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
     }, {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716454185",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716454186",
     "@type" : "oa:Annotation",
     "dcterms:created" : "2024-02-23T20:27:34",
     "dcterms:modified" : "2024-02-24T13:24:54",
@@ -57,7 +57,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,2500,2000,800"
+          "value" : "xywh=500,1600,2000,800"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
@@ -89,7 +89,7 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=500,1600,2000,800"
+          "value" : "xywh=500,2500,2000,800"
         }
       },
       "full" : "https://example.com/iiif/canvas/f0.json"
