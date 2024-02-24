@@ -7,13 +7,13 @@
     "dcterms:modified" : "2024-02-24T13:22:34",
     "resource" : [ {
       "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie",
-      "chars" : "Monophonie"
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophony",
+      "chars" : "Monophony"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie + parole",
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophony",
       "format" : "text/html",
-      "chars" : "<p>Monophonie + parole</p>"
+      "chars" : "<p>[...] que lucessit in prima sabbati venit maria magdalena et altera maria videre sepulcrum alleluia. EUOUAE / Ite missa est/ Christus resurgens ex mortuis iam non moritur, mors illi ultra non dominabitur. / Quod enim vivit deo alleluia</p>"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
@@ -39,13 +39,13 @@
     "dcterms:modified" : "2024-02-24T13:24:54",
     "resource" : [ {
       "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Polyphonie",
+      "http://dev.llgc.org.uk/sas/full_text" : "Polyphony",
       "chars" : "Polyphonie"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Polyphonie + parole",
+      "http://dev.llgc.org.uk/sas/full_text" : "Polyphony",
       "format" : "text/html",
-      "chars" : "<p>Polyphonie + parole</p>"
+      "chars" : "<p>Dicant nunc Iudaei quomodo milites custodientes sepulcrum perdiderunt regem ad lapidis positionem quare non servabant Petram iustitiae aut sepultum reddant aut resurgentem</p>"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
