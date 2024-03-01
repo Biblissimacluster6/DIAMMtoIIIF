@@ -1,5 +1,5 @@
 {
-  "@context": ["http://iiif.io/api/presentation/3/context.json", "http://iiif.io/api/search/1/context.json"]
+  "@context": ["http://iiif.io/api/presentation/3/context.json", "http://iiif.io/api/search/1/context.json"],
   "id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/Annotations/anno2",
   "type": "AnnotationPage",
   "items": [
