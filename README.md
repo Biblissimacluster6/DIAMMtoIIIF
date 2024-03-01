@@ -2,6 +2,8 @@
 
 ![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/biblissima-baseline-sombre-france2030.png)
 
+<img src="https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/biblissima-baseline-sombre-france2030.png" width="48">
+
 ## English documentation
 
 The DIAMMtoIIIF project is carried out within the framework of the Biblissima+ Cluster 6, "The Challenges of Musical Heritage". DIAMMtoIIIF is a Python program that generates an IIIF (International Image Interoperability Framework) manifest from data extracted from the DIAMM (Digital Image Archive of Medieval Music) API and from the IIIF server of various libraries (BnF, Bayerische Staatsbibliothek, etc.). DIAMMtoIIIF improves the exploration of early musical sources by combining high-quality visualisation with musicological metadata. 
