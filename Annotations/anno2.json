@@ -1,7 +1,7 @@
 {
   "@context": ["http://iiif.io/api/presentation/3/context.json", "http://iiif.io/api/search/1/context.json"],
-  "id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/Annotations/anno2",
-  "type": "AnnotationPage",
+  "id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/Annotations/anno2.json",
+  "type": "AnnotationList",
   "items": [
     {
       "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot4",
