@@ -35,7 +35,7 @@
   ],
   "service":{
   "@context":"http://iiif.io/api/search/1/context.json",
-  "@id":"https://example.org/services/identifier/search",
+  "@id":"https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/Annotations/anno2.json",
   "profile":"http://iiif.io/api/search/1/search"
   },
   "description": "In shape of a single heart when book is closed and of two joined hearts when book is open. Copied by a single scribe. Copied in Savoy; compiled for Jean de Montchenu, a soldier and priest (later Bishop of Viviers) serving as Vicar-General and Councillor to Jean-Louis de Savoie, Bishop of Geneva. Subsequently owned by 'Pucci,' a Maltese nobleman. Listed in 19th-century library catalogues of Ch\u00e9deau and Baron J\u00e9r\u00f4me Pichon (PicotC). Later acquired by the Paris banker Nathan James Edouard, Baron de Rothschild (1844-81), whose library went to his son Henri; passed to Biblioth\u00e8que Nationale in 1933.",
