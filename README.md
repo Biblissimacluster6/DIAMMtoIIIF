@@ -1,6 +1,6 @@
 # DIAMMtoIIIFv2
 
-<img src="https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/biblissima-baseline-sombre-france2030.png" width="500">
+<img src="https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/biblissima-baseline-sombre-france2030.png" width="400">
 
 ## English documentation
 
