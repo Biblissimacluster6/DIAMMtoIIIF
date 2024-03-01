@@ -33,6 +33,11 @@
       "value": "307 x 205 mm"
     }
   ],
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/search-api/iiif/search",
+    "@context": "http://iiif.io/api/search/0/context.json"
+  },
   "description": "A composite MS made up of liturgical fragments, dating from the 10th to the 18th century, many of them with music. Polyphony is found on a single bifolio; this contains motets such as those that appear in I-IV and CA 1328. Written in two columns. According to the 18th century writing on f.49v, the MS was formerly in the abbey of 'S. Sauveur le vicomte'. The 15th century writing at the bottom of f. 49 seems to refer to an exchange of land at nearby Coutances.",
   "viewingDirection": "left-to-right",
   "viewingHint": "paged",
