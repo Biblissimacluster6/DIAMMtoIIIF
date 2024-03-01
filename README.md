@@ -1,6 +1,6 @@
 # DIAMMtoIIIFv2
 
-![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/biblissima-baseline-sombre-france2030.png =250x250)
+![code](https://github.com/Biblissimacluster6/DIAMMtoIIIF/blob/main/img/biblissima-baseline-sombre-france2030.png=250x250)
 
 ## English documentation
 
