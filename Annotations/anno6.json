@@ -1,48 +1,36 @@
 {
-    "@id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot2.json",
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@type": "sc:AnnotationList",
-    "resources":
-    [
-        {
-            "@id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot1",
-            "@type": "oa:Annotation",
-            "motivation": "sc:painting",
-            "on":
-            [
-                {
-                    "@type": "oa:SpecificResource",
-                    "full": "https://example.com/iiif/canvas/f16.json",
-                    "selector":
-                    {
-                        "@type": "oa:Choice",
-                        "default":
-                        {
-                            "@type": "oa:FragmentSelector",
-                            "value": "xywh=887,741,5299,2403"
-                        },
-                        "item":
-                        {
-                            "@type": "oa:SvgSelector",
-                            "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path id=\"rough_path_cbc91ed0-7bee-4337-9d11-8bbe17c0d43c\" d=\"M50,10 A40,40 0 1,1 50,90 A40,40 0 1,1 50,10\" data-paper-data=\"{&quot;defaultStrokeValue&quot;:1,&quot;editStrokeValue&quot;:5,&quot;currentStrokeValue&quot;:5,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" fill=\"#00bfff\" fill-opacity=\"0\" fill-rule=\"nonzero\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"normal\" stroke=\"#00bfff\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-width=\"5\" style=\"mix-blend-mode: normal\" text-anchor=\"start\" /></svg>"
-                        }
-                    },
-                    "within":
-                    {
-                        "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/F-Pnm_Rothschild_2973_with_annotations.json",
-                        "@type": "sc:Manifest"
-                    }
-                }
-            ],
-            "resource":
-            [
-                {
-                    "@type": "dctypes:Text",
-                    "chars": "<p dir=\"ltr\">Annotation ici</p>",
-                    "format": "text/html",
-                    "language": "en"
-               }
-            ]
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/Annotations/anno6.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://github.com/Biblissimacluster6/DIAMMtoIIIF/edit/main/annot8",
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "language": "de",
+        "format": "text/plain",
+        "value": "[Superius]. Zentil madona, madona non me habendonare."
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": {
+          "id": "https://example.com/iiif/canvas/f16.json",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://example.com/iiif/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "FragmentSelector",
+          "conformsTo": "http://www.w3.org/TR/media-frags/",
+          "value": "xywh=240,444,1420,1009"
         }
-    ]
+      }
+    }
+  ]
 }
