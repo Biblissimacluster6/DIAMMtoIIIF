@@ -848,6 +848,12 @@
               },
               "on": "https://example.com/iiif/canvas/f12.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList3.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
