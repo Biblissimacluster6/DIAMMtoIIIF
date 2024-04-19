@@ -1,0 +1,179 @@
+{
+  "startIndex" : 0,
+  "within" : {
+    "total" : 56,
+    "@type" : "sc:Layer"
+  },
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713190885046",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:21:25",
+    "dcterms:modified" : "2024-04-15T16:21:41",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Hora cridar",
+      "format" : "text/html",
+      "chars" : "<p>Hora cridar</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f10.json#xywh=661,387,1464,1402",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Superius"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713190952469",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:22:32",
+    "dcterms:modified" : "2024-04-15T16:23:20",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "O lingua",
+      "format" : "text/html",
+      "chars" : "<p>O lingua</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "superius",
+      "chars" : "superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f10.json#xywh=772,1795,1515,201",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Lyrics"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191043428",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:24:03",
+    "dcterms:modified" : "2024-04-19T11:34:40",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor. Hora cridar \"oyme\"",
+      "format" : "text/html",
+      "chars" : "<p>Tenor. Hora cridar \"oyme\"</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f11.json#xywh=188,458,1426,1001",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tenor. Hora cridar \"oyme\""
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191043428",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:24:03",
+    "dcterms:modified" : "2024-04-19T11:34:40",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor. Hora cridar \"oyme\"",
+      "format" : "text/html",
+      "chars" : "<p>Tenor. Hora cridar \"oyme\"</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f11.json#xywh=188,458,1426,1001",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tenor. Hora cridar \"oyme\""
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191057898",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:24:17",
+    "dcterms:modified" : "2024-04-19T11:34:16",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span lang=\"EN-US\" style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">posso ben yo.",
+      "format" : "text/html",
+      "chars" : "<p><span lang=\"EN-US\" style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">posso ben yo.</span></p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f11.json#xywh=145,1552,1489,781",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Contratenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191124094",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:25:24",
+    "dcterms:modified" : "2024-04-19T11:37:44",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">A tollere grando suspecto del mal pensare/Ma solo prego dio justo seignore/Que abia pieta de me pura donzela.\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">&nbsp;",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">A tollere grando suspecto del mal pensare/Ma solo prego dio justo seignore/Que abia pieta de me pura donzela.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">&nbsp;</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f12.json#xywh=841,1769,1026,209",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Superius"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191154772",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:25:54",
+    "dcterms:modified" : "2024-04-19T11:36:56",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Altra vindicta non quero che rasone/Che la vertu sera l'eschusa mya/Ben qu'el pensare, dolore me sya/El no se passa cussi de legero.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Altra vindicta non quero che rasone/Che la vertu sera l'eschusa mya/Ben qu'el pensare, dolore me sya/El no se passa cussi de legero.</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f12.json#xywh=1331,1433,805,254",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Superius"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191154772",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:25:54",
+    "dcterms:modified" : "2024-04-19T11:36:56",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Altra vindicta non quero che rasone/Che la vertu sera l'eschusa mya/Ben qu'el pensare, dolore me sya/El no se passa cussi de legero.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Altra vindicta non quero che rasone/Che la vertu sera l'eschusa mya/Ben qu'el pensare, dolore me sya/El no se passa cussi de legero.</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f12.json#xywh=1331,1433,805,254",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Superius"
+  } ],
+  "@id" : "",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
