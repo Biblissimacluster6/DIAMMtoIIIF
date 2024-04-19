@@ -5,7 +5,7 @@
   "label": "F-Pnm Rothschild 2973 (Chansonnier Cordiforme; Chansonnier de Jean de Montchenu)",
   "service": {
     "profile": "http://iiif.io/api/search/0/search",
-    "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/search/rot.json",
+    "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/search-api/iiif1/search",
     "@context": "http://iiif.io/api/search/0/context.json"
   },
   "metadata": [
