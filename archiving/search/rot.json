@@ -1,9 +1,4 @@
 {
-  "startIndex" : 0,
-  "within" : {
-    "total" : 56,
-    "@type" : "sc:Layer"
-  },
   "@type" : "sc:AnnotationList",
   "resources" : [ {
     "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList1.json",
