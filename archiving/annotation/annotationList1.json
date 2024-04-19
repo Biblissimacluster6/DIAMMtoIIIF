@@ -11,7 +11,7 @@
       "chars" : "Superius"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Hora cridar",
+      "http://dev.llgc.org.uk/sas/full_text" : "Hora cridar «oyme» posso ben yo/Et consumare in pianti ly ochi mey,/Poy che veder [piu ley]/Non posso, oyme, [meschin] come sole(v)a.[Hora cridar oyme posso ben yo.]",
       "format" : "text/html",
       "chars" : "<p>Hora cridar</p>"
     } ],
@@ -47,13 +47,24 @@
       "chars" : "Lyrics"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "O lingua",
+      "http://dev.llgc.org.uk/sas/full_text" : "O lingua maledicta, iniqua e rea,
+Que state [sey] casone de tanto male,
+Tu m'ay conducto a tale
+Que viver(e) m'e venuto en displacere.
+[Hora cridar oyme posso ben yo.]
+
+Se yo non credessi piu poder videre
+Come soleva el myo caro thesoro,
+Cum un(o) capistro d'oro
+Al collo (in alto) finiria la vita mya.
+[Hora cridar oyme posso ben yo.]
+",
       "format" : "text/html",
       "chars" : "<p>O lingua</p>"
     }, {
       "@type" : "oa:Tag",
       "http://dev.llgc.org.uk/sas/full_text" : "Superius",
-      "chars" : "superius"
+      "chars" : "Superius"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
