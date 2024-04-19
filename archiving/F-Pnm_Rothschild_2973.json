@@ -3,6 +3,11 @@
   "@id": "https://cluster6/iiif/manifest.json",
   "@type": "sc:Manifest",
   "label": "F-Pnm Rothschild 2973 (Chansonnier Cordiforme; Chansonnier de Jean de Montchenu)",
+  "service": {
+    "profile": "http://iiif.io/api/search/0/search",
+    "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/search-api/iiif1/search",
+    "@context": "http://iiif.io/api/search/0/context.json"
+},
   "metadata": [
     {
       "label": "Metadata source",
