@@ -6,7 +6,7 @@
   },
   "@type" : "sc:AnnotationList",
   "resources" : [ {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713190885046",
+    "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList1.json",
     "@type" : "oa:Annotation",
     "dcterms:created" : "2024-04-15T16:21:25",
     "dcterms:modified" : "2024-04-15T16:21:41",
