@@ -138,7 +138,7 @@
           "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1147.08749,2037.68197h515.05722v0h515.05722v177.50033v177.50033h-515.05722h-515.05722v-177.50033z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9e031a47-33d3-4d71-81e1-4062d9fade39\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
-      "full" : "https://example.com/iiif/canvas/f11.json"
+      "full" : "https://example.com/iiif/canvas/f10.json"
     } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
