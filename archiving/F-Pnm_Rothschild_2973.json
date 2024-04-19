@@ -781,6 +781,12 @@
               },
               "on": "https://example.com/iiif/canvas/f11.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList2.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
