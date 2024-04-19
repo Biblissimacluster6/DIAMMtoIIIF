@@ -1,131 +1,1126 @@
 {
+  "startIndex" : 0,
+  "within" : {
+    "total" : 60,
+    "@type" : "sc:Layer"
+  },
   "@type" : "sc:AnnotationList",
   "resources" : [ {
-    "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList1.json",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716419815",
     "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-04-15T16:21:25",
-    "dcterms:modified" : "2024-04-15T16:21:41",
+    "dcterms:created" : "2024-02-23T20:26:59",
+    "dcterms:modified" : "2024-04-19T13:11:08",
     "resource" : [ {
-      "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
-      "chars" : "Superius"
-    }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Hora cridar",
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie + parole",
       "format" : "text/html",
-      "chars" : "<p>Hora cridar</p>"
+      "chars" : "<p>Monophonie + parole</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie",
+      "chars" : "Monophonie"
     } ],
-    "on" : "https://example.com/iiif/canvas/f10.json#xywh=661,387,1464,1402",
+    "on" : "https://example.com/iiif/canvas/f0.json#xywh=742,509,3029,2481",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json",
-    "label" : "Superius"
+    "label" : "Monophonie + parole"
   }, {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713190952469",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716419815",
     "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-04-15T16:22:32",
-    "dcterms:modified" : "2024-04-15T16:23:20",
+    "dcterms:created" : "2024-02-23T20:26:59",
+    "dcterms:modified" : "2024-04-19T13:11:08",
     "resource" : [ {
-      "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
-      "chars" : "Lyrics"
-    }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "O lingua",
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie + parole",
       "format" : "text/html",
-      "chars" : "<p>O lingua</p>"
+      "chars" : "<p>Monophonie + parole</p>"
     }, {
       "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "superius",
-      "chars" : "superius"
+      "http://dev.llgc.org.uk/sas/full_text" : "Monophonie",
+      "chars" : "Monophonie"
     } ],
-    "on" : "https://example.com/iiif/canvas/f10.json#xywh=772,1795,1515,201",
+    "on" : "https://example.com/iiif/canvas/f0.json#xywh=742,509,3029,2481",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json",
-    "label" : "Lyrics"
+    "label" : "Monophonie + parole"
   }, {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191043428",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716454185",
     "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-04-15T16:24:03",
-    "dcterms:modified" : "2024-04-19T11:34:40",
+    "dcterms:created" : "2024-02-23T20:27:34",
+    "dcterms:modified" : "2024-04-19T13:11:08",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Polyphonie",
+      "chars" : "Polyphonie"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Polyphonie + parole",
+      "format" : "text/html",
+      "chars" : "<p>Polyphonie + parole</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f0.json#xywh=758,3014,3023,2434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Polyphonie"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708716454185",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-23T20:27:34",
+    "dcterms:modified" : "2024-04-19T13:11:08",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Polyphonie",
+      "chars" : "Polyphonie"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Polyphonie + parole",
+      "format" : "text/html",
+      "chars" : "<p>Polyphonie + parole</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f0.json#xywh=758,3014,3023,2434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Polyphonie"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708777514938",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-24T13:25:14",
+    "dcterms:modified" : "2024-04-19T13:11:08",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
+      "format" : "text/html",
+      "chars" : "<p>Antienne</p>"
+    },
+    "on" : "https://example.com/iiif/canvas/f0.json#xywh=988,3284,2791,336",
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Antienne"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708777527050",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-24T13:25:27",
+    "dcterms:modified" : "2024-04-19T13:11:08",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
+      "format" : "text/html",
+      "chars" : "<p>Antienne</p>"
+    },
+    "on" : "https://example.com/iiif/canvas/f0.json#xywh=1014,4057,2749,350",
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Antienne"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708777559605",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-24T13:25:59",
+    "dcterms:modified" : "2024-04-19T13:11:08",
     "resource" : [ {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Tenor. Hora cridar \"oyme\"",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
       "format" : "text/html",
-      "chars" : "<p>Tenor. Hora cridar \"oyme\"</p>"
+      "chars" : "<p>Antienne</p>"
     }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
+      "chars" : "Voice"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f0.json#xywh=1049,4800,2783,434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Antienne"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1708777559605",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-02-24T13:25:59",
+    "dcterms:modified" : "2024-04-19T13:11:08",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Antienne",
+      "format" : "text/html",
+      "chars" : "<p>Antienne</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Voice",
+      "chars" : "Voice"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f0.json#xywh=1049,4800,2783,434",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Antienne"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1709289510148",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-03-01T11:38:30",
+    "dcterms:modified" : "2024-04-19T13:11:08",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Music",
+      "chars" : "Music"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Ici se trouve de la notation musicale et du texte",
+      "format" : "text/html",
+      "chars" : "<p>Ici se trouve de la notation musicale et du texte</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f7.json#xywh=105,99,785,692",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Music"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1709289510148",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-03-01T11:38:30",
+    "dcterms:modified" : "2024-04-19T13:11:08",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Music",
+      "chars" : "Music"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Ici se trouve de la notation musicale et du texte",
+      "format" : "text/html",
+      "chars" : "<p>Ici se trouve de la notation musicale et du texte</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f7.json#xywh=105,99,785,692",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Music"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1709289572328",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-03-01T11:39:32",
+    "dcterms:modified" : "2024-04-19T13:11:08",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Music",
+      "chars" : "Music"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Ici aussi",
+      "format" : "text/html",
+      "chars" : "<p>Ici aussi</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f7.json#xywh=157,845,495,136",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Music"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1709289572328",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-03-01T11:39:32",
+    "dcterms:modified" : "2024-04-19T13:11:08",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Music",
+      "chars" : "Music"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Ici aussi",
+      "format" : "text/html",
+      "chars" : "<p>Ici aussi</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f7.json#xywh=157,845,495,136",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Music"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191256318",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:27:36",
+    "dcterms:modified" : "2024-04-19T12:58:52",
+    "resource" : [ {
       "@type" : "oa:Tag",
       "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
       "chars" : "Tenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor. Ben lo sa dio/<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Se jalosia",
+      "format" : "text/html",
+      "chars" : "<p>Tenor. Ben lo sa dio/<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Se jalosia</span></p>"
     } ],
-    "on" : "https://example.com/iiif/canvas/f11.json#xywh=188,458,1426,1001",
+    "on" : "https://example.com/iiif/canvas/f13.json#xywh=164,451,1485,971",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json",
-    "label" : "Tenor. Hora cridar \"oyme\""
+    "label" : "Tenor"
   }, {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191057898",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191256318",
     "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-04-15T16:24:17",
-    "dcterms:modified" : "2024-04-19T11:34:16",
+    "dcterms:created" : "2024-04-15T16:27:36",
+    "dcterms:modified" : "2024-04-19T12:58:52",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor. Ben lo sa dio/<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Se jalosia",
+      "format" : "text/html",
+      "chars" : "<p>Tenor. Ben lo sa dio/<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Se jalosia</span></p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f13.json#xywh=164,451,1485,971",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191352709",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:29:12",
+    "dcterms:modified" : "2024-04-19T12:59:00",
     "resource" : [ {
       "@type" : "oa:Tag",
       "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
       "chars" : "Contratenor"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "<span lang=\"EN-US\" style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">posso ben yo.",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">se sum vergine e pura/<span style=\"font-size: 12pt;\">Se jalosia",
       "format" : "text/html",
-      "chars" : "<p><span lang=\"EN-US\" style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">posso ben yo.</span></p>"
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">se sum vergine e pura/<span style=\"font-size: 12pt;\">Se jalosia</span></p>"
     } ],
-    "on" : "https://example.com/iiif/canvas/f11.json#xywh=145,1552,1489,781",
+    "on" : "https://example.com/iiif/canvas/f13.json#xywh=168,1441,1436,946",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json",
     "label" : "Contratenor"
   }, {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191124094",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191352709",
     "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-04-15T16:25:24",
-    "dcterms:modified" : "2024-04-19T11:37:44",
+    "dcterms:created" : "2024-04-15T16:29:12",
+    "dcterms:modified" : "2024-04-19T12:59:00",
     "resource" : [ {
       "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
-      "chars" : "Superius"
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">A tollere grando suspecto del mal pensare/Ma solo prego dio justo seignore/Que abia pieta de me pura donzela.\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">&nbsp;",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">se sum vergine e pura/<span style=\"font-size: 12pt;\">Se jalosia",
       "format" : "text/html",
-      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">A tollere grando suspecto del mal pensare/Ma solo prego dio justo seignore/Que abia pieta de me pura donzela.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">&nbsp;</p>"
-    }, {
-      "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
-      "chars" : "Lyrics"
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">se sum vergine e pura/<span style=\"font-size: 12pt;\">Se jalosia</span></p>"
     } ],
-    "on" : "https://example.com/iiif/canvas/f12.json#xywh=841,1769,1026,209",
+    "on" : "https://example.com/iiif/canvas/f13.json#xywh=168,1441,1436,946",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json",
-    "label" : "Superius"
+    "label" : "Contratenor"
   }, {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191154772",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191399617",
     "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-04-15T16:25:54",
-    "dcterms:modified" : "2024-04-19T11:36:56",
+    "dcterms:created" : "2024-04-15T16:29:59",
+    "dcterms:modified" : "2024-04-19T13:02:14",
     "resource" : [ {
-      "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
-      "chars" : "Superius"
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor. Dona gentile",
+      "format" : "text/html",
+      "chars" : "<p>Tenor. Dona gentile</p>"
     }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f15.json#xywh=204,466,1395,895",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tenor. Dona gentile"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191399617",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:29:59",
+    "dcterms:modified" : "2024-04-19T13:02:14",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor. Dona gentile",
+      "format" : "text/html",
+      "chars" : "<p>Tenor. Dona gentile</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f15.json#xywh=204,466,1395,895",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tenor. Dona gentile"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191419467",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:30:19",
+    "dcterms:modified" : "2024-04-19T13:03:01",
+    "resource" : [ {
       "@type" : "oa:Tag",
       "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
       "chars" : "Lyrics"
     }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Altra vindicta non quero che rasone/Che la vertu sera l'eschusa mya/Ben qu'el pensare, dolore me sya/El no se passa cussi de legero.",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-US\">Lasso yo sono de talle martyr(i)o/Che vivere non posso salvo en una/<span lang=\"EN-US\">Che my trovo con voy, clara luna,/Per sempre servir(e) chella che yo adoro.",
       "format" : "text/html",
-      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Altra vindicta non quero che rasone/Che la vertu sera l'eschusa mya/Ben qu'el pensare, dolore me sya/El no se passa cussi de legero.</p>"
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-US\">Lasso yo sono de talle martyr(i)o/</span>Che vivere non posso salvo en una/<span lang=\"EN-US\">Che my trovo con voy, clara luna,/</span>Per sempre servir(e) chella che yo adoro.</p>"
     } ],
-    "on" : "https://example.com/iiif/canvas/f12.json#xywh=1331,1433,805,254",
+    "on" : "https://example.com/iiif/canvas/f15.json#xywh=300,1434,875,254",
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json",
-    "label" : "Superius"
+    "label" : "Lyrics"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191419467",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:30:19",
+    "dcterms:modified" : "2024-04-19T13:03:01",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-US\">Lasso yo sono de talle martyr(i)o/Che vivere non posso salvo en una/<span lang=\"EN-US\">Che my trovo con voy, clara luna,/Per sempre servir(e) chella che yo adoro.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-US\">Lasso yo sono de talle martyr(i)o/</span>Che vivere non posso salvo en una/<span lang=\"EN-US\">Che my trovo con voy, clara luna,/</span>Per sempre servir(e) chella che yo adoro.</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f15.json#xywh=300,1434,875,254",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Lyrics"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191419467",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:30:19",
+    "dcterms:modified" : "2024-04-19T13:03:01",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-US\">Lasso yo sono de talle martyr(i)o/Che vivere non posso salvo en una/<span lang=\"EN-US\">Che my trovo con voy, clara luna,/Per sempre servir(e) chella che yo adoro.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-US\">Lasso yo sono de talle martyr(i)o/</span>Che vivere non posso salvo en una/<span lang=\"EN-US\">Che my trovo con voy, clara luna,/</span>Per sempre servir(e) chella che yo adoro.</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f15.json#xywh=300,1434,875,254",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Lyrics"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191419467",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:30:19",
+    "dcterms:modified" : "2024-04-19T13:03:01",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-US\">Lasso yo sono de talle martyr(i)o/Che vivere non posso salvo en una/<span lang=\"EN-US\">Che my trovo con voy, clara luna,/Per sempre servir(e) chella che yo adoro.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\"><span lang=\"EN-US\">Lasso yo sono de talle martyr(i)o/</span>Che vivere non posso salvo en una/<span lang=\"EN-US\">Che my trovo con voy, clara luna,/</span>Per sempre servir(e) chella che yo adoro.</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f15.json#xywh=300,1434,875,254",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Lyrics"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191484680",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:31:24",
+    "dcterms:modified" : "2024-04-19T13:03:28",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Come per l'universo.",
+      "format" : "text/html",
+      "chars" : "<p>Come per l'universo.</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f15.json#xywh=204,1698,1375,588",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Contratenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191484680",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:31:24",
+    "dcterms:modified" : "2024-04-19T13:03:28",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Come per l'universo.",
+      "format" : "text/html",
+      "chars" : "<p>Come per l'universo.</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f15.json#xywh=204,1698,1375,588",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Contratenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191511449",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:31:51",
+    "dcterms:modified" : "2024-04-19T13:03:50",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Zentil madona (de) non me habandonare,",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Zentil madona (de) non me habandonare,</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f16.json#xywh=655,355,1495,780",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<p class=\"MsoNormal\" "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191511449",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:31:51",
+    "dcterms:modified" : "2024-04-19T13:03:50",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Zentil madona (de) non me habandonare,",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Zentil madona (de) non me habandonare,</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f16.json#xywh=655,355,1495,780",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<p class=\"MsoNormal\" "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191538023",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:32:18",
+    "dcterms:modified" : "2024-04-19T13:04:08",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor. Zentil madona",
+      "format" : "text/html",
+      "chars" : "<p>Tenor. Zentil madona</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f17.json#xywh=184,450,1406,675",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191538023",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:32:18",
+    "dcterms:modified" : "2024-04-19T13:04:08",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor. Zentil madona",
+      "format" : "text/html",
+      "chars" : "<p>Tenor. Zentil madona</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f17.json#xywh=184,450,1406,675",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191553751",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:32:33",
+    "dcterms:modified" : "2024-04-19T13:04:21",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor. Zentil madona",
+      "format" : "text/html",
+      "chars" : "<p>Contratenor. Zentil madona</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f17.json#xywh=192,1442,1406,887",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Contratenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713191553751",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-15T16:32:33",
+    "dcterms:modified" : "2024-04-19T13:04:21",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor. Zentil madona",
+      "format" : "text/html",
+      "chars" : "<p>Contratenor. Zentil madona</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f17.json#xywh=192,1442,1406,887",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Contratenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713523652393",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:47:32",
+    "dcterms:modified" : "2024-04-19T13:01:06",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Dona gentile (h)e bella come l'oro/Che supra le altre portate corona,/<span lang=\"EN-US\">Come per l'universo se rasona,/<span lang=\"EN-US\">Datime secorso, Stela, che yo (no) moro.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Dona gentile (h)e bella come l'oro/Che supra le altre portate corona,/<span lang=\"EN-US\">Come per l'universo se rasona,/</span><span lang=\"EN-US\">Datime secorso, Stela, che yo (no) moro.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f14.json#xywh=661,389,1486,1686",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<p class=\"MsoNormal\" "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713523652393",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:47:32",
+    "dcterms:modified" : "2024-04-19T13:01:06",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Dona gentile (h)e bella come l'oro/Che supra le altre portate corona,/<span lang=\"EN-US\">Come per l'universo se rasona,/<span lang=\"EN-US\">Datime secorso, Stela, che yo (no) moro.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Dona gentile (h)e bella come l'oro/Che supra le altre portate corona,/<span lang=\"EN-US\">Come per l'universo se rasona,/</span><span lang=\"EN-US\">Datime secorso, Stela, che yo (no) moro.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f14.json#xywh=661,389,1486,1686",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<p class=\"MsoNormal\" "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524013850",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:53:33",
+    "dcterms:modified" : "2024-04-19T12:54:01",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Hora cridar &laquo;oyme&raquo; posso ben yo/Et consumare in pianti ly ochi mey,/Poy che veder [piu ley]/Non posso, oyme, [meschin] come sole(v)a./[Hora cridar oyme posso ben yo.]",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Hora cridar &laquo;oyme&raquo; posso ben yo/Et consumare in pianti ly ochi mey,/Poy che veder [piu ley]/Non posso, oyme, [meschin] come sole(v)a./[Hora cridar oyme posso ben yo.]</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f10.json#xywh=688,355,1455,1440",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524013850",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:53:33",
+    "dcterms:modified" : "2024-04-19T12:54:01",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Hora cridar &laquo;oyme&raquo; posso ben yo/Et consumare in pianti ly ochi mey,/Poy che veder [piu ley]/Non posso, oyme, [meschin] come sole(v)a./[Hora cridar oyme posso ben yo.]",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Hora cridar &laquo;oyme&raquo; posso ben yo/Et consumare in pianti ly ochi mey,/Poy che veder [piu ley]/Non posso, oyme, [meschin] come sole(v)a./[Hora cridar oyme posso ben yo.]</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f10.json#xywh=688,355,1455,1440",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524069890",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:54:29",
+    "dcterms:modified" : "2024-04-19T12:54:29",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">O lingua maledicta, iniqua e rea,/Que state [sey] casone de tanto male,/Tu m'ay conducto a tale/Que viver(e) m'e venuto en displacere./[Hora cridar oyme posso ben yo.]/Se yo non credessi piu poder videre/Come soleva el myo caro thesoro,/Cum un(o) capistro d'oro/Al collo (in alto) finiria la vita mya./[Hora cridar oyme posso ben yo.]",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">O lingua maledicta, iniqua e rea,/Que state [sey] casone de tanto male,/Tu m'ay conducto a tale/Que viver(e) m'e venuto en displacere./[Hora cridar oyme posso ben yo.]/Se yo non credessi piu poder videre/Come soleva el myo caro thesoro,/Cum un(o) capistro d'oro/Al collo (in alto) finiria la vita mya./[Hora cridar oyme posso ben yo.]</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f10.json#xywh=739,1788,1561,229",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524069890",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:54:29",
+    "dcterms:modified" : "2024-04-19T12:54:29",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">O lingua maledicta, iniqua e rea,/Que state [sey] casone de tanto male,/Tu m'ay conducto a tale/Que viver(e) m'e venuto en displacere./[Hora cridar oyme posso ben yo.]/Se yo non credessi piu poder videre/Come soleva el myo caro thesoro,/Cum un(o) capistro d'oro/Al collo (in alto) finiria la vita mya./[Hora cridar oyme posso ben yo.]",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">O lingua maledicta, iniqua e rea,/Que state [sey] casone de tanto male,/Tu m'ay conducto a tale/Que viver(e) m'e venuto en displacere./[Hora cridar oyme posso ben yo.]/Se yo non credessi piu poder videre/Come soleva el myo caro thesoro,/Cum un(o) capistro d'oro/Al collo (in alto) finiria la vita mya./[Hora cridar oyme posso ben yo.]</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f10.json#xywh=739,1788,1561,229",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524085445",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:54:45",
+    "dcterms:modified" : "2024-04-19T12:54:45",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Hora cridar &laquo;oyme&raquo; posso ben yo",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Hora cridar &laquo;oyme&raquo; posso ben yo</span></p>"
+    },
+    "on" : "https://example.com/iiif/canvas/f10.json#xywh=1120,2034,1081,353",
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524121786",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:55:21",
+    "dcterms:modified" : "2024-04-19T12:55:21",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Tenor. Hora cridar \"oyme\"",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Tenor. Hora cridar \"oyme\"</span></p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f11.json#xywh=140,417,1500,1089",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524121786",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:55:21",
+    "dcterms:modified" : "2024-04-19T12:55:21",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Tenor. Hora cridar \"oyme\"",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Tenor. Hora cridar \"oyme\"</span></p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f11.json#xywh=140,417,1500,1089",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524132813",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:55:32",
+    "dcterms:modified" : "2024-04-19T12:55:37",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">posso ben yo.",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">posso ben yo.</span></p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f11.json#xywh=108,1532,1560,856",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Contratenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524132813",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:55:32",
+    "dcterms:modified" : "2024-04-19T12:55:37",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">posso ben yo.",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">posso ben yo.</span></p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f11.json#xywh=108,1532,1560,856",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Contratenor"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524165464",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:56:05",
+    "dcterms:modified" : "2024-04-19T12:56:05",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Ben lo sa dio se sum vergine e pura/Che en ben fare spero/Che falsa infamia non remove el vero/<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Se jalosia me pon(e) falsa casone,/<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Non posso contra la fortuna rea.",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Ben lo sa dio se sum vergine e pura/Che en ben fare spero/Che falsa infamia non remove el vero/</span><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Se jalosia me pon(e) falsa casone,/</span><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Non posso contra la fortuna rea.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f12.json#xywh=637,413,1562,1339",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524165464",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:56:05",
+    "dcterms:modified" : "2024-04-19T12:56:05",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Ben lo sa dio se sum vergine e pura/Che en ben fare spero/Che falsa infamia non remove el vero/<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Se jalosia me pon(e) falsa casone,/<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Non posso contra la fortuna rea.",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Ben lo sa dio se sum vergine e pura/Che en ben fare spero/Che falsa infamia non remove el vero/</span><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Se jalosia me pon(e) falsa casone,/</span><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Non posso contra la fortuna rea.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f12.json#xywh=637,413,1562,1339",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524185875",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:56:25",
+    "dcterms:modified" : "2024-04-19T12:56:25",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Altra vindicta non quero che rasone/Che la vertu sera l'eschusa mya/Ben qu'el pensare, dolore me sya/El no se passa cussi de legero.",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Altra vindicta non quero che rasone/Che la vertu sera l'eschusa mya/Ben qu'el pensare, dolore me sya/El no se passa cussi de legero.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f12.json#xywh=1303,1420,854,285",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524185875",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:56:25",
+    "dcterms:modified" : "2024-04-19T12:56:25",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Altra vindicta non quero che rasone/Che la vertu sera l'eschusa mya/Ben qu'el pensare, dolore me sya/El no se passa cussi de legero.",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Altra vindicta non quero che rasone/Che la vertu sera l'eschusa mya/Ben qu'el pensare, dolore me sya/El no se passa cussi de legero.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f12.json#xywh=1303,1420,854,285",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524275569",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:57:55",
+    "dcterms:modified" : "2024-04-19T12:57:55",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">A tollere grando suspecto del mal pensare/Ma solo prego dio justo seignore/Que abia pieta de me pura donzela.",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">A tollere grando suspecto del mal pensare/Ma solo prego dio justo seignore/Que abia pieta de me pura donzela.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f12.json#xywh=796,1761,1091,237",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524275569",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:57:55",
+    "dcterms:modified" : "2024-04-19T12:57:55",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">A tollere grando suspecto del mal pensare/Ma solo prego dio justo seignore/Que abia pieta de me pura donzela.",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">A tollere grando suspecto del mal pensare/Ma solo prego dio justo seignore/Que abia pieta de me pura donzela.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f12.json#xywh=796,1761,1091,237",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524309557",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T12:58:29",
+    "dcterms:modified" : "2024-04-19T12:58:29",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Contratenor. Ben lo sa dio",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif; background-color: #fafafa;\">Contratenor. Ben lo sa dio</span></p>"
+    },
+    "on" : "https://example.com/iiif/canvas/f12.json#xywh=1057,2073,1105,317",
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<span style=\"color: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524486158",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:01:26",
+    "dcterms:modified" : "2024-04-19T13:01:26",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Que piu non stago en chesto purgator(i)o/Tranquillata enver di me fortuna.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Que piu non stago en chesto purgator(i)o/Tranquillata enver di me fortuna.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f14.json#xywh=1243,1798,896,229",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<p class=\"MsoNormal\" "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524486158",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:01:26",
+    "dcterms:modified" : "2024-04-19T13:01:26",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Que piu non stago en chesto purgator(i)o/Tranquillata enver di me fortuna.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Que piu non stago en chesto purgator(i)o/Tranquillata enver di me fortuna.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f14.json#xywh=1243,1798,896,229",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<p class=\"MsoNormal\" "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524516746",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:01:56",
+    "dcterms:modified" : "2024-04-19T13:01:56",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor.<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Dona gentile (h)e",
+      "format" : "text/html",
+      "chars" : "<p>Contratenor.<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Dona gentile (h)e</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f14.json#xywh=1119,2084,1013,339",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Contratenor.<span style=\"font-family: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524516746",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:01:56",
+    "dcterms:modified" : "2024-04-19T13:01:56",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor.<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Dona gentile (h)e",
+      "format" : "text/html",
+      "chars" : "<p>Contratenor.<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Dona gentile (h)e</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f14.json#xywh=1119,2084,1013,339",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Contratenor.<span style=\"font-family: "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524744624",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:05:44",
+    "dcterms:modified" : "2024-04-19T13:07:15",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">O preciosa gemma, o fior de margarita,/Tu sie quela che tene la mya vita/<span lang=\"EN-US\">In tua guardia de no[n] my far morire.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">O preciosa gemma, o fior de margarita,/Tu sie quela che tene la mya vita/<span lang=\"EN-US\">In tua guardia de no[n] my far morire.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f18.json#xywh=689,377,1466,1419",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<p class=\"MsoNormal\" "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524744624",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:05:44",
+    "dcterms:modified" : "2024-04-19T13:07:15",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">O preciosa gemma, o fior de margarita,/Tu sie quela che tene la mya vita/<span lang=\"EN-US\">In tua guardia de no[n] my far morire.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">O preciosa gemma, o fior de margarita,/Tu sie quela che tene la mya vita/<span lang=\"EN-US\">In tua guardia de no[n] my far morire.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f18.json#xywh=689,377,1466,1419",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "<p class=\"MsoNormal\" "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524769873",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:06:09",
+    "dcterms:modified" : "2024-04-19T13:07:50",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">La mya vita in dolorosi guay finiere/Perche ansi crudela soy en verso de my/Tu scey ben che mirando el toy[bel] viso/Tu my feste [de ty] enamorare.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">La mya vita in dolorosi guay finiere/Perche ansi crudela soy en verso de my/Tu scey ben che mirando el toy[bel] viso/Tu my feste [de ty] enamorare.</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f18.json#xywh=1072,1742,1024,273",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Lyrics"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524769873",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:06:09",
+    "dcterms:modified" : "2024-04-19T13:07:50",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">La mya vita in dolorosi guay finiere/Perche ansi crudela soy en verso de my/Tu scey ben che mirando el toy[bel] viso/Tu my feste [de ty] enamorare.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">La mya vita in dolorosi guay finiere/Perche ansi crudela soy en verso de my/Tu scey ben che mirando el toy[bel] viso/Tu my feste [de ty] enamorare.</p>"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f18.json#xywh=1072,1742,1024,273",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Lyrics"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524819956",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:06:59",
+    "dcterms:modified" : "2024-04-19T13:06:59",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor. O preciosa gemma",
+      "format" : "text/html",
+      "chars" : "<p>Contratenor. O preciosa gemma</p>"
+    },
+    "on" : "https://example.com/iiif/canvas/f18.json#xywh=1068,2045,1083,361",
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Contratenor. O preciosa gemma"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524903714",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:08:23",
+    "dcterms:modified" : "2024-04-19T13:08:23",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor. O preciosa gemma/Tu sie quela",
+      "format" : "text/html",
+      "chars" : "<p>Tenor. O preciosa gemma/Tu sie quela</p>"
+    },
+    "on" : "https://example.com/iiif/canvas/f19.json#xywh=179,445,1445,1022",
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tenor. O "
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524941724",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:09:01",
+    "dcterms:modified" : "2024-04-19T13:09:01",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tu sie quela.",
+      "format" : "text/html",
+      "chars" : "<p>Tu sie quela.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f19.json#xywh=148,1645,1487,729",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tu sie quela."
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1713524941724",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-04-19T13:09:01",
+    "dcterms:modified" : "2024-04-19T13:09:01",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tu sie quela.",
+      "format" : "text/html",
+      "chars" : "<p>Tu sie quela.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    } ],
+    "on" : "https://example.com/iiif/canvas/f19.json#xywh=148,1645,1487,729",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "label" : "Tu sie quela."
   } ],
   "@id" : "",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
