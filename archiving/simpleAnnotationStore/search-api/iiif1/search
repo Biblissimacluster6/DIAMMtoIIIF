@@ -1,8 +1,7 @@
 {
-  "startIndex" : 0,
-  "within" : {
-    "total" : 60,
-    "@type" : "sc:Layer"
+  "context": "http://iiif.io/api/presentation/2/context.json",
+  "@id: "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/simpleAnnotationStore/search-api/iiif1/search",
+  "@type" : "sc:Layer"
   },
   "@type" : "sc:AnnotationList",
   "resources" : [ {
