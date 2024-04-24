@@ -47,7 +47,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://example.com/iiif/canvas/f0.json",
+          "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/test",
           "@type": "sc:Canvas",
           "label": "Canvas 0",
           "metadata": [
