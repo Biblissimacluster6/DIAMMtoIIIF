@@ -1,0 +1,57 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Canvas",
+  "@id": "https://d.lib.ncsu.edu/collections/canvas/segPap_003",
+  "width": 6099,
+  "height": 8599,
+  "label": "[1]",
+  "seeAlso": [
+    {
+      "@id": "https://ocr.lib.ncsu.edu/ocr/se/segPap_003/segPap_003.hocr",
+      "format": "text/vnd.hocr+html",
+      "profile": "https://github.com/kba/hocr-spec/blob/master/hocr-spec.md",
+      "label": "hOCR"
+    },
+    {
+      "@id": "https://ocr.lib.ncsu.edu/ocr/se/segPap_003/segPap_003.txt",
+      "format": "text/plain",
+      "label": "plain text OCR"
+    }
+  ],
+  "images": [
+    {
+      "@id": "https://d.lib.ncsu.edu/collections/canvas/segPap_003/image",
+      "@type": "oa:Annotation",
+      "on": "https://d.lib.ncsu.edu/collections/canvas/segPap_003",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_003/full/1170,/0/default.jpg",
+        "width": 6099,
+        "height": 8599,
+        "service": {
+          "profile": "http://iiif.io/api/image/2/level2.json",
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_003"
+        },
+        "@type": "dctypes:Image"
+      }
+    }
+  ],
+  "otherContent": [
+    {
+      "@id": "https://ocr.lib.ncsu.edu/ocr/se/segPap_003/segPap_003-annotation-list-word.json",
+      "@type": "sc:AnnotationList",
+      "label": "Text of this page (word level)"
+    },
+    {
+      "@id": "https://ocr.lib.ncsu.edu/ocr/se/segPap_003/segPap_003-annotation-list-line.json",
+      "@type": "sc:AnnotationList",
+      "label": "Text of this page (line level)"
+    },
+    {
+      "@id": "https://ocr.lib.ncsu.edu/ocr/se/segPap_003/segPap_003-annotation-list-paragraph.json",
+      "@type": "sc:AnnotationList",
+      "label": "Text of this page (paragraph level)"
+    }
+  ]
+}
