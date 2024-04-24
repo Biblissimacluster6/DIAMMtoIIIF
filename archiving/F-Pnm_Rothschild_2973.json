@@ -6,7 +6,7 @@
   "service": {
     "label" : "search something",
     "profile": "http://iiif.io/api/search/0/search",
-    "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/test",
+    "@id": "https://demos-dev.biblissima.fr/simpleAnnotationStore/search-api/678cbcb023e3ccee2c406fd9236908c8/search",
     "@context": "http://iiif.io/api/search/0/context.json"
 },
   "metadata": [
@@ -47,7 +47,7 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/test",
+          "@id": "https://example.com/iiif/canvas/f0.json",
           "@type": "sc:Canvas",
           "label": "Canvas 0",
           "metadata": [
