@@ -6,7 +6,7 @@
   "service": {
     "label" : "search something",
     "profile": "http://iiif.io/api/search/0/search",
-    "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/search",
+    "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/search.json",
     "@context": "http://iiif.io/api/search/0/context.json"
 },
   "metadata": [
