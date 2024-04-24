@@ -20,12 +20,12 @@
   ],
   "images": [
     {
-      "@id": "https://d.lib.ncsu.edu/collections/canvas/segPap_003/image",
+      "@id": "https://example.com/iiif/canvas/f1.json",
       "@type": "oa:Annotation",
       "on": "https://d.lib.ncsu.edu/collections/canvas/segPap_003",
       "motivation": "sc:painting",
       "resource": {
-        "@id": "https://iiif.lib.ncsu.edu/iiif/segPap_003/full/1170,/0/default.jpg",
+        "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525044884/f1/full/full/0/default.jpg",
         "width": 6099,
         "height": 8599,
         "service": {
