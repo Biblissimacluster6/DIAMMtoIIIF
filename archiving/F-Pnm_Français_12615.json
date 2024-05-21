@@ -66,8 +66,8 @@
               "value": "None"
             }
           ],
-          "height": "3900",
-          "width": "2635",
+          "height": 3900,
+          "width": 2635,
           "images": [
             {
               "@type": "oa:Annotation",
