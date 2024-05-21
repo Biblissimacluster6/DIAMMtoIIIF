@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://example.com/iiif/manifest.json",
+  "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Fran%C3%A7ais_12615.json",
   "@type": "sc:Manifest",
   "label": "F-Pnm Fran\u00e7ais 12615 (Chansonnier Noailles)",
   "metadata": [
