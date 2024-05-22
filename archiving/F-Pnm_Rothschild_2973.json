@@ -916,6 +916,12 @@
               },
               "on": "https://example.com/iiif/canvas/f13.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList4.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -977,6 +983,12 @@
               },
               "on": "https://example.com/iiif/canvas/f14.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList5.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1038,6 +1050,12 @@
               },
               "on": "https://example.com/iiif/canvas/f15.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList6.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1099,6 +1117,12 @@
               },
               "on": "https://example.com/iiif/canvas/f16.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList7.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1160,6 +1184,12 @@
               },
               "on": "https://example.com/iiif/canvas/f17.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList8.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1221,6 +1251,12 @@
               },
               "on": "https://example.com/iiif/canvas/f18.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList9.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1282,6 +1318,12 @@
               },
               "on": "https://example.com/iiif/canvas/f19.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList10.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1343,6 +1385,12 @@
               },
               "on": "https://example.com/iiif/canvas/f20.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList11.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1404,6 +1452,12 @@
               },
               "on": "https://example.com/iiif/canvas/f21.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList12.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1465,6 +1519,12 @@
               },
               "on": "https://example.com/iiif/canvas/f22.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList13.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1526,6 +1586,12 @@
               },
               "on": "https://example.com/iiif/canvas/f23.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList14.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1587,6 +1653,12 @@
               },
               "on": "https://example.com/iiif/canvas/f24.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList15.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1648,6 +1720,12 @@
               },
               "on": "https://example.com/iiif/canvas/f25.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList16.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1709,6 +1787,12 @@
               },
               "on": "https://example.com/iiif/canvas/f26.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList17.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1770,6 +1854,12 @@
               },
               "on": "https://example.com/iiif/canvas/f27.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList18.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1831,6 +1921,12 @@
               },
               "on": "https://example.com/iiif/canvas/f28.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList19.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
@@ -1892,6 +1988,12 @@
               },
               "on": "https://example.com/iiif/canvas/f29.json"
             }
+          ],
+          "otherContent": [
+            {
+              "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList20.json",
+              "@type": "sc:AnnotationList"
+             }
           ]
         },
         {
