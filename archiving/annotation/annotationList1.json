@@ -113,13 +113,13 @@
     "dcterms:modified" : "2024-04-15T16:23:38",
     "resource" : [ {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Hora cridar «oyme» posso ben yo",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor. Hora cridar «oyme»",
       "format" : "text/html",
       "chars" : "<p>Hora cridar «oyme» posso ben yo</p>"
     }, {
       "@type" : "oa:Tag",
       "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
-      "chars" : "Contratenor"
+      "chars" : "Contratenor. Hora cridar «oyme»"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
