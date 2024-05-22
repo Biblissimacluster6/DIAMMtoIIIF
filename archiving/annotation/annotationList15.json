@@ -1,0 +1,78 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1716301931382",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-05-21T16:32:11",
+    "dcterms:modified" : "2024-05-21T16:32:11",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Vede(a) quest(a) alma afflicta et tapinella /&nbsp;(de na fare) Che per te sola [languisse et] se defasse.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Vede(a) quest(a) alma afflicta et tapinella /&nbsp;(de na fare) Che per te sola [languisse et] se defasse.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=677,504,1489,1043"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M676.54864,503.72967h744.7201v0h744.7201v521.60407v521.60407h-744.7201h-744.7201v-521.60407z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bbec48b4-2bff-45a1-916a-7b3a56ebeabe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f24.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1716302008763",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-05-21T16:33:28",
+    "dcterms:modified" : "2024-05-21T16:34:10",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor. Vede aquesta alma",
+      "format" : "text/html",
+      "chars" : "<p>Contratenor. Vede aquesta alma</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1141,2080,1052,321"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1140.51853,2079.8005h525.9421v0h525.9421v160.70807v160.70807h-525.9421h-525.9421v-160.70807z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a23a685a-0d87-4026-9122-ff93ceea21ab\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"23.79904\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f24.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/48f9b26637550a12f6e1cf119eaf4a22.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
