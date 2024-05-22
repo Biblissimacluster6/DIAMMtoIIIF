@@ -1,0 +1,42 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1716301453937",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-05-21T16:24:13",
+    "dcterms:modified" : "2024-05-21T16:24:13",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">[C] hiara fontana de belli costumi /&nbsp;Dentro la quale se vede ogne vertu /O clara luce de myo core, tu, /&nbsp;Sola, my poy dar(e) morte et salute.\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">&nbsp;",
+      "format" : "text/html",
+      "chars" : "<p>Tenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">[C] hiara fontana de belli costumi /&nbsp;</span>Dentro la quale se vede ogne vertu /O clara luce de myo core, tu, /&nbsp;Sola, my poy dar(e) morte et salute.</p>\n<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">&nbsp;</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=161,450,1428,1448"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M161.49641,449.88397h714.19079v0h714.19079v724.01435v724.01435h-714.19079h-714.19079v-724.01435z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2c3162b0-ba1b-4897-a6f5-0b2b550cda74\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f21.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/69e8ba3b80183f672ab3217b339e81ec.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
