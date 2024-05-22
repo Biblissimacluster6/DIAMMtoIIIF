@@ -1,0 +1,114 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1716302273767",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-05-21T16:37:53",
+    "dcterms:modified" : "2024-05-21T16:37:53",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Ay lasso me dolente, deyo finire /&nbsp;<span lang=\"EN-US\">Per ben servire (h)e lealment' amare.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Ay lasso me dolente, deyo finire /&nbsp;<span lang=\"EN-US\">Per ben servire (h)e lealment' amare.</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=771,533,1394,1006"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M770.71531,533.47847h697.12201v0h697.12201v502.76316v502.76316h-697.12201h-697.12201v-502.76316z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_602b17f8-eda5-41ee-b4c2-c92b704796ae\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f28.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1716302294441",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-05-21T16:38:14",
+    "dcterms:modified" : "2024-05-21T16:38:14",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Secorime [oramai] del myo langore. /&nbsp;Cour de cor(e) myo, non me la[s]sar morire.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm; font-size: 12pt; font-family: 'Times New Roman', serif;\">Secorime [oramai] del myo langore. /&nbsp;Cour de cor(e) myo, non me la[s]sar morire.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=973,1866,1148,180"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M973.00718,1866.22488h574.16029v0h574.16029v90.24641v90.24641h-574.16029h-574.16029v-90.24641z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f7fa957d-eaa5-4f28-947f-0d84b651f67c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f28.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1716302326412",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-05-21T16:38:46",
+    "dcterms:modified" : "2024-05-21T16:38:46",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor. Ay lasso me",
+      "format" : "text/html",
+      "chars" : "<p>Contratenor. Ay lasso me</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1191,2121,984,346"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1190.97581,2120.7496h491.87453v0h491.87453v172.91919v172.91919h-491.87453h-491.87453v-172.91919z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2de7510f-9fc1-4af5-9276-a2ee8c6cbb78\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f28.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/a2a80cd6a78f2b9a0da23c1404c0c944.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
