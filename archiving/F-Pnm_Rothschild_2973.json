@@ -2596,7 +2596,7 @@
             {
               "@id": "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/annotation/annotationList29.json",
               "@type": "sc:AnnotationList"
-          ]
+          ],
         },
         {
           "@id": "https://example.com/iiif/canvas/f39.json",
