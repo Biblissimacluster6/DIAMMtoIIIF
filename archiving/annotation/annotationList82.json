@@ -1,0 +1,114 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721201386116",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T09:29:46",
+    "dcterms:modified" : "2024-07-17T09:29:46",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Tout a par moy affin qu&rsquo;on ne me voye,/<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Si desplaisant que plus je ne pourroye,/Je me tiens seul comme une ame [...]",
+      "format" : "text/html",
+      "chars" : "<p>Tenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Tout a par moy affin qu&rsquo;on ne me voye,/</span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Si desplaisant que plus je ne pourroye,/Je me tiens seul comme une ame [...]</span></p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=151,424,1469,1030"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M151.21056,423.99599h734.41578v0h734.41578v514.83021v514.83021h-734.41578h-734.41578v-514.83021z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d46bfa16-d87c-4ce7-8bf1-a8a2cb97f490\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f91.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721201416245",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T09:30:16",
+    "dcterms:modified" : "2024-07-17T09:30:16",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Pens&eacute;s quel deul mon desplaisir m&rsquo;envoye,/Car j&rsquo;ay des maulx ass&eacute;s et grant montjoye/Tant que ne craing que brief je ne me occye;",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Pens&eacute;s quel deul mon desplaisir m&rsquo;envoye,/Car j&rsquo;ay des maulx ass&eacute;s et grant montjoye/Tant que ne craing que brief je ne me occye;</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=178,1460,1324,239"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M177.56083,1460.43984h661.95254v0h661.95254v119.5762v119.5762h-661.95254h-661.95254v-119.5762z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_624e4977-037a-4b3d-a5da-56ee535f4d20\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f91.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721201453461",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T09:30:53",
+    "dcterms:modified" : "2024-07-17T09:30:53",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 12pt; font-size: 12pt; font-family: 'Times New Roman', serif;\">Si despiaisant que plus je ne pourroye,/Je me tiens seul comme une ame esbaye.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 12pt; font-size: 12pt; font-family: 'Times New Roman', serif;\">Si despiaisant que plus je ne pourroye,/Je me tiens seul comme une ame esbaye.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=166,1740,1426,677"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M166.04011,1739.73737h712.76768v0h712.76768v338.41236v338.41236h-712.76768h-712.76768v-338.41236z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5abbc290-5909-4808-8a68-e1ab294e0015\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f91.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/c7ecc5d9b7b27db00a623d39d894e3ab.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

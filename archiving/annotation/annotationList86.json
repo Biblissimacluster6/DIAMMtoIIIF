@@ -1,0 +1,78 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721201944800",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T09:39:04",
+    "dcterms:modified" : "2024-07-17T09:39:04",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Ma bouche rit et [...]/Mon &oelig;ul s&rsquo;esjoye [...]/Qu&rsquo;il eut le bien [...]/Et le plaisir qui la mort [...]/Sans reconfort qui m&rsquo;ayde ne sequeure",
+      "format" : "text/html",
+      "chars" : "<p>Tenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Ma bouche rit et [...]/</span>Mon &oelig;ul s&rsquo;esjoye [...]/Qu&rsquo;il eut le bien [...]/Et le plaisir qui la mort [...]/Sans reconfort qui m&rsquo;ayde ne sequeure</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=182,428,1412,1306"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M181.95254,428.3877h705.86965v0h705.86965v653.16912v653.16912h-705.86965h-705.86965v-653.16912z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cfa76fa0-c8e6-4d4e-8ab0-8dc479c1d8de\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f95.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721202018615",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T09:40:18",
+    "dcterms:modified" : "2024-07-17T09:40:18",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">[...] pens&eacute;e pleure,/<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Qu&rsquo;il eut le bien [...]/Et le plaisir [...]/Sans reconfort [...]",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">[...] pens&eacute;e pleure,/</span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Qu&rsquo;il eut le bien [...]/Et le plaisir [...]/Sans reconfort [...]</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=151,1746,1469,665"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M151.21056,1745.90107h734.41578v0h734.41578v332.5742v332.5742h-734.41578h-734.41578v-332.5742z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_231c04ef-1b43-4690-8e25-c06669ca92cd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f95.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/a2a28aefb88b46467b5a026e7942ee6d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

@@ -1,0 +1,114 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721203908595",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T10:11:48",
+    "dcterms:modified" : "2024-07-17T10:11:48",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Adieu Dijon [...]/<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Esp&eacute;rant grace [...]",
+      "format" : "text/html",
+      "chars" : "<p>Tenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Adieu Dijon [...]/</span><span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Esp&eacute;rant grace [...]</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=129,437,1473,700"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M129.25201,437.17112h736.61163v0h736.61163v350.14104v350.14104h-736.61163h-736.61163v-350.14104z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_28c5a382-0b74-433e-b83d-bf97c1622b01\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f117.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721203946913",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T10:12:26",
+    "dcterms:modified" : "2024-07-17T10:12:26",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 12pt; font-size: 12pt; font-family: 'Times New Roman', serif;\">Le d&eacute;partir de vous tant fort me blesse/Pour la grant joye donc j&rsquo;ay trouv&eacute; largesse/Jouer, galler tout le jour et la nuyt/Faire grant chere tousjours menant grant bruit/Mais maintenant puisqu&rsquo;il faut que je cesse,/<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Adieu [...]",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 12pt; font-size: 12pt; font-family: 'Times New Roman', serif;\">Le d&eacute;partir de vous tant fort me blesse/Pour la grant joye donc j&rsquo;ay trouv&eacute; largesse/Jouer, galler tout le jour et la nuyt/Faire grant chere tousjours menant grant bruit/Mais maintenant puisqu&rsquo;il faut que je cesse,/<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Adieu [...]</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Lyrics",
+      "chars" : "Lyrics"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=151,1149,1377,349"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M151.21056,1148.62834h688.30281v0h688.30281v174.47259v174.47259h-688.30281h-688.30281v-174.47259z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d4124926-a9a4-4ab1-a1ed-fc780961b6c0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f117.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721203965842",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T10:12:45",
+    "dcterms:modified" : "2024-07-17T10:12:45",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Esp&eacute;rant grace de ma chere maistresse.",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Esp&eacute;rant grace de ma chere maistresse.</span></p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=129,1750,1157,446"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M129.25201,1750.29278h578.51003v0h578.51003v222.78142v222.78142h-578.51003h-578.51003v-222.78142z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_78c5d830-d46e-4d85-b1fa-998c280feb8e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f117.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/59c2acaebce3c98d5d10cd426a92b302.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

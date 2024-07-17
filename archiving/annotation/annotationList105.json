@@ -1,0 +1,78 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721203653162",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T10:07:33",
+    "dcterms:modified" : "2024-07-17T10:07:33",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Adieu vous dy l&rsquo;espoir de ma jonesse,/Adieu, adieu le tr&eacute;sor de liesse,<span style=\"font-size: 12pt; font-family: 'MS Mincho';\">/<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">H&eacute;las! adieu, mon soulas et d&eacute;duit",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Adieu vous dy l&rsquo;espoir de ma jonesse,/Adieu, adieu le tr&eacute;sor de liesse,</span><span style=\"font-size: 12pt; font-family: 'MS Mincho';\">/</span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">H&eacute;las! adieu, mon soulas et d&eacute;duit</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=700,455,1509,1030"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M700.40107,454.61497h754.63636v0h754.63636v515.24599v515.24599h-754.63636h-754.63636v-515.24599z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_95831340-62ca-42d1-850c-2dd385928a2e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f114.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721203677185",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T10:07:57",
+    "dcterms:modified" : "2024-07-17T10:07:57",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Adieu vous dy l&rsquo;espoir [...]",
+      "format" : "text/html",
+      "chars" : "<p>Contratenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Adieu vous dy l&rsquo;espoir [...]</span></p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1055,2055,1155,397"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1055.05348,2054.98396h577.31016v0h577.31016v198.2754v198.2754h-577.31016h-577.31016v-198.2754z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_93d79950-c1fe-425e-9760-30699d73bd2f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f114.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/f2a24f777e69c7a98fdf6eb425f8b07b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

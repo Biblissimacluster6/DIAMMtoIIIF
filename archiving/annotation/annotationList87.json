@@ -1,0 +1,78 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721202066436",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T09:41:06",
+    "dcterms:modified" : "2024-07-17T09:41:06",
+    "resource" : [ {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Superius",
+      "chars" : "Superius"
+    }, {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 12pt; font-size: 12pt; font-family: 'Times New Roman', serif;\">Ha! cuer pervers, faulsaire et mensongier,/Dictes comment av&eacute;s os&eacute; songier<span style=\"font-family: 'MS Mincho';\"> /De ainsi faulser ce que m&rsquo;av&eacute;s promis?/Puisqu&rsquo;en ce point, vous vous vol&eacute;s vengier,/Pens&eacute;s bientost de ma vie abregier,/Vivre ne puis au point ou m&rsquo;avez mis.",
+      "format" : "text/html",
+      "chars" : "<p class=\"MsoNormal\" style=\"margin: 0cm 0cm 12pt; font-size: 12pt; font-family: 'Times New Roman', serif;\">Ha! cuer pervers, faulsaire et mensongier,/Dictes comment av&eacute;s os&eacute; songier<span style=\"font-family: 'MS Mincho';\"> /</span>De ainsi faulser ce que m&rsquo;av&eacute;s promis?/Puisqu&rsquo;en ce point, vous vous vol&eacute;s vengier,/Pens&eacute;s bientost de ma vie abregier,/Vivre ne puis au point ou m&rsquo;avez mis.</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=755,455,1452,1066"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M754.96524,454.61497h725.82086v0h725.82086v532.97861v532.97861h-725.82086h-725.82086v-532.97861z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c4191d39-e4f9-4ab1-8fb2-9bc155fc1465\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f96.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721202148984",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T09:42:28",
+    "dcterms:modified" : "2024-07-17T09:42:28",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Ha! cuer pervers, [...]/<span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Di-[...]/<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Puisqu&rsquo;en ce point, vous vous vol&eacute;s",
+      "format" : "text/html",
+      "chars" : "<p>Contratenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Ha! cuer pervers, [...]/</span><span style=\"font-size: 12pt; font-family: 'Times New Roman', serif;\">Di-[...]/</span><span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Puisqu&rsquo;en ce point, vous vous vol&eacute;s</span></p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1158,2033,1060,450"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1158.38235,2032.81818h530.20989v0h530.20989v224.87433v224.87433h-530.20989h-530.20989v-224.87433z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6af80a7a-230d-44df-9040-74f9a1a07d30\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f96.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/5db7d5841c3d85d39de70b500213473d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
