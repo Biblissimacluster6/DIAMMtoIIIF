@@ -36,6 +36,42 @@
     } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721209185229",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-07-17T11:39:45",
+    "dcterms:modified" : "2024-07-17T11:39:45",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Residuum tenoris. Et pour all&eacute;ger mon martire/Ce que s&ccedil;avez du vouloir d'elle.",
+      "format" : "text/html",
+      "chars" : "<p>Residuum tenoris. Et pour all&eacute;ger mon martire/Ce que s&ccedil;avez du vouloir d'elle.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "https://raw.githubusercontent.com/Biblissimacluster6/DIAMMtoIIIF/main/archiving/F-Pnm_Rothschild_2973.json",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=189,448,1427,807"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1616.39522,448.1504h-713.65383v0h-713.65383v403.57353v403.57353h713.65383h713.65383v-403.57353z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_861200a2-23ec-48a0-a1cb-37e7c61a82a7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://example.com/iiif/canvas/f137.json"
+    } ],
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
   } ],
   "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/060e9e94865b378458a83efd2a6d2805.json",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
