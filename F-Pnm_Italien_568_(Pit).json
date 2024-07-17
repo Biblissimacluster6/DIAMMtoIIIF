@@ -17858,6 +17858,10 @@
           "label": "Canvas 292",
           "metadata": [
             {
+              "label": "Work number",
+              "value": "1"
+            },  
+            {
               "label": "Work title",
               "value": "'Et in terra pax [Gloria]'"
             },
@@ -17876,6 +17880,30 @@
             {
               "label": "Composer",
               "value": "'Firenze, Gherardello da (ca. 1320\u2013ca. 1363)'"
+            },
+            {
+              "label": "Work number",
+              "value": "2"
+            },
+           {
+              "label": "Work title",
+              "value": "\"Je languis d'aimer mort\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "132v"
+            },
+            {
+              "label": "Folio end",
+              "value": "133r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -17919,6 +17947,10 @@
           "label": "Canvas 293",
           "metadata": [
             {
+              "label": "Work number",
+              "value": "1"
+            },  
+            {
               "label": "Work title",
               "value": "'Et in terra pax [Gloria]'"
             },
@@ -17937,6 +17969,30 @@
             {
               "label": "Composer",
               "value": "'Firenze, Gherardello da (ca. 1320\u2013ca. 1363)'"
+            },
+            {
+              "label": "Work number",
+              "value": "2"
+            },
+           {
+              "label": "Work title",
+              "value": "\"Je languis d'aimer mort\""
+            },
+            {
+              "label": "Genre",
+              "value": "'Chanson'"
+            },
+            {
+              "label": "Folio start",
+              "value": "132v"
+            },
+            {
+              "label": "Folio end",
+              "value": "133r"
+            },
+            {
+              "label": "Composer",
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -17981,19 +18037,19 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "\"Je languis d'aimer mort\""
+              "value": "'Patrem omnipotentem [Credo]'"
             },
             {
               "label": "Genre",
-              "value": "'Chanson'"
+              "value": "'Credo (patrem omnipotentem)', 'Mass Ordinary'"
             },
             {
               "label": "Folio start",
-              "value": "132v"
+              "value": "133v"
             },
             {
               "label": "Folio end",
-              "value": "133r"
+              "value": "136r"
             },
             {
               "label": "Composer",
@@ -18042,19 +18098,19 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "\"Je languis d'aimer mort\""
+              "value": "'Patrem omnipotentem [Credo]'"
             },
             {
               "label": "Genre",
-              "value": "'Chanson'"
+              "value": "'Credo (patrem omnipotentem)', 'Mass Ordinary'"
             },
             {
               "label": "Folio start",
-              "value": "132v"
+              "value": "133v"
             },
             {
               "label": "Folio end",
-              "value": "133r"
+              "value": "136r"
             },
             {
               "label": "Composer",
@@ -18347,23 +18403,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'Patrem omnipotentem [Credo]'"
+              "value": "'Sanctus'"
             },
             {
               "label": "Genre",
-              "value": "'Credo (patrem omnipotentem)', 'Mass Ordinary'"
+              "value": "'Mass Ordinary', 'Sanctus & Benedictus'"
             },
             {
               "label": "Folio start",
-              "value": "133v"
+              "value": "136v"
             },
             {
               "label": "Folio end",
-              "value": "136r"
+              "value": "137r"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Firenze, Lorenzo da (\u2013ca. 1373)'"
             }
           ],
           "height": 1000,
@@ -18408,23 +18464,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'Patrem omnipotentem [Credo]'"
+              "value": "'Sanctus'"
             },
             {
               "label": "Genre",
-              "value": "'Credo (patrem omnipotentem)', 'Mass Ordinary'"
+              "value": "'Mass Ordinary', 'Sanctus & Benedictus'"
             },
             {
               "label": "Folio start",
-              "value": "133v"
+              "value": "136v"
             },
             {
               "label": "Folio end",
-              "value": "136r"
+              "value": "137r"
             },
             {
               "label": "Composer",
-              "value": "'Anonymous'"
+              "value": "'Firenze, Lorenzo da (\u2013ca. 1373)'"
             }
           ],
           "height": 1000,
@@ -18469,23 +18525,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'Sanctus'"
+              "value": "'Agnus Dei'"
             },
             {
               "label": "Genre",
-              "value": "'Mass Ordinary', 'Sanctus & Benedictus'"
+              "value": "'Agnus Dei', 'Mass Ordinary'"
             },
             {
               "label": "Folio start",
-              "value": "136v"
+              "value": "137v"
             },
             {
               "label": "Folio end",
-              "value": "137r"
+              "value": "137v"
             },
             {
               "label": "Composer",
-              "value": "'Firenze, Lorenzo da (\u2013ca. 1373)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -18530,23 +18586,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'Sanctus'"
+              "value": "'Benedicamus Domino'"
             },
             {
               "label": "Genre",
-              "value": "'Mass Ordinary', 'Sanctus & Benedictus'"
+              "value": "'Benedicamus Domino', 'Motet'"
             },
             {
               "label": "Folio start",
-              "value": "136v"
+              "value": "138r"
             },
             {
               "label": "Folio end",
-              "value": "137r"
+              "value": "138r"
             },
             {
               "label": "Composer",
-              "value": "'Firenze, Lorenzo da (\u2013ca. 1373)'"
+              "value": "'Firenze, Paolo da (ca. 1355–ca. 1436)'"
             }
           ],
           "height": 1000,
@@ -18591,23 +18647,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "None"
+              "value": "\"Girand' un bel falcone\""
             },
             {
               "label": "Genre",
-              "value": "None"
+              "value": "'Italian secular', 'Madrigal (trecento)'"
             },
             {
               "label": "Folio start",
-              "value": "None"
+              "value": "138v"
             },
             {
               "label": "Folio end",
-              "value": "None"
+              "value": "139r"
             },
             {
               "label": "Composer",
-              "value": "None"
+              "value": "'Firenze, Andrea da' or 'Firenze, Paolo da (ca. 1355\u2013ca. 1436)'"
             }
           ],
           "height": 1000,
@@ -18652,23 +18708,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "'Benedicamus Domino'"
+              "value": "\"Girand' un bel falcone\""
             },
             {
               "label": "Genre",
-              "value": "'Benedicamus Domino', 'Motet'"
+              "value": "'Italian secular', 'Madrigal (trecento)'"
             },
             {
               "label": "Folio start",
-              "value": "138r"
+              "value": "138v"
             },
             {
               "label": "Folio end",
-              "value": "138r"
+              "value": "139r"
             },
             {
               "label": "Composer",
-              "value": "'Firenze, Paolo da (ca. 1355\u2013ca. 1436)'"
+              "value": "'Firenze, Andrea da' or 'Firenze, Paolo da (ca. 1355\u2013ca. 1436)'"
             }
           ],
           "height": 1000,
@@ -18713,23 +18769,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "\"Girand' un bel falcone\""
+              "value": "\"Se 'l mie fallir\""
             },
             {
               "label": "Genre",
-              "value": "'Italian secular', 'Madrigal (trecento)'"
+              "value": "'Italian secular'"
             },
             {
               "label": "Folio start",
-              "value": "138v"
+              "value": "139v"
             },
             {
               "label": "Folio end",
-              "value": "139r"
+              "value": "140v"
             },
             {
               "label": "Composer",
-              "value": "'Firenze, Andrea da' or 'Firenze, Paolo da (ca. 1355\u2013ca. 1436)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -18774,23 +18830,23 @@
           "metadata": [
             {
               "label": "Work title",
-              "value": "\"Girand' un bel falcone\""
+              "value": "\"Se 'l mie fallir\""
             },
             {
               "label": "Genre",
-              "value": "'Italian secular', 'Madrigal (trecento)'"
+              "value": "'Italian secular'"
             },
             {
               "label": "Folio start",
-              "value": "138v"
+              "value": "139v"
             },
             {
               "label": "Folio end",
-              "value": "139r"
+              "value": "140v"
             },
             {
               "label": "Composer",
-              "value": "'Firenze, Andrea da' or 'Firenze, Paolo da (ca. 1355\u2013ca. 1436)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 1000,
@@ -18847,7 +18903,7 @@
             },
             {
               "label": "Folio end",
-              "value": "140r"
+              "value": "140V"
             },
             {
               "label": "Composer",
@@ -18895,20 +18951,24 @@
           "label": "Canvas 309",
           "metadata": [
             {
+              "label": "Other",
+              "value": "Guidonian hand"
+            }, 
+            {
               "label": "Work title",
-              "value": "\"Se 'l mie fallir\""
+              "value": "None"
             },
             {
               "label": "Genre",
-              "value": "'Italian secular'"
+              "value": "None"
             },
             {
               "label": "Folio start",
-              "value": "139v"
+              "value": "141r"
             },
             {
               "label": "Folio end",
-              "value": "140r"
+              "value": "141r"
             },
             {
               "label": "Composer",
