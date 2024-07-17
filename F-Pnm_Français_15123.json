@@ -2423,7 +2423,7 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f32/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f33/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
@@ -2434,12 +2434,12 @@
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f32/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f33/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f32",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f33",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -2496,7 +2496,7 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f33/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f34/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
@@ -2507,12 +2507,12 @@
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f33/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f34/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f33",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f34",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -2569,23 +2569,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f34/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f35/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f34",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f35",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f34/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f35/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f34",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f35",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -2642,7 +2642,7 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f35/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f36/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
@@ -2653,12 +2653,12 @@
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f35/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f36/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f35",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f36",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -2715,18 +2715,18 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f36/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f37/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f36",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f37",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f36/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f37/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
@@ -2788,7 +2788,7 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f37/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f38/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
@@ -2799,12 +2799,12 @@
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f37/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f38/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f37",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f38",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -2861,7 +2861,7 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f38/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f39/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
@@ -2872,12 +2872,12 @@
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f38/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f39/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f38",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f39",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -2934,23 +2934,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f39/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f40/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f39",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f40",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f39/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f40/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f39",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f40",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -3007,23 +3007,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f40/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f41/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f40",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f41",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f40/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f41/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f40",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f41",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -3080,23 +3080,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f41/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f42/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f41",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f42",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f41/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f42/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f41",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f42",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -3153,23 +3153,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f42/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f43/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f42",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f43",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f42/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f43/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f42",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f43",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -3226,23 +3226,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f43/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f44/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f43",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f44",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f43/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f44/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f43",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f44",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -3299,23 +3299,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f44/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f45/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f44",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f45",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f44/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f45/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f44",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f45",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -3372,79 +3372,6 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f45/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f45",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "item": [
-                  {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f45/full/full/0/default.jpg",
-                    "@type": "dctypes:Image",
-                    "format": "image/jpeg",
-                    "service": {
-                      "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f45",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  }
-                ]
-              },
-              "on": "https://example.com/iiif/canvas/f45.json"
-            }
-          ]
-        },
-        {
-          "@id": "https://example.com/iiif/canvas/f46.json",
-          "@type": "sc:Canvas",
-          "label": "Canvas 46",
-          "metadata": [
-            {
-              "label": "Work title first view",
-              "value": "'Entre Paris et Saint Quentin'"
-            },
-            {
-              "label": "Folio start first view",
-              "value": "41v"
-            },
-            {
-              "label": "Folio end first view",
-              "value": "43r"
-            },
-            {
-              "label": "Composer first view",
-              "value": "'Anonymous'"
-            },
-            {
-              "label": "Work title second view",
-              "value": "'Entre Paris et Saint Quentin'"
-            },
-            {
-              "label": "Folio start second view",
-              "value": "41v"
-            },
-            {
-              "label": "Folio end second view",
-              "value": "43r"
-            },
-            {
-              "label": "Composer second view",
-              "value": "'Anonymous'"
-            }
-          ],
-          "height": 2900,
-          "width": 3700,
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@type": "oa:Choice",
-                "default": {
                   "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f46/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
@@ -3467,14 +3394,14 @@
                   }
                 ]
               },
-              "on": "https://example.com/iiif/canvas/f46.json"
+              "on": "https://example.com/iiif/canvas/f45.json"
             }
           ]
         },
         {
-          "@id": "https://example.com/iiif/canvas/f47.json",
+          "@id": "https://example.com/iiif/canvas/f46.json",
           "@type": "sc:Canvas",
-          "label": "Canvas 47",
+          "label": "Canvas 46",
           "metadata": [
             {
               "label": "Work title first view",
@@ -3540,46 +3467,46 @@
                   }
                 ]
               },
-              "on": "https://example.com/iiif/canvas/f47.json"
+              "on": "https://example.com/iiif/canvas/f46.json"
             }
           ]
         },
         {
-          "@id": "https://example.com/iiif/canvas/f48.json",
+          "@id": "https://example.com/iiif/canvas/f47.json",
           "@type": "sc:Canvas",
-          "label": "Canvas 48",
+          "label": "Canvas 47",
           "metadata": [
             {
               "label": "Work title first view",
-              "value": "'Resjois toy terre de France /  Rex pacificus magnificatus'"
+              "value": "'Entre Paris et Saint Quentin'"
             },
             {
               "label": "Folio start first view",
-              "value": "43v"
+              "value": "41v"
             },
             {
               "label": "Folio end first view",
-              "value": "45r"
+              "value": "43r"
             },
             {
               "label": "Composer first view",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Anonymous'"
             },
             {
               "label": "Work title second view",
-              "value": "'Resjois toy terre de France /  Rex pacificus magnificatus'"
+              "value": "'Entre Paris et Saint Quentin'"
             },
             {
               "label": "Folio start second view",
-              "value": "43v"
+              "value": "41v"
             },
             {
               "label": "Folio end second view",
-              "value": "45r"
+              "value": "43r"
             },
             {
               "label": "Composer second view",
-              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+              "value": "'Anonymous'"
             }
           ],
           "height": 2900,
@@ -3613,14 +3540,14 @@
                   }
                 ]
               },
-              "on": "https://example.com/iiif/canvas/f48.json"
+              "on": "https://example.com/iiif/canvas/f47.json"
             }
           ]
         },
         {
-          "@id": "https://example.com/iiif/canvas/f49.json",
+          "@id": "https://example.com/iiif/canvas/f48.json",
           "@type": "sc:Canvas",
-          "label": "Canvas 49",
+          "label": "Canvas 48",
           "metadata": [
             {
               "label": "Work title first view",
@@ -3686,6 +3613,79 @@
                   }
                 ]
               },
+              "on": "https://example.com/iiif/canvas/f48.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://example.com/iiif/canvas/f49.json",
+          "@type": "sc:Canvas",
+          "label": "Canvas 49",
+          "metadata": [
+            {
+              "label": "Work title first view",
+              "value": "'Resjois toy terre de France /  Rex pacificus magnificatus'"
+            },
+            {
+              "label": "Folio start first view",
+              "value": "43v"
+            },
+            {
+              "label": "Folio end first view",
+              "value": "45r"
+            },
+            {
+              "label": "Composer first view",
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+            },
+            {
+              "label": "Work title second view",
+              "value": "'Resjois toy terre de France /  Rex pacificus magnificatus'"
+            },
+            {
+              "label": "Folio start second view",
+              "value": "43v"
+            },
+            {
+              "label": "Folio end second view",
+              "value": "45r"
+            },
+            {
+              "label": "Composer second view",
+              "value": "'Busnoys, Antoine (ca. 1430\u20131492)'"
+            }
+          ],
+          "height": 2900,
+          "width": 3700,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@type": "oa:Choice",
+                "default": {
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f50/full/full/0/default.jpg",
+                  "@type": "dctypes:Image",
+                  "format": "image/jpeg",
+                  "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f50",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                  }
+                },
+                "item": [
+                  {
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f50/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                      "@context": "http://iiif.io/api/image/2/context.json",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f50",
+                      "profile": "http://iiif.io/api/image/2/level2.json"
+                    }
+                  }
+                ]
+              },
               "on": "https://example.com/iiif/canvas/f49.json"
             }
           ]
@@ -3737,23 +3737,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f50/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f51/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f50",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f51",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f50/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f51/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f50",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f51",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -3810,23 +3810,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f51/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f52/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f51",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f52",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f51/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f52/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f51",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f52",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -3883,23 +3883,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f52/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f53/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f52",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f53",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f52/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f53/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f52",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f53",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -3956,23 +3956,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f53/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f54/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f53",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f54",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f53/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f54/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f53",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f54",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
@@ -4029,23 +4029,23 @@
               "resource": {
                 "@type": "oa:Choice",
                 "default": {
-                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f54/full/full/0/default.jpg",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f55/full/full/0/default.jpg",
                   "@type": "dctypes:Image",
                   "format": "image/jpeg",
                   "service": {
                     "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f54",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f55",
                     "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 },
                 "item": [
                   {
-                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f54/full/full/0/default.jpg",
+                    "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f55/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                       "@context": "http://iiif.io/api/image/2/context.json",
-                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f54",
+                      "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007335q/f55",
                       "profile": "http://iiif.io/api/image/2/level2.json"
                     }
                   }
