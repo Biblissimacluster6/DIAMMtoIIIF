@@ -1,19 +1,19 @@
 {
   "@type" : "sc:AnnotationList",
   "resources" : [ {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1716305440542",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721206803845",
     "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-05-21T17:30:40",
-    "dcterms:modified" : "2024-05-21T17:30:40",
+    "dcterms:created" : "2024-07-17T11:00:03",
+    "dcterms:modified" : "2024-07-17T11:00:03",
     "resource" : [ {
-      "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
-      "chars" : "Tenor"
-    }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "Tenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Nostra fortuna/O quanto caro<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">O quanto caro [...]",
+      "http://dev.llgc.org.uk/sas/full_text" : "[...] martire./Ce que s&ccedil;avez du vouloir d'elle.",
       "format" : "text/html",
-      "chars" : "<p>Tenor.&nbsp;<span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">Nostra fortuna/O quanto caro</span><span style=\"font-family: 'Times New Roman', serif; font-size: 12pt;\">O quanto caro [...]</span></p>"
+      "chars" : "<p>[...] martire./Ce que s&ccedil;avez du vouloir d'elle.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
+      "chars" : "Contratenor"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
@@ -25,31 +25,31 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=126,418,1476,646"
+          "value" : "xywh=160,1654,1438,749"
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M126.13158,418.44856h737.76734v0h737.76734v323.21292v323.21292h-737.76734h-737.76734v-323.21292z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f905428b-46cc-418e-80b6-ad5096c82d3e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M159.99398,1653.67513h719.04479v0h719.04479v374.29545v374.29545h-719.04479h-719.04479v-374.29545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e0e566b8-1082-46f2-bf85-eeed22616fd3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
-      "full" : "https://example.com/iiif/canvas/f47.json"
+      "full" : "https://example.com/iiif/canvas/f137.json"
     } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   }, {
-    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1716305452857",
+    "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/1721209185229",
     "@type" : "oa:Annotation",
-    "dcterms:created" : "2024-05-21T17:30:52",
-    "dcterms:modified" : "2024-05-21T17:30:52",
+    "dcterms:created" : "2024-07-17T11:39:45",
+    "dcterms:modified" : "2024-07-17T11:39:45",
     "resource" : [ {
-      "@type" : "oa:Tag",
-      "http://dev.llgc.org.uk/sas/full_text" : "Contratenor",
-      "chars" : "Contratenor"
-    }, {
       "@type" : "dctypes:Text",
-      "http://dev.llgc.org.uk/sas/full_text" : "",
+      "http://dev.llgc.org.uk/sas/full_text" : "Residuum tenoris. Et pour all&eacute;ger mon martire/Ce que s&ccedil;avez du vouloir d'elle.",
       "format" : "text/html",
-      "chars" : ""
+      "chars" : "<p>Residuum tenoris. Et pour all&eacute;ger mon martire/Ce que s&ccedil;avez du vouloir d'elle.</p>"
+    }, {
+      "@type" : "oa:Tag",
+      "http://dev.llgc.org.uk/sas/full_text" : "Tenor",
+      "chars" : "Tenor"
     } ],
     "on" : [ {
       "@type" : "oa:SpecificResource",
@@ -61,18 +61,18 @@
         "@type" : "oa:Choice",
         "default" : {
           "@type" : "oa:FragmentSelector",
-          "value" : "xywh=110,1739,1106,336"
+          "value" : "xywh=189,448,1427,807"
         },
         "item" : {
           "@type" : "oa:SvgSelector",
-          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M110.41388,1738.73565h553.08433v0h553.08433v168.0006v168.0006h-553.08433h-553.08433v-168.0006z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_aef71905-7dc1-4449-8231-74f7bbf7f012\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1616.39522,448.1504h-713.65383v0h-713.65383v403.57353v403.57353h713.65383h713.65383v-403.57353z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_861200a2-23ec-48a0-a1cb-37e7c61a82a7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
         }
       },
-      "full" : "https://example.com/iiif/canvas/f47.json"
+      "full" : "https://example.com/iiif/canvas/f137.json"
     } ],
     "motivation" : [ "oa:commenting", "oa:tagging" ],
     "@context" : "http://iiif.io/api/presentation/2/context.json"
   } ],
-  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/a276d25ac14dcfbb753999a189f7426e.json",
+  "@id" : "https://demos-dev.biblissima.fr/simpleAnnotationStore/annotation/list/060e9e94865b378458a83efd2a6d2805.json",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }
